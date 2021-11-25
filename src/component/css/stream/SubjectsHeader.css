@@ -27,12 +27,12 @@
 
 @media only screen and (max-width: 500px) {
     .subjectBox{
-        margin:0;
+        margin:4px 0px;
     }
 
 
     .subjectName{
-        padding: 1rem;
+        padding: 0.8rem;
         font-size: 0.8rem;
         margin: 0 12px;
     }

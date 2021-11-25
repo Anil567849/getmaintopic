@@ -20,7 +20,7 @@ function ChooseSubject() {
     return (
         <div style={{width : '100vw', display : 'flex', justifyContent:"center"}}>
             <div className="chooseSubject" style={css}>
-                <h1 style={{textAlign : 'center'}}>Select Subject Above</h1>
+                <h2 style={{textAlign : 'center'}}>Select Subject Above</h2>
             </div>
         </div>
     )
