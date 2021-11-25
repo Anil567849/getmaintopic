@@ -1,7 +1,7 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
 import '../css/header/Header.css';
-import Avatar from '@material-ui/core/avatar';
+// import Avatar from '@material-ui/core/avatar';
 function Header() {
     return (
         <nav className="navbar">
@@ -23,7 +23,7 @@ function Header() {
                         <li><Link to="/stream/ba">BA</Link></li> */}
                     </ul>
                 </div>
-                <Avatar/>
+                {/* <Avatar/> */}
             </div>
 
         </nav>
