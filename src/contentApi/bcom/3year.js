@@ -473,27 +473,27 @@ export const bcom3__4ENTRE = [
 export const bcom3__5INTER = [
   {
     chapterNo: "1",
-    chapterName: "Internation Business - An Introduction",
+    chapterName: "International Business - An Introduction",
     chapterTopics: [
-      "Meaning of Internation Business",
-      "Defination of Internation Business",
-      "Characteristic of Internation Business",
-      "Scope of Internation Business",
-      // "Process of Internation Business",
-      // "Management of 5Ps of Internation Business",
-      "Difference between Domestic Bussines and Internation Business",
-      // "Major Decisions in Internation Business",
-      "Meaning of Internation Trade",
-      "Defination of Internation Trade",
+      "Meaning of International Business",
+      "Defination of International Business",
+      "Characteristic of International Business",
+      "Scope of International Business",
+      // "Process of International Business",
+      "Management of 5Ps of International Business",
+      "Difference between Domestic Bussines and International Business",
+      // "Major Decisions in International Business",
+      "Meaning of International Trade",
+      "Defination of International Trade",
       "Comparsion in Internal and Interanation Trade",
-      "Arguments Against a Separate Theory of International Trade",
+      // "Arguments Against a Separate Theory of International Trade",
       "Advantages of International Trade",
       "Disadvantages of International Trade",
       
       
       // 2021 question paper
       "What do you mean by International Business? ",
-      "Challenges in Internation Business",
+      "Challenges in International Business",
     ],
   },
   {
@@ -503,14 +503,14 @@ export const bcom3__5INTER = [
       "Meaning of Globalisation",
       "Defination of Globalisation",
       "Characteristic of Globalisation",
-      "Strategies of Globalisation",
-      "Factors for Growth of Globalisation",
-      "Measures Adopted for Globalisation in India",
-      "Effect of Globalisation on Developing Economy",
-      "Obstacle in Path of Globalisation",
-      "Need for Fair Globalisation",
-      "Political Impact of Globalisation",
-      "Glocalisation",
+      // "Strategies of Globalisation",
+      // "Factors for Growth of Globalisation",
+      // "Measures Adopted for Globalisation in India",
+      // "Effect of Globalisation on Developing Economy",
+      // "Obstacle in Path of Globalisation",
+      // "Need for Fair Globalisation",
+      // "Political Impact of Globalisation",
+      // "Glocalisation",
 
 
       // 2021 question paper
@@ -522,7 +522,7 @@ export const bcom3__5INTER = [
     chapterNo: "3",
     chapterName: "Modes of Entry into International Business",
     chapterTopics: [
-      "Meaning",
+      "Meaning o Modes of Entry into International Business",
       "Factors Affecting Selection of Entry Mode of International Business",
       "Modes of Entering into International Business",
       "Comparision of Trade Mode and Investment Mode",
@@ -533,7 +533,7 @@ export const bcom3__5INTER = [
     chapterNo: "4",
     chapterName: "International Business Environment",
     chapterTopics: [
-      "Meaning of Internation Business Environment",
+      "Meaning of International Business Environment",
       "Need for The Study of International Business Environment",
       "Types of International Business Environment",
       "International Economic Environment",
@@ -543,9 +543,9 @@ export const bcom3__5INTER = [
     chapterNo: "5",
     chapterName: "Classical Theory of International Trade",
     chapterTopics: [
-      "Theory of Comparative Costs",
-      "Critisism of Theory of Comparative Costs",
-      "Modification in The Theory of Comparative Costs",
+      // "Theory of Comparative Costs",
+      // "Critisism of Theory of Comparative Costs",
+      // "Modification in The Theory of Comparative Costs",
 
 
       // 2021 question paper
@@ -575,9 +575,9 @@ export const bcom3__5INTER = [
       "Concept of Protection (Commercial Policy)",
       "Methods of Protection (Commercial Policy)",
       "Which Method of Protection is Best? (Commercial Policy)",
-      "Argument for Protection",
-      "Argument Against Protection",
-      "Rationale of Protection Policy for Underdeveloped/Developing Countries",
+      // "Argument for Protection",
+      // "Argument Against Protection",
+      // "Rationale of Protection Policy for Underdeveloped/Developing Countries",
     ],
   },
 ];
