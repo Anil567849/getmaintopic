@@ -1,0 +1,48 @@
+.streamName{
+    text-align: center;
+    font-weight: 20px;
+    color: purple;
+    font-weight: 500;
+    padding: 10px;
+
+}
+
+.yearCardBox{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 6rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERY  */
+@media only screen and (max-width: 800px) {
+    .yearCardBox{
+        margin: 6rem 2rem;
+    }
+    
+}
+
+
+
+
+
+@media only screen and (max-width: 400px) {
+  
+    .yearCardBox{
+        margin-top: 4rem;
+        margin-left: 0.2rem;
+        margin-right: 0.2rem;
+        margin-bottom: 1rem;
+    }
+    
+    
+  } 

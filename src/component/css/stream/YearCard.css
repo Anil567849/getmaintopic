@@ -1,0 +1,70 @@
+.yearCard {
+  display: flex;
+  flex: 0.3;
+  height: 10rem;
+  padding: 2rem;
+  border-radius: 40px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  justify-content: center;
+  align-items: center;
+}
+
+.yearCard:hover {
+  box-shadow: 0 22px 16px 0 rgba(0, 0, 0, 0.2);
+}
+.yearCard a {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 100%;
+  color: purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* MEDIA QUERY  */
+@media only screen and (max-width: 800px) {
+  .yearCard a {
+    font-size: 1rem;
+  }  
+} 
+
+
+
+
+@media only screen and (max-width: 650px) {
+  .yearCard {
+    height: 4rem;
+  }
+  
+  .yearCard > a{
+    font-size: 0.8rem;
+  }
+  
+} 
+
+
+@media only screen and (max-width: 500px) {
+
+  .yearCard {
+    height: 1rem;
+    padding: 1rem;
+  }
+  
+  .yearCard > a {
+    font-size: 0.5rem;
+  }
+  
+} 

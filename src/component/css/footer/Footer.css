@@ -1,0 +1,16 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    background-color: #0A0A0A;
+    margin-top: 1rem;
+}
+
+
+.footer > span{
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
