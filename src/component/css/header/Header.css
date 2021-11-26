@@ -108,6 +108,7 @@
   .MuiAvatar-root {
     width: 30px !important;
     height: 30px !important;
+    padding-right: 2px;
   }
   
 

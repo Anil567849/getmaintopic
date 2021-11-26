@@ -48,8 +48,8 @@ export const bcom3__1GST = [
       // "Implementation of GST in India",
 
       // MID TERM 
-      "Silent Features of GST",
-      "Tax Structure in India After Implementaion of GST",
+      "Silent Features of GST*",
+      "Tax Structure in India After Implementaion of GST*",
     ],
   },
   {
@@ -64,7 +64,7 @@ export const bcom3__1GST = [
       // "Authorisation of Officiers of State or Union Territory as Proper Officer in Certain Circumstances (Section 6)",
       
       // MID TERM 
-      "Describe Administration Set Up GST",
+      "Describe Administration Set Up GST*",
     ],
   },
   {
@@ -76,7 +76,7 @@ export const bcom3__1GST = [
       // "Composites and Mixed Supplies",
       
       // MID TERM 
-      "Scope of Supply as per GST Law (Section 7)",
+      "Scope of Supply as per GST Law (Section 7)*",
       // SUB SECTION 
       "Normal or Taxable Supplies (Section 7(1))",
       "Non-Taxable Supplies (Section 7(2))",
@@ -94,7 +94,7 @@ export const bcom3__1GST = [
       // "Laibility of Pay GST",
 
       // MID TERM 
-      "Tax on Reverse Charge Basis (Section 9(3))",
+      "Tax on Reverse Charge Basis (Section 9(3))*",
 
       
       "Supply by Unregistrered Suppliers (Section 9(4))",
@@ -117,7 +117,7 @@ export const bcom3__1GST = [
       // "Penal Provision(sec(10(5))",
 
       // MID TERM 
-      "Define the Composition Scheme under GST.",
+      "Define the Composition Scheme under GST.*",
     ],
   },
 ];
@@ -128,7 +128,7 @@ export const bcom3__2MAC = [
     chapterName: "Nature and Scope of Management Accounting",
     chapterTopics: [
       "Meaning of Management Accounting",
-      "Defination of Management Accounting",
+      "Definition of Management Accounting",
       // "Nature of Management Accounting",
       "Importance of Management Accounting",
       // "Tools and Tech Used in Management Accounting",
@@ -139,9 +139,9 @@ export const bcom3__2MAC = [
       
       
       // 2021 question paper
-      "Feature of Management Accounting",
-      "Scope of Management Accounting",
-      "'Management Accouting is financial belt at its elastic point'. How far do you agree with this statement?",
+      "Feature of Management Accounting**",
+      "Scope of Management Accounting**",
+      "'Management Accouting is financial belt at its elastic point'. How far do you agree with this statement?**",
     ],
   },
   {
@@ -173,7 +173,7 @@ export const bcom3__2MAC = [
     chapterName: "Budgeting and Budgetary Control",
     chapterTopics: [
       "Meaning of Budget and Budgetary Control",
-      "Defination of Budgeting and Budgetary Control",
+      "Definition of Budgeting and Budgetary Control",
       // "Objectives of Budgetary Control",
       // "Precuations of Budgeting",
       "Comparision between Forecast and Budget",
@@ -184,10 +184,12 @@ export const bcom3__2MAC = [
       "Comparision between Fixed and Flexible Budget*",
 
       // 2021 question paper
-      "Zero Based Budgeting*",
-      "How Zero Based Budgeting is  different from Traditional Budgeting? What benefits occur from it?",
-      "Reciept and Payment Method (Do Numericals)*",
-      "Flexible Budget (Do Numericals)",
+      "Zero Based Budgeting**",
+      "How Zero Based Budgeting is  different from Traditional Budgeting? What benefits occur from it?**",
+      "Reciept and Payment Method (Do Numericals)**",
+
+      //MY
+      "Flexible Budget (Do Numericals)**",
     ],
   },
   {
@@ -195,19 +197,19 @@ export const bcom3__2MAC = [
     chapterName: "Standard Costing and Variance Analysis",
     chapterTopics: [
       "Meaning of Standard Costing",
-      "Defination of Standard Costing",
-      "Difference between Estimated Cost and Standard Cost*",
-      "Difference between Budgetary and Standard Costing*",
+      "Definition of Standard Costing",
+      "Difference between Estimated Cost and Standard Cost**",
+      "Difference between Budgetary and Standard Costing**",
       "Advatages of Standard Costing",
       "Limitation of Standard Costing",
       // "Procedure of Standard Costing",
       // "Standard Cost Card",
       "Meaning of Analysis of Variance",
       "Meaning of Labour Variance",
-      "Material Variance (All Formulae)*",
-      "Material Variance (Do Numericals)*",
-      "Labour Variance(All Formulae)",
-      "Labour Variance(Do Numericals)*",
+      "Material Variance (All Formulae)**",
+      "Material Variance (Do Numericals)**",
+      "Labour Variance(All Formulae)**",
+      "Labour Variance(Do Numericals)**",
       "Control Ratios*",
       "Efficiency Ratio*",
       "Activity Ratio*",
@@ -222,16 +224,16 @@ export const bcom3__2MAC = [
       "Meaning of Break Even Analysis",
 
       // 2021 question paper
-      "Break Even Point (short note)",
-      "P/V Ratio (short note)",
-      "Angle of Incidence. (short note)",                   
-      "Margin of Safety. (short note)",
-      "What is Absorption Costing?",
-      "Feature of Absorption costing.",
-      "Difference between Marginal Costing and Absorption Costing?",
-      "P/V ratio(Numericals).",
-      "Break-Even(Numericals).",
-      "Margin of Safety (Numericals).",
+      "Break Even Point (short note)**",
+      "P/V Ratio (short note)**",
+      "Angle of Incidence. (short note)**",       
+      "Margin of Safety. (short note)**",
+      "What is Absorption Costing?**",
+      "Feature of Absorption costing.**",
+      "Difference between Marginal Costing and Absorption Costing?**",
+      "P/V ratio(Numericals).**",
+      "Break-Even(Numericals).**",
+      "Margin of Safety (Numericals).**",
     ],
   },
   {
@@ -259,11 +261,11 @@ export const bcom3__2MAC = [
 
 
       // 2021 question paper
-      "Relevant and Irrelevant Costs (short note)",
-      "Sunk Cost (short note)",
-      "Differential Costs (short note)",
-      "Opportunity Cost (short note)",
-      "Marginal Cost (short note)",
+      "Relevant and Irrelevant Costs (short note)**",
+      "Sunk Cost (short note)**",
+      "Differential Costs (short note)**",
+      "Opportunity Cost (short note)**",
+      "Marginal Cost (short note)**",
     ],
   },
 ];
@@ -291,12 +293,12 @@ export const bcom3__3FMA = [
       
       
       // 2021 question paper
-      "Objectives of Financial Management",
-      "Scope of Financial Management",
+      "Objectives of Financial Management**",
+      "Scope of Financial Management**",
 
       // MID TERM 
-      "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return).",
-      "Calculate Net Present Value.",
+      "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return).*",
+      "Calculate Net Present Value.*",
     ],
   },
   {
@@ -308,9 +310,9 @@ export const bcom3__3FMA = [
       // "Double Your Money",
 
       // 2021 question paper
-      "Explain the Time Value Techniques used in Financial Decisions.",
-      "Compute future value (use of Compound Factor Table).",
-      "Compute Present value (use of Compound Factor Table)."
+      "Explain the Time Value Techniques used in Financial Decisions.*",
+      "Compute future value (use of Compound Factor Table).*",
+      "Compute Present value (use of Compound Factor Table)*."
     ],
   },
   {
@@ -326,7 +328,7 @@ export const bcom3__3FMA = [
       // "Measurement of Systematic Risk",
 
       // MID TERM 
-      "Difference between Systemetic and Unsystemic Risk.",
+      "Difference between Systemetic and Unsystemic Risk.*",
     ],
   },
   {
@@ -335,7 +337,9 @@ export const bcom3__3FMA = [
     chapterTopics: [
       "Meaning of Capital Asset Pricing Model",
       //MID TERM
-      "Elaborate CAPM (Capital Asset Pricing Model) of Finance.",
+      "Elaborate CAPM (Capital Asset Pricing Model) of Finance.*",
+
+      
       //MY
       "Capital Market Line (CML)",
       "Security Market Line (SML)",
@@ -353,8 +357,8 @@ export const bcom3__3FMA = [
       // "Multiple Growth Model",
 
       // 2021 question paper
-      "Explain the features of Bonds or Debentures.",
-      "Equity Cost of Capital (Numerical).",
+      "Explain the features of Bonds or Debentures.**",
+      "Equity Cost of Capital (Numerical).**",
     ],
   },
   {
@@ -371,9 +375,9 @@ export const bcom3__3FMA = [
       // "Limitation of Capital Budgeting",
 
       // 2021 question paper
-      "Explain the Risk and Uncertainty in Capital Budgeting.",
-      "What are the similarities and dissimilarities in NPV and IRR?",
-      "Present Value (Numerical)",
+      "Explain the Risk and Uncertainty in Capital Budgeting.**",
+      "What are the similarities and dissimilarities in NPV and IRR?**",
+      "Present Value (Numerical)**",
     ],
   },
 ];
@@ -383,7 +387,7 @@ export const bcom3__4ENTRE = [
     chapterNo: "1",
     chapterName: "Entrepreneur",
     chapterTopics: [
-      "Meaning, Concept and Defination of Entrepreneur",
+      "Meaning, Concept and Definition of Entrepreneur",
       "Characteristic of an Entrepreneur",
       "Function of an Entrepreneur",
       "types of an Entrepreneur",
@@ -393,15 +397,18 @@ export const bcom3__4ENTRE = [
     chapterNo: "2",
     chapterName: "Entrepreneurship",
     chapterTopics: [
-      // "Meaning, Concept and Defination of Entrepreneurship",
+
+      // 2021 question paper
+      "What do you mean by Entrepreneurship? Explain.**",
+
+
+      // MY 
+      // "Meaning, Concept and Definition of Entrepreneurship",
       "Difference between Entrepreneur and Entrepreneurship",
       // "Element of Entrepreneurship",
       "Determinent of Entrepreneurship",
       // "Need and Importance of Entrepreneurship",
       // "Role of an Entrepreneurship in Economic Development",
-
-      // 2021 question paper
-      "What do you mean by Entrepreneurship? Explain.",
     ],
   },
   {
@@ -426,31 +433,31 @@ export const bcom3__4ENTRE = [
       // "Important of Intrapreneurship",
 
       // 2021 question paper
-      "Dimensions of Entrepreneurship*",
+      "Dimensions of Entrepreneurship**",
     ],
   },
   {
     chapterNo: "5",
     chapterName: "Entrepreneurship and Micro, Small and Medium Entreprises",
     chapterTopics: [
-      "Meaning of MSME",
-      "Defination of MSME (2006, 2020)",
+      // "Meaning of MSME",
+      "Definition of MSME (2006, 2020)*",
       "Charateristic of MSME",
       // "Large Entreprises Growth and Problems",
       "Difference between Large and Small Scale Entrepreneurs",
 
 
       // 2021 question paper
-      "What do you mean by Small Scale Enterprise?",
+      "What do you mean by Small Scale Enterprise?**",
     ],
   },
   {
     chapterNo: "6",
     chapterName: "Family Business",
     chapterTopics: [
-      "Meaning of Business Group",
-      "Meaning of Family Business",
-      "Characteristic of Family Business",
+      // "Meaning of Business Group",
+      // "Meaning of Family Business",
+      // "Characteristic of Family Business",
       "Role of Family Business and Business Group in Indian Economy*",
       "Problem Faced by a Family Business*",
     ],
@@ -475,16 +482,16 @@ export const bcom3__5INTER = [
     chapterNo: "1",
     chapterName: "International Business - An Introduction",
     chapterTopics: [
-      "Meaning of International Business",
-      "Defination of International Business",
+      // "Meaning of International Business",
+      // "Definition of International Business",
       "Characteristic of International Business",
       "Scope of International Business",
       // "Process of International Business",
       "Management of 5Ps of International Business",
       "Difference between Domestic Bussines and International Business",
       // "Major Decisions in International Business",
-      "Meaning of International Trade",
-      "Defination of International Trade",
+      // "Meaning of International Trade",
+      // "Definition of International Trade",
       "Comparsion in Internal and Interanation Trade",
       // "Arguments Against a Separate Theory of International Trade",
       "Advantages of International Trade",
@@ -492,37 +499,41 @@ export const bcom3__5INTER = [
       
       
       // 2021 question paper
-      "What do you mean by International Business? ",
-      "Challenges in International Business",
+      "What do you mean by International Business? **",
+      "Challenges in International Business**",
     ],
   },
   {
     chapterNo: "2",
     chapterName: "Globalisation",
     chapterTopics: [
-      "Meaning of Globalisation",
-      "Defination of Globalisation",
-      "Characteristic of Globalisation",
-      // "Strategies of Globalisation",
+      // "Meaning of Globalisation",
+      // "Definition of Globalisation",
+      // "Characteristic of Globalisation",
+      "Strategies of Globalisation",
       // "Factors for Growth of Globalisation",
       // "Measures Adopted for Globalisation in India",
-      // "Effect of Globalisation on Developing Economy",
+      "Effect of Globalisation on Developing Economy",
       // "Obstacle in Path of Globalisation",
       // "Need for Fair Globalisation",
       // "Political Impact of Globalisation",
-      // "Glocalisation",
+      "Glocalisation",
 
+
+      // MY 
+      "Component of Globalisaton",
+      "Causes of Globalisaton",
 
       // 2021 question paper
-      "What is meant by Globalisation of Economy?",
-      "Explain component and causes of globalisation.",
+      "What is meant by Globalisation of Economy?**",
+      "Explain component and causes of globalisation.**",
     ],
   },
   {
     chapterNo: "3",
     chapterName: "Modes of Entry into International Business",
     chapterTopics: [
-      "Meaning o Modes of Entry into International Business",
+      // "Meaning of Modes of Entry into International Business",
       "Factors Affecting Selection of Entry Mode of International Business",
       "Modes of Entering into International Business",
       "Comparision of Trade Mode and Investment Mode",
@@ -533,32 +544,33 @@ export const bcom3__5INTER = [
     chapterNo: "4",
     chapterName: "International Business Environment",
     chapterTopics: [
-      "Meaning of International Business Environment",
+      // "Meaning of International Business Environment",
       "Need for The Study of International Business Environment",
       "Types of International Business Environment",
       "International Economic Environment",
+      "Component of International Business Evironment",
     ],
   },
   {
     chapterNo: "5",
     chapterName: "Classical Theory of International Trade",
     chapterTopics: [
-      // "Theory of Comparative Costs",
-      // "Critisism of Theory of Comparative Costs",
-      // "Modification in The Theory of Comparative Costs",
+      "Theory of Comparative Costs",
+      "Critisism of Theory of Comparative Costs",
+      "Modification in The Theory of Comparative Costs",
 
 
       // 2021 question paper
-      "Critically explain the classical theory of Intenational Trade.",
+      "Critically explain the classical theory of Intenational Trade.**",
     ],
   },
   {
     chapterNo: "6",
     chapterName: "Modern Theories of International Trade",
     chapterTopics: [
-      "Meaning",
-      "Assumptions of Theory",
-      "Explanation of Theory",
+      // "Meaning o Modern Theories of International Trade",
+      // "Assumptions of Theory",
+      // "Explanation of Theory",
       "Factor Price Equality",
       "Superiority of Ohlin Theory (Comparison between Classical and Modern Theory)",
       "Critisism of Factor Proportion Theory",
@@ -572,12 +584,114 @@ export const bcom3__5INTER = [
     chapterTopics: [
       "Meaning of Tariff and Non-Tariff Barriers",
       "Concept of Free Trade",
-      "Concept of Protection (Commercial Policy)",
+      // "Concept of Protection (Commercial Policy)",
       "Methods of Protection (Commercial Policy)",
-      "Which Method of Protection is Best? (Commercial Policy)",
-      // "Argument for Protection",
-      // "Argument Against Protection",
-      // "Rationale of Protection Policy for Underdeveloped/Developing Countries",
+      // "Which Method of Protection is Best? (Commercial Policy)",
+      "Argument for Protection",
+      "Argument Against Protection",
+      "Rationale of Protection Policy for Underdeveloped/Developing Countries",
+
+
+      // MY 
+      "Import Quota",
+      "Trade Embargo",
+      "Difference between Free Trade and Protection"
+    ],
+  },
+  {
+    chapterNo: "8",
+    chapterName: "Balance of Payment",
+    chapterTopics: [
+      "Meaning of Balance of Payments",
+      "Definitions of Balance of Payments",
+      "Feature of Balance of Payments",
+      // "Balance of Trade",
+      "Difference between Balance of Trade and Balance of Payments",
+      // "Forms of Balance of Payments",
+      // "Disequilibrium in Balance of Payments",
+      // "Causes of Disequilibrium in Balance of Payments",
+      // "Balance of Payments Always Balances",
+      // "Impact of Adverse Balance of Payments on Economy",
+      "Measures to Correct Adverse Balance of Payments",
+      "Importance of Balance of Payments",
+
+      //MY
+      "Main Items of Balance of Payments",
+      "Conponent of Balance of Payments",
+    ],
+  },
+  {
+    chapterNo: "9",
+    chapterName: "World Trade Organisation (WTO)",
+    chapterTopics: [
+      "Meaning and Establishment of WTO",
+      "Features of WTO",
+      "Objectives of WTO",
+      "Functions of WTO",
+    //   "Organisational Structure of WTO",
+      "Scope of WTO",
+      "WTO - Some Agreements/Code",
+      "WTO and India",
+    //   "Progress in Fulfilment of India's Commitment to WTO",
+    //   "Role of WTO in International Trade",
+      "Challenges before WTO",
+    //   "Doha Conference",
+    //   "Buenos Aires (Argentina) Eleventh Ministerial Conference",
+      "Difference between GATT and WTO",
+    ],
+  },
+  {
+    chapterNo: "10",
+    chapterName: "United Nations Conference on Trade and Development (UNCTAD)",
+    chapterTopics: [
+      "Meaning and Birth of UNCTAD",
+      "Organisational Structure of UNCTAD",
+      "Objectives of UNCTAD",
+      "Functions of UNCTAD",
+      "Achievements of UNCTAD",
+      "Failures of UNCTAD",
+      // "Recent Sessions of UNCTAD",
+    ],
+  },
+  {
+    chapterNo: "11",
+    chapterName: "International Commodity and Trading Agreement",
+    chapterTopics: [
+      "Meaning of International Commodity Agreement",
+      // "Objective of International Commodity Agreement",
+      // "Types of International Commodity Agreement",
+      "Role of International Commodity Agreement",
+      "Limitations of International Commodity Agreement",
+      "Main International Commodity Agreement",
+      "International Trade Agreement - GSP, GSTP, Counter Trade and Regional Trade",
+      "Meaning of Generalised System of Preferences (GSP)",
+      "Objectives of GSP",
+      "Working of GSP",
+      "Obstacle in Growth of GSP",
+      "Meaning of Global System of Trade Preferences - GSTP",
+      "Objectives of GSTP",
+      "Principles of GSTP",
+      // "Meaning of Counter Trade",
+      // "Advantages of Counter Trade",
+      // "Meaning of Regional Trade Agreements",
+      // "Objectives of Regional Trade Agreements",
+    ],
+  },
+  {
+    chapterNo: "12",
+    chapterName: "Regional Economic Integration",
+    chapterTopics: [
+      "Meaning of Regional Economic Group/Trading Blocs",
+      // "Objectives of Regional Economic Group",
+      // "Reasons for Growth of Regional Economic Group",
+      // "Types of Regional Economic Group",
+      // "Benefits/Opportunities of Regional Economic Group",
+      // "Limitations/Threat of Regional Economic Group",
+      // "India and Regional Economic Group",
+      "Integration Efforts in Asia, (SAARC, SAPTA, ASEAN, APTA)",
+      "Integration Efforts in North America, (NAFTA)",
+      "Integration Efforts in Europe, (EFTA)",
+      // "BRICS",
     ],
   },
 ];
@@ -597,9 +711,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning of Selling",
-      "Meaning of Personal Selling",
-      "What is the signnificance of personal selling to businessmen, customers and society?",
+      "Meaning of Selling**",
+      "Meaning of Personal Selling**",
+      "What is the signnificance of personal selling to businessmen, customers and society?**",
 
     ],
   },
@@ -643,9 +757,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning Careers in Selling",
-      "Advantages of Careers in Selling",
-      "Describe the benefits and challenges of selling career.",
+      "Meaning Careers in Selling**",
+      "Advantages of Careers in Selling**",
+      "Describe the benefits and challenges of selling career.**",
     ],
   },
   {
@@ -664,9 +778,9 @@ export const bcom3__6PER = [
 
 
       // 2021 question paper
-      "Discuss the various implications of Maslow's Hierarchy of needs theory for sales managers.",
-      "Explain the differet factors that affect the buying behaviour.(short note)",
-      "Describe the uses of buying motives in personal selling.(short note)",
+      "Discuss the various implications of Maslow's Hierarchy of needs theory for sales managers.**",
+      "Explain the differet factors that affect the buying behaviour.(short note)**",
+      "Describe the uses of buying motives in personal selling.(short note)**",
     ],
   },
   {
@@ -695,11 +809,11 @@ export const bcom3__6PER = [
       "AIDCA Theory of Selling",
       
       // 2021 question paper
-      "Meaning of Selling Process",
-      "Stages/Steps in Personal Selling",
-      "What is Pre-Approach and Approach? (short note)",
-      "What is sales presentation? (short note)",
-      "What is Closing Sale? (short note)",
+      "Meaning of Selling Process**",
+      "Stages/Steps in Personal Selling**",
+      "What is Pre-Approach and Approach? (short note)**",
+      "What is sales presentation? (short note)**",
+      "What is Closing Sale? (short note)**",
     ],
   },
   {
@@ -726,9 +840,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning of Sales Reports",
-      "Types of Sales Report",
-      "Importance of Sales Report",
+      "Meaning of Sales Reports**",
+      "Types of Sales Report**",
+      "Importance of Sales Report**",
       
     ]
   },
@@ -747,9 +861,9 @@ export const bcom3__6PER = [
       // "Code for Conduct for Employees of McDonald",
       
       // 2021 question paper
-      "Meaning of Sales Ethics",
-      "Defination of Sales Ethics",
-      "How ethics can be helpful in increasing sales? Explain.",
+      "Meaning of Sales Ethics**",
+      "Definition of Sales Ethics**",
+      "How ethics can be helpful in increasing sales? Explain.**",
 
     ],
   },
@@ -774,8 +888,8 @@ export const bcom3__6PER = [
 
 
       // 2021 question paper
-      "Discuss Distribution Network Reptionship importance in personal selling.",
-      "What is AIDA sale model.",
+      "Discuss Distribution Network Reptionship importance in personal selling.**",
+      "What is AIDA sale model.**",
     ],
   },
 ];
@@ -785,12 +899,12 @@ export const bcom3__7INDI = [
     chapterNo : "1",
     chapterName : "Main Topics",
     chapterTopics : [
-      "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency.",
-      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India.",
-      "Difference between planning commission and NITI Aayog (in term of function).",
-      "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve.",
-      "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine.",
-      "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector.",
+      "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency.*",
+      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India.*",
+      "Difference between planning commission and NITI Aayog (in term of function).*",
+      "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve.*",
+      "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine.*",
+      "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector.*",
     ]
   }
   /*
@@ -906,7 +1020,6 @@ export const bcom3__7INDI = [
 ];
 
 export const bcom3__8EOH = [
-  /*
   {
     chapterNo: "1",
     chapterName: "Natural Resources of Himachal Pradesh",
@@ -923,14 +1036,14 @@ export const bcom3__8EOH = [
     chapterName: "Demographic Trends in Himachal Pradesh",
     chapterTopics: [
       "Introduction",
-      "Size of Population",
-      "Growth of Population",
+      // "Size of Population",
+      // "Growth of Population",
       "Rural-Urban Population of HP",
       "Basic Components of Population Growth",
-      "Density of Population",
+      // "Density of Population",
       "Sex Ratio",
-      "Scheduled Caste and Scheduled Tribe Population",
-      "Workers Population",
+      // "Scheduled Caste and Scheduled Tribe Population",
+      // "Workers Population",
       "Regional Wise Population in HP",
       "Human Devlopment Index (HDI)",
     ],
@@ -942,7 +1055,7 @@ export const bcom3__8EOH = [
       "Meaning of State Income",
       "Per Capita Income",
       "Classification of Economic Activities",
-      "Growth Rate",
+      // "Growth Rate",
       "Features of State Income",
     ]
   },
@@ -952,12 +1065,18 @@ export const bcom3__8EOH = [
     chapterTopics: [
       "Feature of Budget",
       "Objectives of Budget",
-      "Types of Budget",
+      // "Types of Budget",
       "Receipts(Sources of Income)",
       "Public Expenditure",
       "Total Expenditure of HP",
-      "Fiscal Position of HP",
-      "Fiscal Liabilities of State Government",
+      // "Fiscal Position of HP",
+      // "Fiscal Liabilities of State Government",
+
+
+      //MID TERM
+      "What are the main features of Annual Budget 2021 of HP.*",
+
+      //MY
       "HP Budget of 2020-21",
     ],
   },
@@ -965,12 +1084,12 @@ export const bcom3__8EOH = [
     chapterNo: "5",
     chapterName: "Planning in Himachal Pradesh",
     chapterTopics: [
-      "Defination of Planning",
+      "Definition of Planning",
       "Objectives of Planning",
       "Organisational Structure of Planning Department",
-      "Plan Investment in HP",
-      "Achievements of Planning in HP",
-      "Failures of Planning in HP",
+      // "Plan Investment in HP",
+      // "Achievements of Planning in HP",
+      // "Failures of Planning in HP",
     ],
   },
   {
@@ -978,22 +1097,26 @@ export const bcom3__8EOH = [
     chapterName: "Agriculture and Horticulture",
     chapterTopics: [
       "A. AGRICULTURE",
-      "Agro-Climatic Conditions",
-      "Distribution of Land Holding",
-      "Irrigation",
-      "Agriculture Prodution",
+      // "Agro-Climatic Conditions",
+      // "Distribution of Land Holding",
+      // "Irrigation",
+      // "Agriculture Prodution",
       "Main Crops",
       "Importance of Agriculture in Economy of HP",
-      "Agriculture Productivity",
-      "Causes of Low Agriculture Productivity in HP",
-      "Remedies to Improve Agriculture Productivity and Production",
-      "Measures Taken by Government To Develop Agriculture",
+      // "Agriculture Productivity",
+      // "Causes of Low Agriculture Productivity in HP",
+      // "Remedies to Improve Agriculture Productivity and Production",
+      // "Measures Taken by Government To Develop Agriculture",
       "B. HORTICULTURE",
-      "Production of Fruits in HP",
+      // "Production of Fruits in HP",
       "Floriculture",
-      "Development of BeeKeeping",
+      // "Development of BeeKeeping",
       "Significance of Horticulture in the Economy of HP",
-      "Critical Appraisal of Govt Policies Toward Agriculture and Horticulture",
+      // "Critical Appraisal of Govt Policies Toward Agriculture and Horticulture",
+
+
+      // MID TERM
+      "What are the major agricultural issues/challenges of HP.*",
     ],
   },
   {
@@ -1005,31 +1128,29 @@ export const bcom3__8EOH = [
       "Diversification Outside Agriculture Sector",
     ],
   },
-  */
-
-
-
   {
-    chapterNo: "4",
-    chapterName: "State Finance",
+    chapterNo: "8",
+    chapterName: "Agriculture Marketing and Finance",
     chapterTopics: [
-      "What are the main features of Annual Budget 2021 of HP.",
+      "Meaning Agriculture Marketing",
+      "Agricultural Finance or Agricultural Credit ",
     ],
   },
-
   {
-    chapterNo: "6",
-    chapterName: "Agriculture and Horticulture",
+    chapterNo: "9",
+    chapterName: "Industrialistation and Labour Welfare Measures in HP",
     chapterTopics: [
-      "What are the major agricultural issues/challenges of HP.",
+      "Industrialistation in HP",
+      "Labour Welfare measures in HP",
+      "Skill Development Programs in HP",
     ],
   },
-
+  
   {
     chapterNo: "10",
     chapterName: "Hydropower and Environmental issues in HP",
     chapterTopics: [
-      "Write short note on Hydropower Potential of HP.",
+      "Write short note on Hydropower Potential of HP.*",
     ],
   },
 
@@ -1037,7 +1158,7 @@ export const bcom3__8EOH = [
     chapterNo: "11",
     chapterName: "Social Welfare programmers, Education and Health in HP",
     chapterTopics: [
-      "Name at least 10 social welfare schemes run by govt. of HP.",
+      "Name at least 10 social welfare schemes run by govt. of HP.*",
     ],
   },
 
@@ -1045,7 +1166,7 @@ export const bcom3__8EOH = [
     chapterNo: "12",
     chapterName: "Infrastructure of HP",
     chapterTopics: [
-      "What are the major infrastructural related issues/challenges of HP.",
+      "What are the major infrastructural related issues/challenges of HP.*",
     ],
   },
 
@@ -1053,7 +1174,7 @@ export const bcom3__8EOH = [
     chapterNo: "13",
     chapterName: "Tourism in HP",
     chapterTopics: [
-      "Briefly explain the Tourism Potential of HP.",
+      "Briefly explain the Tourism Potential of HP.*",
     ],
   },
 ];

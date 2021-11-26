@@ -18,10 +18,10 @@ function Disclamer() {
     return (
         <div style={css}>
             <h4>Disclaimer</h4>
-            <p>All the topic which are listed here of any stream is based on research of past question paper.</p>
-            <p>This Website is build to give to a quick guide to how to start and how to pick topic which is most important for exams.</p>
-            <p>All Students are directed to learn other topic outside of this website as well to get deeper understanding of sujects.</p>
-            <p>This is not sure that all question are listed here are 100% appear on current exams.</p>
+            <small>All the topic which are listed here of any stream is based on research of past question paper.</small>
+            <small>This Website is build to give to a quick guide to how to start and how to pick topic which is most important for exams.</small>
+            <small>All Students are directed to learn other topic outside of this website as well to get deeper understanding of sujects.</small>
+            <small>This is not sure that all question are listed here are 100% appear on current exams.</small>
         </div>
     )
 }
