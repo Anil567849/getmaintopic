@@ -90,12 +90,13 @@
 
 
 
-@media only screen and (max-width: 350px) {
-  .navbarLogo{
-    font-size: 0.8rem;
-  }
+@media only screen and (max-width: 400px) {
 
-  
+  .MuiAvatar-root {
+    width: 30px !important;
+    height: 30px !important;
+    margin-right: 4px !important;
+  }
 
 }
 
@@ -104,13 +105,7 @@
   .navbarLogo{
     font-size: 0.8rem;
     padding-right: 4px;
-  }
-  .MuiAvatar-root {
-    width: 30px !important;
-    height: 30px !important;
-    padding-right: 2px;
-  }
-  
+  }  
 
 }
 
