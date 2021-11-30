@@ -48,8 +48,8 @@ export const bcom3__1GST = [
       // "Implementation of GST in India",
 
       // MID TERM 
-      "Silent Features of GST*",
-      "Tax Structure in India After Implementaion of GST*",
+      "Silent Features of GST✔",
+      "Tax Structure in India After Implementaion of GST✔",
     ],
   },
   {
@@ -64,7 +64,7 @@ export const bcom3__1GST = [
       // "Authorisation of Officiers of State or Union Territory as Proper Officer in Certain Circumstances (Section 6)",
       
       // MID TERM 
-      "Describe Administration Set Up GST*",
+      "Describe Administration Set Up GST✔",
     ],
   },
   {
@@ -76,11 +76,11 @@ export const bcom3__1GST = [
       // "Composites and Mixed Supplies",
       
       // MID TERM 
-      "Scope of Supply as per GST Law (Section 7)*",
+      "Scope of Supply as per GST Law (Section 7)✔",
       // SUB SECTION 
       "Normal or Taxable Supplies (Section 7(1))",
       "Non-Taxable Supplies (Section 7(2))",
-      "Declared Supply of Goods and Services (Section 7(2))",
+      "Declared Supply of Goods and Services (Section 7(2))✔✔",
     ],
   },
   {
@@ -94,7 +94,7 @@ export const bcom3__1GST = [
       // "Laibility of Pay GST",
 
       // MID TERM 
-      "Tax on Reverse Charge Basis (Section 9(3))*",
+      "Tax on Reverse Charge Basis (Section 9(3))✔",
 
       
       "Supply by Unregistrered Suppliers (Section 9(4))",
@@ -117,7 +117,7 @@ export const bcom3__1GST = [
       // "Penal Provision(sec(10(5))",
 
       // MID TERM 
-      "Define the Composition Scheme under GST.*",
+      "Define the Composition Scheme under GST.✔",
     ],
   },
 ];
@@ -139,9 +139,9 @@ export const bcom3__2MAC = [
       
       
       // 2021 question paper
-      "Feature of Management Accounting**",
-      "Scope of Management Accounting**",
-      "'Management Accouting is financial belt at its elastic point'. How far do you agree with this statement?**",
+      "Feature of Management Accounting✔✔",
+      "Scope of Management Accounting✔✔",
+      "'Management Accouting is financial belt at its elastic point'. How far do you agree with this statement?✔✔",
     ],
   },
   {
@@ -179,17 +179,17 @@ export const bcom3__2MAC = [
       "Comparision between Forecast and Budget",
       "Advantages of Budgeting and Budgetary Control",
       "Limitation of Budgeting and Budgetary Control",
-      "Kinds Of Budgets*",
-      "Budget According to Fuctions*",
-      "Comparision between Fixed and Flexible Budget*",
+      "Kinds Of Budgets✔",
+      "Budget According to Fuctions✔",
+      "Comparision between Fixed and Flexible Budget✔",
 
       // 2021 question paper
-      "Zero Based Budgeting**",
-      "How Zero Based Budgeting is  different from Traditional Budgeting? What benefits occur from it?**",
-      "Reciept and Payment Method (Do Numericals)**",
+      "Zero Based Budgeting✔✔",
+      "How Zero Based Budgeting is  different from Traditional Budgeting? What benefits occur from it?✔✔",
+      "Reciept and Payment Method (Do Numericals)✔✔",
 
       //MY
-      "Flexible Budget (Do Numericals)**",
+      "Flexible Budget (Do Numericals)✔✔",
     ],
   },
   {
@@ -198,22 +198,22 @@ export const bcom3__2MAC = [
     chapterTopics: [
       "Meaning of Standard Costing",
       "Definition of Standard Costing",
-      "Difference between Estimated Cost and Standard Cost**",
-      "Difference between Budgetary and Standard Costing**",
+      "Difference between Estimated Cost and Standard Cost✔✔",
+      "Difference between Budgetary and Standard Costing✔✔",
       "Advatages of Standard Costing",
       "Limitation of Standard Costing",
       // "Procedure of Standard Costing",
       // "Standard Cost Card",
       "Meaning of Analysis of Variance",
       "Meaning of Labour Variance",
-      "Material Variance (All Formulae)**",
-      "Material Variance (Do Numericals)**",
-      "Labour Variance(All Formulae)**",
-      "Labour Variance(Do Numericals)**",
-      "Control Ratios*",
-      "Efficiency Ratio*",
-      "Activity Ratio*",
-      "Calender Ratio*",
+      "Material Variance (All Formulae)✔✔",
+      "Material Variance (Do Numericals)✔✔",
+      "Labour Variance(All Formulae)✔✔",
+      "Labour Variance(Do Numericals)✔✔",
+      "Control Ratios✔",
+      "Efficiency Ratio✔",
+      "Activity Ratio✔",
+      "Calender Ratio✔",
     ],
   },
   {
@@ -224,16 +224,16 @@ export const bcom3__2MAC = [
       "Meaning of Break Even Analysis",
 
       // 2021 question paper
-      "Break Even Point (short note)**",
-      "P/V Ratio (short note)**",
-      "Angle of Incidence. (short note)**",       
-      "Margin of Safety. (short note)**",
-      "What is Absorption Costing?**",
-      "Feature of Absorption costing.**",
-      "Difference between Marginal Costing and Absorption Costing?**",
-      "P/V ratio(Numericals).**",
-      "Break-Even(Numericals).**",
-      "Margin of Safety (Numericals).**",
+      "Break Even Point (short note)✔✔",
+      "P/V Ratio (short note)✔✔",
+      "Angle of Incidence. (short note)✔✔",       
+      "Margin of Safety. (short note)✔✔",
+      "What is Absorption Costing?✔✔",
+      "Feature of Absorption costing.✔✔",
+      "Difference between Marginal Costing and Absorption Costing?✔✔",
+      "P/V ratio(Numericals).✔✔",
+      "Break-Even(Numericals).✔✔",
+      "Margin of Safety (Numericals).✔✔",
     ],
   },
   {
@@ -261,11 +261,11 @@ export const bcom3__2MAC = [
 
 
       // 2021 question paper
-      "Relevant and Irrelevant Costs (short note)**",
-      "Sunk Cost (short note)**",
-      "Differential Costs (short note)**",
-      "Opportunity Cost (short note)**",
-      "Marginal Cost (short note)**",
+      "Relevant and Irrelevant Costs (short note)✔✔",
+      "Sunk Cost (short note)✔✔",
+      "Differential Costs (short note)✔✔",
+      "Opportunity Cost (short note)✔✔",
+      "Marginal Cost (short note)✔✔",
     ],
   },
 ];
@@ -293,12 +293,12 @@ export const bcom3__3FMA = [
       
       
       // 2021 question paper
-      "Objectives of Financial Management**",
-      "Scope of Financial Management**",
+      "Objectives of Financial Management✔✔",
+      "Scope of Financial Management✔✔",
 
       // MID TERM 
-      "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return).*",
-      "Calculate Net Present Value.*",
+      "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return).✔",
+      "Calculate Net Present Value.✔",
     ],
   },
   {
@@ -310,9 +310,9 @@ export const bcom3__3FMA = [
       // "Double Your Money",
 
       // 2021 question paper
-      "Explain the Time Value Techniques used in Financial Decisions.*",
-      "Compute future value (use of Compound Factor Table).*",
-      "Compute Present value (use of Compound Factor Table)*."
+      "Explain the Time Value Techniques used in Financial Decisions.✔",
+      "Compute future value (use of Compound Factor Table).✔",
+      "Compute Present value (use of Compound Factor Table)✔."
     ],
   },
   {
@@ -328,7 +328,7 @@ export const bcom3__3FMA = [
       // "Measurement of Systematic Risk",
 
       // MID TERM 
-      "Difference between Systemetic and Unsystemic Risk.*",
+      "Difference between Systemetic and Unsystemic Risk.✔",
     ],
   },
   {
@@ -337,7 +337,7 @@ export const bcom3__3FMA = [
     chapterTopics: [
       "Meaning of Capital Asset Pricing Model",
       //MID TERM
-      "Elaborate CAPM (Capital Asset Pricing Model) of Finance.*",
+      "Elaborate CAPM (Capital Asset Pricing Model) of Finance.✔",
 
       
       //MY
@@ -357,8 +357,8 @@ export const bcom3__3FMA = [
       // "Multiple Growth Model",
 
       // 2021 question paper
-      "Explain the features of Bonds or Debentures.**",
-      "Equity Cost of Capital (Numerical).**",
+      "Explain the features of Bonds or Debentures.✔✔",
+      "Equity Cost of Capital (Numerical).✔✔",
     ],
   },
   {
@@ -375,9 +375,9 @@ export const bcom3__3FMA = [
       // "Limitation of Capital Budgeting",
 
       // 2021 question paper
-      "Explain the Risk and Uncertainty in Capital Budgeting.**",
-      "What are the similarities and dissimilarities in NPV and IRR?**",
-      "Present Value (Numerical)**",
+      "Explain the Risk and Uncertainty in Capital Budgeting.✔✔",
+      "What are the similarities and dissimilarities in NPV and IRR?✔✔",
+      "Present Value (Numerical)✔✔",
     ],
   },
 ];
@@ -399,7 +399,7 @@ export const bcom3__4ENTRE = [
     chapterTopics: [
 
       // 2021 question paper
-      "What do you mean by Entrepreneurship? Explain.**",
+      "What do you mean by Entrepreneurship? Explain.✔✔",
 
 
       // MY 
@@ -433,7 +433,7 @@ export const bcom3__4ENTRE = [
       // "Important of Intrapreneurship",
 
       // 2021 question paper
-      "Dimensions of Entrepreneurship**",
+      "Dimensions of Entrepreneurship✔✔",
     ],
   },
   {
@@ -441,14 +441,14 @@ export const bcom3__4ENTRE = [
     chapterName: "Entrepreneurship and Micro, Small and Medium Entreprises",
     chapterTopics: [
       // "Meaning of MSME",
-      "Definition of MSME (2006, 2020)*",
+      "Definition of MSME (2006, 2020)✔",
       "Charateristic of MSME",
       // "Large Entreprises Growth and Problems",
       "Difference between Large and Small Scale Entrepreneurs",
 
 
       // 2021 question paper
-      "What do you mean by Small Scale Enterprise?**",
+      "What do you mean by Small Scale Enterprise?✔✔",
     ],
   },
   {
@@ -458,8 +458,8 @@ export const bcom3__4ENTRE = [
       // "Meaning of Business Group",
       // "Meaning of Family Business",
       // "Characteristic of Family Business",
-      "Role of Family Business and Business Group in Indian Economy*",
-      "Problem Faced by a Family Business*",
+      "Role of Family Business and Business Group in Indian Economy✔",
+      "Problem Faced by a Family Business✔",
     ],
   },
   {
@@ -499,8 +499,8 @@ export const bcom3__5INTER = [
       
       
       // 2021 question paper
-      "What do you mean by International Business? **",
-      "Challenges in International Business**",
+      "What do you mean by International Business? ✔✔",
+      "Challenges in International Business✔✔",
     ],
   },
   {
@@ -525,8 +525,8 @@ export const bcom3__5INTER = [
       "Causes of Globalisaton",
 
       // 2021 question paper
-      "What is meant by Globalisation of Economy?**",
-      "Explain component and causes of globalisation.**",
+      "What is meant by Globalisation of Economy?✔✔",
+      "Explain component and causes of globalisation.✔✔",
     ],
   },
   {
@@ -561,7 +561,7 @@ export const bcom3__5INTER = [
 
 
       // 2021 question paper
-      "Critically explain the classical theory of Intenational Trade.**",
+      "Critically explain the classical theory of Intenational Trade.✔✔",
     ],
   },
   {
@@ -711,9 +711,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning of Selling**",
-      "Meaning of Personal Selling**",
-      "What is the signnificance of personal selling to businessmen, customers and society?**",
+      "Meaning of Selling✔✔",
+      "Meaning of Personal Selling✔✔",
+      "What is the signnificance of personal selling to businessmen, customers and society?✔✔",
 
     ],
   },
@@ -757,9 +757,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning Careers in Selling**",
-      "Advantages of Careers in Selling**",
-      "Describe the benefits and challenges of selling career.**",
+      "Meaning Careers in Selling✔✔",
+      "Advantages of Careers in Selling✔✔",
+      "Describe the benefits and challenges of selling career.✔✔",
     ],
   },
   {
@@ -778,9 +778,9 @@ export const bcom3__6PER = [
 
 
       // 2021 question paper
-      "Discuss the various implications of Maslow's Hierarchy of needs theory for sales managers.**",
-      "Explain the differet factors that affect the buying behaviour.(short note)**",
-      "Describe the uses of buying motives in personal selling.(short note)**",
+      "Discuss the various implications of Maslow's Hierarchy of needs theory for sales managers.✔✔",
+      "Explain the differet factors that affect the buying behaviour.(short note)✔✔",
+      "Describe the uses of buying motives in personal selling.(short note)✔✔",
     ],
   },
   {
@@ -809,11 +809,11 @@ export const bcom3__6PER = [
       "AIDCA Theory of Selling",
       
       // 2021 question paper
-      "Meaning of Selling Process**",
-      "Stages/Steps in Personal Selling**",
-      "What is Pre-Approach and Approach? (short note)**",
-      "What is sales presentation? (short note)**",
-      "What is Closing Sale? (short note)**",
+      "Meaning of Selling Process✔✔",
+      "Stages/Steps in Personal Selling✔✔",
+      "What is Pre-Approach and Approach? (short note)✔✔",
+      "What is sales presentation? (short note)✔✔",
+      "What is Closing Sale? (short note)✔✔",
     ],
   },
   {
@@ -840,9 +840,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning of Sales Reports**",
-      "Types of Sales Report**",
-      "Importance of Sales Report**",
+      "Meaning of Sales Reports✔✔",
+      "Types of Sales Report✔✔",
+      "Importance of Sales Report✔✔",
       
     ]
   },
@@ -861,9 +861,9 @@ export const bcom3__6PER = [
       // "Code for Conduct for Employees of McDonald",
       
       // 2021 question paper
-      "Meaning of Sales Ethics**",
-      "Definition of Sales Ethics**",
-      "How ethics can be helpful in increasing sales? Explain.**",
+      "Meaning of Sales Ethics✔✔",
+      "Definition of Sales Ethics✔✔",
+      "How ethics can be helpful in increasing sales? Explain.✔✔",
 
     ],
   },
@@ -888,8 +888,8 @@ export const bcom3__6PER = [
 
 
       // 2021 question paper
-      "Discuss Distribution Network Reptionship importance in personal selling.**",
-      "What is AIDA sale model.**",
+      "Discuss Distribution Network Reptionship importance in personal selling.✔✔",
+      "What is AIDA sale model.✔✔",
     ],
   },
 ];
@@ -899,15 +899,14 @@ export const bcom3__7INDI = [
     chapterNo : "1",
     chapterName : "Main Topics",
     chapterTopics : [
-      "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency.*",
-      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India.*",
-      "Difference between planning commission and NITI Aayog (in term of function).*",
-      "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve.*",
-      "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine.*",
-      "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector.*",
+      "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency.✔",
+      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India.✔",
+      "Difference between planning commission and NITI Aayog (in term of function).✔",
+      "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve.✔",
+      "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine.✔",
+      "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector.✔",
     ]
-  }
-  /*
+  },
   {
     chapterNo: "1",
     chapterName: "Impact of Colonisation on Indian Economy",
@@ -994,12 +993,12 @@ export const bcom3__7INDI = [
       "Causes of Unemployment Problem in India",
       "Effort Made by Government to Increase Employment",
       "Suggestion to Solve Unemployment Problem",
-      "MGNREGA 2005"
+      "MGNREGA 2005",
 
 
       // 2021
-      "Discuss the causes and consequences of unemployment in India.",
-    ],
+      "Discuss the causes and consequences of unemployment in India.✔✔",
+    ]
   },
   {
     chapterNo: "7",
@@ -1013,10 +1012,9 @@ export const bcom3__7INDI = [
 
 
       // 2021
-      "Discuss the Government Policy to reduce Inequalities of Income and Wealth.",
+      "Discuss the Government Policy to reduce Inequalities of Income and Wealth.✔✔",
     ],
   },
-  */
 ];
 
 export const bcom3__8EOH = [
@@ -1074,7 +1072,7 @@ export const bcom3__8EOH = [
 
 
       //MID TERM
-      "What are the main features of Annual Budget 2021 of HP.*",
+      "What are the main features of Annual Budget 2021 of HP.✔",
 
       //MY
       "HP Budget of 2020-21",
@@ -1116,7 +1114,7 @@ export const bcom3__8EOH = [
 
 
       // MID TERM
-      "What are the major agricultural issues/challenges of HP.*",
+      "What are the major agricultural issues/challenges of HP.✔",
     ],
   },
   {
@@ -1150,7 +1148,7 @@ export const bcom3__8EOH = [
     chapterNo: "10",
     chapterName: "Hydropower and Environmental issues in HP",
     chapterTopics: [
-      "Write short note on Hydropower Potential of HP.*",
+      "Write short note on Hydropower Potential of HP.✔",
     ],
   },
 
@@ -1158,7 +1156,7 @@ export const bcom3__8EOH = [
     chapterNo: "11",
     chapterName: "Social Welfare programmers, Education and Health in HP",
     chapterTopics: [
-      "Name at least 10 social welfare schemes run by govt. of HP.*",
+      "Name at least 10 social welfare schemes run by govt. of HP.✔",
     ],
   },
 
@@ -1166,7 +1164,7 @@ export const bcom3__8EOH = [
     chapterNo: "12",
     chapterName: "Infrastructure of HP",
     chapterTopics: [
-      "What are the major infrastructural related issues/challenges of HP.*",
+      "What are the major infrastructural related issues/challenges of HP.✔",
     ],
   },
 
@@ -1174,7 +1172,7 @@ export const bcom3__8EOH = [
     chapterNo: "13",
     chapterName: "Tourism in HP",
     chapterTopics: [
-      "Briefly explain the Tourism Potential of HP.*",
+      "Briefly explain the Tourism Potential of HP.✔",
     ],
   },
 ];
