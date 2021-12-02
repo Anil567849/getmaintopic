@@ -895,6 +895,8 @@ export const bcom3__6PER = [
 ];
 
 export const bcom3__7INDI = [
+
+  /*
   {
     chapterNo : "1",
     chapterName : "Main Topics",
@@ -907,6 +909,49 @@ export const bcom3__7INDI = [
       "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector.✔",
     ]
   },
+
+  */
+
+  {
+    chapterNo : "1 Question ",
+    chapterName : "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency.✔",
+    chapterTopics : [
+      "Monetary policy is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and is the demand side economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity.  A cryptocurrencies is a digital or virtual kind currencies marked by cryptocurrency. It is a network that distributed acroos on oversized number of computer which makes it nearly impossible to double spend. It allow secure online payment.  Monetary policy relevance in context of cryptocurrency.  1. Protection from inflation:  Inflation has caused many currencies to urge their value to decline with time. At the time of its launch, almost every cryptocurrency is released with a tough and fast amount. The ASCII computer file specifies the quantity of any coin; there are only 21 million Bitcoins released within the planet. So, because the demand increases, its value will increase which might maintain with the market and, within the long run, prevent inflation. 2. Easy transfer of funds:  Cryptocurrencies have always kept themselves as an optimal solution for transactions. Transactions, whether international or domestic in cryptocurrencies, are lightning-fast.",
+    ]
+  },
+
+  {
+    chapterNo : "2 Question ",
+    chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India.✔",
+    chapterTopics : [
+      "Agriculture is an impotant part of Indian's economy. This sector provide 58% of total jobs and contribute 18.1% to the total GDP. Over 70% of the rural household depend on agriculture. Gross value added by agriculture, forestry and fishing was estimated at 276B $ in FY20. Pricipal agricultural commodities export for april 2020 to january 2021 was 32.12B $. Three Farm Laws, which have meant unpredendednted protest by farmers for over a year will be withdrown, PM Modi said. 1. The Farmer's produce Trade and Commerce (Promotion and Facilitaion) Act = This Act provides for setting up mechanism allowing the farmers to sell their farm produces outside the agriculture produced market committees(APMCs). Any licence holder trader can buy the produce from the farmer at mutually agree prices. Trade of farm produce will be free of mandi tax imposed by state govt. 2.The farmers (Empowerment of Protection) Agreement of Price Assurance farm services Act = This Act helps farmer to do contaract farming and market their produces freely. 3.The Essential Commodities (Amendment) Act = This Act is as amendment to the existing commodities act. This law now frees items such as pulses, edible oil, foodgrain and onion for trade except in extraordinary situation.",
+    ]
+  },
+
+  {
+    chapterNo : "4 Question ",
+    chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve.✔",
+    chapterTopics : [
+      "Foreign exchange reserve, also called Forex Reserve, only Foreign Currency diposits held by nation central banks and Monetary Authorities. These Foreign Currency deposits are the financial assests of the central banks and Monetary Authority that held in different reserve currencies and which are used to back its liabilities(eg. the local currency issued and the various bank reserves deposited with the central banks by the govt. or financial institution). India's Forex Reserve are 603B $ (excluding gold).  Impact of FDI on Forex Reserve. FDI leads to long term growth of the economy. MNC bring Technology transfer to domestic companies. Employment  rises a lot. With the help of export Balance of Payment show surplus which cause Rupees to appreciate to $.  Forex Reseve rises significantly and this causes RI+BI's assests to increase dut to which money supply rises and thus inflation too rises. List of Composits. Forex Reserve of Inida consists of four category.  1. Foreign Currency Assest (In march 536B $). 2.Gold (RBI held 695.31 metric tone gold).  3.Special Drawing Rights (SDR) (It allocated by IMF to countries and cannot used of held by private party).  4.Reserve Tranche Position (RTP) (The diffrence between Member's Quota and the IMF's holdings of its currency is a country's Reserve Tranche Position).",
+    ]
+  },
+
+  {
+    chapterNo : "5 Question ",
+    chapterName : "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine.✔",
+    chapterTopics : [
+      "PM Narendra Modi launched Swachh Bharat Mission Urban. PM Modi said the main aim of Swachh Bharat Mission 2.0 is to make the 'cities garbage free'. He said the 'garbase moutain in cities' will be processed and removed as part of swachh bharat mission. We also aim to sewage and safety management, making cities water-secure and ensuring that dirty drain don't merge into rivers. Swachhta Survekshan Ranking of cities. 1.Indore. 2.Surat 3.Vijaywada 4.Navi Mumbai 5.Pune 6.Raipur 7.Bhopal 8.Vadodara 9.Visakhapatnam 10.Ahmedabad 24.Bhubneshwar 27.Shimla How Ranking is Determined. Ranking is determined by the air quality. The data shown for each in the major city ranking is and average (median) value from all the statioin in that city that monitor PM2.5 as one of their Polutants.",
+    ]
+  },
+
+  {
+    chapterNo : "6 Question ",
+    chapterName : "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector.✔",
+    chapterTopics : [
+      "Current status of inflation in India. The Wholesale price index (WPI) - linked inflation went double digit at 10,5% year on year in April 2021 (from 7.4% in March). Factor of Infation in India.  The sharp rise in commodity prices accross the world is a major reason behind the inflation spikes in India. Increasing the import cost for some of the crucial consumables, pushing inflation higher. The increase in domestic prices is basically a feflection of international prices, because India meets 56% of its domestic demand through imports. In the international market, prices of edible oil have jumpoed sharply in recent months due to various factor.  Why international Prices Rises? There has been a thrust on making renewable fuel from soyabean oil in the US, Brazil and other coutry. Despite of Covid-19 Pandemic, the global demand for edible oil has been high. Other factor includes Buying by China, labour issue in Malaysia, the impoact of La Nina on plam and Soya producing area and export duties on crude palm oil in Indonesia and Malaysia.",
+    ]
+  },
+
   {
     chapterNo: "1",
     chapterName: "Impact of Colonisation on Indian Economy",
