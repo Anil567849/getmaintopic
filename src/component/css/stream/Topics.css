@@ -31,14 +31,13 @@
 }
 
 
-.topic ol li h4{
+.topic ul li p{    font-family: arial,sans-serif;
     font-size: 16px;
-    font-weight: 500;
-    color: black;
+    font-weight: 400;
+    color: #4d5156;
     word-break: break-word;
+    word-spacing: 1px;
 }
-
-
 
 
 

@@ -6,13 +6,13 @@ function Topics({chapterNo, chapterName, chapterTopics}) {
         <div className="topicContainer">
             <div className="topic">
                 <h1>Chapter {chapterNo} . {chapterName}</h1>
-                <ol type="i">
+                <ul>
                     {
                         chapterTopics.map((item) => (
-                            <li><h4>{item}</h4></li>
+                            <li><p>{item}</p></li>
                         ))
                     }
-                </ol>
+                </ul>
             </div>
         </div>
     )

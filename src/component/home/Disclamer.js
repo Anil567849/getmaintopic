@@ -12,7 +12,9 @@ function Disclamer() {
         transition: "0.3s",
         justifyContent: "center",
         alignItems: "center",
-        flexDirection : 'column'
+        flexDirection : 'column',
+        textAlign : 'center',
+        margin : "2rem 0px"
     }
 
     return (
