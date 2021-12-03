@@ -50,10 +50,8 @@
 
 
 @media only screen and (max-width: 400px) {
-  .topic ol{
-    padding-left: 1rem;
-}
-
-
-
+  .topic ul{
+    padding : 0;
+    margin-left: 1rem;    
+  } 
 } 
