@@ -896,6 +896,7 @@ export const bcom3__6PER = [
 
 export const bcom3__7INDI = [
 
+/*
   {
     chapterNo : "#",
     chapterName : "Main Topics",
@@ -908,7 +909,7 @@ export const bcom3__7INDI = [
       "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector.✔",
     ]
   },
-
+*/
   {
     chapterNo : "# Question 1",
     chapterName : "What do you mean by monetary policy. Describe its relevance in context of Crypto Currency.✔",
