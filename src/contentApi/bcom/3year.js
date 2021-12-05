@@ -914,10 +914,10 @@ export const bcom3__7INDI = [
     chapterNo : "# Question 1",
     chapterName : "What do you mean by monetary policy. Describe its relevance in context of Crypto Currency.✔",
     chapterTopics : [
-      "Monetary policy  is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and the demand side economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity.",
-      "A cryptocurrency is a digital or virtual kind currency marked by cryptocurrency. It is a network that distributed across on oversized number of computer which makes it nearly impossible to double spend. It allow secure online payment.",
+      "Monetary policy: Monetary policy  is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and the demand side, economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity.",
+      "Cryptocurrency: A cryptocurrency is a digital or virtual kind currency marked by cryptocurrency. It is a network that distributed across on oversized number of computer which makes it nearly impossible to double spend. It allow secure online payment.",
       "Here are some Monetary policy relevance in context of cryptocurrency.",
-      "1. Protection from inflation:  Inflation has caused many currencies to urge their value to decline with time. At the time of its launch, almost every cryptocurrency is released with a tough and fast amount. The ASCII computer file specifies the quantity of any coin, there are only 21 million Bitcoins released within the planet. So, because the demand increases, its value will increase which might maintain with the market and, within the long run, prevent inflation.",
+      "1. Protection from inflation:  Inflation has caused many currencies to urge their value to decline with time. At the time of its launch, almost every cryptocurrency is released with a tough and fast amount. The ASCII computer file specifies the quantity of any coin, there are only 21 million Bitcoins released within the planet. So, because the demand increases, its value will increases which might maintain with the market and, within the long run, prevent inflation.",
       "2. Easy transfer of funds:  Cryptocurrency have always kept themselves as an optimal solution for transactions. Transactions, whether international or domestic in cryptocurrencies, are lightning-fast.",
     ]
   },
@@ -926,25 +926,25 @@ export const bcom3__7INDI = [
     chapterNo : "# Question 2",
     chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India.✔",
     chapterTopics : [
-      "Agriculture is an impotant part of Indian's economy. This sector provide 58% of total jobs and contribute 18.1% to the total GDP. Over 70% of the rural household depend on agriculture. Gross value added by agriculture, forestry and fishing was estimated at 276B $ in FY20. Pricipal agricultural commodities export for april 2020 to january 2021 was 32.12B $.",
-      "Three Farm Laws, which have meant unpredendednted protest by farmers for over a year will be withdrawn, PM Modi said.",
-      "1. The Farmer's produce Trade and Commerce (Promotion and Facilitaion) Act: This Act provides for setting up mechanism allowing the farmers to sell their farm produces outside the agriculture produced market committees(APMCs). Any licence holder trader can buy the produce from the farmer at mutually agree prices. Trade of farm produce will be free of mandi tax imposed by state govt.",
-      "2. The farmers (Empowerment of Protection) Agreement of Price Assurance farm services Act: This Act helps farmer to do contract farming and market their produces freely.",
+      "Agriculture is an impotant part of Indian's economy. This sector provide 58% of total jobs and contribute 18.1% to the total GDP. Over 70% of the rural households depend on agriculture. Gross value added by agriculture, forestry and fishing was estimated at 276B $ in FY20. Pricipal agricultural commodities export for april 2020 to january 2021 was 32.12B $.",
+      "Three Farm Laws, which have meant unprecedented protest by farmers for over a year will be withdrawn, PM Modi said.",
+      "1. The Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act: This Act provides for setting up mechanism allowing the farmers to sell their farm produces outside the agriculture produced market committees(APMCs). Any licence holder trader can buy the produce from the farmer at mutually agree prices. Trade of farm produce will be free of mandi tax imposed by state govt.",
+      "2. The Farmers' (Empowerment and Protection) Agreement of Price Assurance and Farm Services Act: This Act helps farmer to do contract farming and market their produces freely.",
       "3. The Essential Commodities (Amendment) Act: This Act is as amendment to the existing commodities act. This law now frees items such as pulses, edible oil, foodgrain and onion for trade except in extraordinary situation.",
     ]
   },
 
   {
     chapterNo : "# Question 4",
-    chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve.✔",
+    chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly explain the composition of Forex reserve.✔",
     chapterTopics : [
-      "Foreign exchange reserve, also called Forex Reserve, are Foreign Currency diposits held by nation central banks and Monetary Authorities. These Foreign Currency deposits are the financial assets of the central banks and Monetary Authority that held in different reserve currencies and which are used to back its liabilities(eg. the local currency issued and the various bank reserves deposited with the central banks by the govt. or financial institution). India's Forex Reserve are 603B $ (excluding gold).",
+      "Foreign exchange reserve, also called Forex Reserve, are Foreign Currency deposits held by national central banks and Monetary Authorities. These Foreign Currency deposits are the financial assets of the central banks and Monetary Authority that held in different reserve currencies and which are used to back its liabilities(eg. the local currency issued and the various bank reserves deposited with the central banks by the govt. or financial institution). India's Forex Reserve are 603B $ (excluding gold).",
       "Here are some Impact of FDI on Forex Reserve.",
-      "FDI leads to long term growth of the economy. MNC bring Technology transfer to domestic companies. Employment  rises a lot. With the help of export Balance of Payment show surplus which cause Rupees to appreciate to Dollars.  Forex Reseve rises significantly and this causes RBI's assets to increase due to which money supply rises and thus inflation too rises.",
+      "FDI leads to long term growth of the economy. MNC transfer the Technology domestic companies. Employment  rises a lot. With the help of export Balance of Payment show surplus which cause Rupees to appreciate to Dollars.  Forex Reseve rises significantly and this causes RBI's assets to increase due to which money supply rises and thus inflation rises too.",
       "List of Composits. Forex Reserve of Inida consists of four category.",
       "1. Foreign Currency Assest (In march 536B $).",
       "2. Gold (RBI held 695.31 metric tone gold).",
-      "3. Special Drawing Rights (SDR) (It allocated by IMF to countries and cannot used of held by private party).",
+      "3. Special Drawing Rights (SDR) (It allocated by IMF to countries and cannot used or held by private party).",
       "4. Reserve Tranche Position (RTP) (The diffrence between Member's Quota and the IMF's holdings of its currency is a country's Reserve Tranche Position).",
     ]
   },
@@ -968,7 +968,7 @@ export const bcom3__7INDI = [
       "24.Bhubneshwar ",
       "27.Shimla",
       "How Ranking is Determined?",
-      "Ranking is determined by the air quality. The data shown for each in the major city ranking is and average (median) value from all the station in that city that monitor PM2.5 as one of their Polutants.",
+      "Ranking is determined by the air quality. The data shown for each in the major city ranking is and average (median) value from all the station in that city that monitor PM2.5 as one of their polutants.",
     ]
   },
 
