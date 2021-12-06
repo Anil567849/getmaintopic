@@ -935,6 +935,13 @@ export const bcom3__7INDI = [
   },
 
   {
+    chapterNo : "# Question 3",
+    chapterName : "Difference between planning commission and NITI Aayog (in term of function).✔",
+    chapterTopics : [
+    ]
+  },
+
+  {
     chapterNo : "# Question 4",
     chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly explain the composition of Forex reserve.✔",
     chapterTopics : [
