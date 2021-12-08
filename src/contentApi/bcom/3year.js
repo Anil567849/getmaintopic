@@ -27,11 +27,11 @@ export const bcom3__1GST = [
       "Difference between Direct and Indirect Taxes",
       // "Constitutional Provisions Regarding Taxation in India",
       // "Tax Structure in India Before Implementaion of GST",
-      // "Tax Structure in India After Implementaion of GST",
-      "CGST",
-      "SGST",
+      // "CGST",
+      // "SGST",
       
       // MID TERM 
+      "Tax Structure in India After Implementaion of GST [mid term ✔]",
       
 
     ],
@@ -46,10 +46,10 @@ export const bcom3__1GST = [
       "Benefit of GST",
       "Drawbacks of GST",
       // "Implementation of GST in India",
+      // "Tax Structure in India After Implementaion of GST",
 
       // MID TERM 
       "Silent Features of GST [mid term ✔]",
-      "Tax Structure in India After Implementaion of GST [mid term ✔]",
     ],
   },
   {
