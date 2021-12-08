@@ -48,8 +48,8 @@ export const bcom3__1GST = [
       // "Implementation of GST in India",
 
       // MID TERM 
-      "Silent Features of GST✔",
-      "Tax Structure in India After Implementaion of GST✔",
+      "Silent Features of GST [mid term ✔]",
+      "Tax Structure in India After Implementaion of GST [mid term ✔]",
     ],
   },
   {
@@ -64,7 +64,7 @@ export const bcom3__1GST = [
       // "Authorisation of Officiers of State or Union Territory as Proper Officer in Certain Circumstances (Section 6)",
       
       // MID TERM 
-      "Describe Administration Set Up GST✔",
+      "Describe Administration Set Up GST [mid term ✔]",
     ],
   },
   {
@@ -76,11 +76,11 @@ export const bcom3__1GST = [
       // "Composites and Mixed Supplies",
       
       // MID TERM 
-      "Scope of Supply as per GST Law (Section 7)✔",
+      "Scope of Supply as per GST Law (Section 7) [mid term ✔]",
       // SUB SECTION 
       "Normal or Taxable Supplies (Section 7(1))",
       "Non-Taxable Supplies (Section 7(2))",
-      "Declared Supply of Goods and Services (Section 7(2))✔✔",
+      "Declared Supply of Goods and Services (Section 7(2)) [2021 ✔]",
     ],
   },
   {
@@ -94,7 +94,7 @@ export const bcom3__1GST = [
       // "Laibility of Pay GST",
 
       // MID TERM 
-      "Tax on Reverse Charge Basis (Section 9(3))✔",
+      "Tax on Reverse Charge Basis (Section 9(3)) [mid term ✔]",
 
       
       "Supply by Unregistrered Suppliers (Section 9(4))",
@@ -117,7 +117,7 @@ export const bcom3__1GST = [
       // "Penal Provision(sec(10(5))",
 
       // MID TERM 
-      "Define the Composition Scheme under GST.✔",
+      "Define the Composition Scheme under GST. [mid term ✔]",
     ],
   },
 ];
@@ -139,9 +139,9 @@ export const bcom3__2MAC = [
       
       
       // 2021 question paper
-      "Feature of Management Accounting✔✔",
-      "Scope of Management Accounting✔✔",
-      "'Management Accouting is financial belt at its elastic point'. How far do you agree with this statement?✔✔",
+      "Feature of Management Accounting [2021 ✔]",
+      "Scope of Management Accounting [2021 ✔]",
+      "'Management Accouting is financial belt at its elastic point'. How far do you agree with this statement? [2021 ✔]",
     ],
   },
   {
@@ -179,17 +179,17 @@ export const bcom3__2MAC = [
       "Comparision between Forecast and Budget",
       "Advantages of Budgeting and Budgetary Control",
       "Limitation of Budgeting and Budgetary Control",
-      "Kinds Of Budgets✔",
-      "Budget According to Fuctions✔",
-      "Comparision between Fixed and Flexible Budget✔",
+      "Kinds Of Budgets [mid term ✔]",
+      "Budget According to Fuctions [mid term ✔]",
+      "Comparision between Fixed and Flexible Budget [mid term ✔]",
 
       // 2021 question paper
-      "Zero Based Budgeting✔✔",
-      "How Zero Based Budgeting is  different from Traditional Budgeting? What benefits occur from it?✔✔",
-      "Reciept and Payment Method (Do Numericals)✔✔",
+      "Zero Based Budgeting [2021 ✔]",
+      "How Zero Based Budgeting is  different from Traditional Budgeting? What benefits occur from it? [2021 ✔]",
+      "Reciept and Payment Method (Do Numericals) [2021 ✔]",
 
       //MY
-      "Flexible Budget (Do Numericals)✔✔",
+      "Flexible Budget (Do Numericals) [2021 ✔]",
     ],
   },
   {
@@ -198,22 +198,22 @@ export const bcom3__2MAC = [
     chapterTopics: [
       "Meaning of Standard Costing",
       "Definition of Standard Costing",
-      "Difference between Estimated Cost and Standard Cost✔✔",
-      "Difference between Budgetary and Standard Costing✔✔",
+      "Difference between Estimated Cost and Standard Cost [2021 ✔]",
+      "Difference between Budgetary and Standard Costing [2021 ✔]",
       "Advatages of Standard Costing",
       "Limitation of Standard Costing",
       // "Procedure of Standard Costing",
       // "Standard Cost Card",
       "Meaning of Analysis of Variance",
       "Meaning of Labour Variance",
-      "Material Variance (All Formulae)✔✔",
-      "Material Variance (Do Numericals)✔✔",
-      "Labour Variance(All Formulae)✔✔",
-      "Labour Variance(Do Numericals)✔✔",
-      "Control Ratios✔",
-      "Efficiency Ratio✔",
-      "Activity Ratio✔",
-      "Calender Ratio✔",
+      "Material Variance (All Formulae) [2021 ✔]",
+      "Material Variance (Do Numericals) [2021 ✔]",
+      "Labour Variance(All Formulae) [2021 ✔]",
+      "Labour Variance(Do Numericals) [2021 ✔]",
+      "Control Ratios [mid term ✔]",
+      "Efficiency Ratio [mid term ✔]",
+      "Activity Ratio [mid term ✔]",
+      "Calender Ratio [mid term ✔]",
     ],
   },
   {
@@ -224,16 +224,16 @@ export const bcom3__2MAC = [
       "Meaning of Break Even Analysis",
 
       // 2021 question paper
-      "Break Even Point (short note)✔✔",
-      "P/V Ratio (short note)✔✔",
-      "Angle of Incidence. (short note)✔✔",       
-      "Margin of Safety. (short note)✔✔",
-      "What is Absorption Costing?✔✔",
-      "Feature of Absorption costing.✔✔",
-      "Difference between Marginal Costing and Absorption Costing?✔✔",
-      "P/V ratio(Numericals).✔✔",
-      "Break-Even(Numericals).✔✔",
-      "Margin of Safety (Numericals).✔✔",
+      "Break Even Point (short note) [2021 ✔]",
+      "P/V Ratio (short note) [2021 ✔]",
+      "Angle of Incidence. (short note) [2021 ✔]",       
+      "Margin of Safety. (short note) [2021 ✔]",
+      "What is Absorption Costing? [2021 ✔]",
+      "Feature of Absorption costing. [2021 ✔]",
+      "Difference between Marginal Costing and Absorption Costing? [2021 ✔]",
+      "P/V ratio(Numericals). [2021 ✔]",
+      "Break-Even(Numericals). [2021 ✔]",
+      "Margin of Safety (Numericals). [2021 ✔]",
     ],
   },
   {
@@ -261,11 +261,11 @@ export const bcom3__2MAC = [
 
 
       // 2021 question paper
-      "Relevant and Irrelevant Costs (short note)✔✔",
-      "Sunk Cost (short note)✔✔",
-      "Differential Costs (short note)✔✔",
-      "Opportunity Cost (short note)✔✔",
-      "Marginal Cost (short note)✔✔",
+      "Relevant and Irrelevant Costs (short note) [2021 ✔]",
+      "Sunk Cost (short note) [2021 ✔]",
+      "Differential Costs (short note) [2021 ✔]",
+      "Opportunity Cost (short note) [2021 ✔]",
+      "Marginal Cost (short note) [2021 ✔]",
     ],
   },
 ];
@@ -293,12 +293,12 @@ export const bcom3__3FMA = [
       
       
       // 2021 question paper
-      "Objectives of Financial Management✔✔",
-      "Scope of Financial Management✔✔",
+      "Objectives of Financial Management [2021 ✔]",
+      "Scope of Financial Management [2021 ✔]",
 
       // MID TERM 
-      "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return).✔",
-      "Calculate Net Present Value.✔",
+      "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return). [mid term ✔]",
+      "Calculate Net Present Value. [mid term ✔]",
     ],
   },
   {
@@ -310,9 +310,9 @@ export const bcom3__3FMA = [
       // "Double Your Money",
 
       // 2021 question paper
-      "Explain the Time Value Techniques used in Financial Decisions.✔",
-      "Compute future value (use of Compound Factor Table).✔",
-      "Compute Present value (use of Compound Factor Table)✔."
+      "Explain the Time Value Techniques used in Financial Decisions. [mid term ✔]",
+      "Compute future value (use of Compound Factor Table). [mid term ✔]",
+      "Compute Present value (use of Compound Factor Table) [mid term ✔]."
     ],
   },
   {
@@ -328,7 +328,7 @@ export const bcom3__3FMA = [
       // "Measurement of Systematic Risk",
 
       // MID TERM 
-      "Difference between Systemetic and Unsystemic Risk.✔",
+      "Difference between Systemetic and Unsystemic Risk. [mid term ✔]",
     ],
   },
   {
@@ -337,7 +337,7 @@ export const bcom3__3FMA = [
     chapterTopics: [
       "Meaning of Capital Asset Pricing Model",
       //MID TERM
-      "Elaborate CAPM (Capital Asset Pricing Model) of Finance.✔",
+      "Elaborate CAPM (Capital Asset Pricing Model) of Finance. [mid term ✔]",
 
       
       //MY
@@ -357,8 +357,8 @@ export const bcom3__3FMA = [
       // "Multiple Growth Model",
 
       // 2021 question paper
-      "Explain the features of Bonds or Debentures.✔✔",
-      "Equity Cost of Capital (Numerical).✔✔",
+      "Explain the features of Bonds or Debentures. [2021 ✔]",
+      "Equity Cost of Capital (Numerical). [2021 ✔]",
     ],
   },
   {
@@ -375,9 +375,9 @@ export const bcom3__3FMA = [
       // "Limitation of Capital Budgeting",
 
       // 2021 question paper
-      "Explain the Risk and Uncertainty in Capital Budgeting.✔✔",
-      "What are the similarities and dissimilarities in NPV and IRR?✔✔",
-      "Present Value (Numerical)✔✔",
+      "Explain the Risk and Uncertainty in Capital Budgeting. [2021 ✔]",
+      "What are the similarities and dissimilarities in NPV and IRR? [2021 ✔]",
+      "Present Value (Numerical) [2021 ✔]",
     ],
   },
 ];
@@ -399,7 +399,7 @@ export const bcom3__4ENTRE = [
     chapterTopics: [
 
       // 2021 question paper
-      "What do you mean by Entrepreneurship? Explain.✔✔",
+      "What do you mean by Entrepreneurship? Explain. [2021 ✔]",
 
 
       // MY 
@@ -433,7 +433,7 @@ export const bcom3__4ENTRE = [
       // "Important of Intrapreneurship",
 
       // 2021 question paper
-      "Dimensions of Entrepreneurship✔✔",
+      "Dimensions of Entrepreneurship [2021 ✔]",
     ],
   },
   {
@@ -441,14 +441,14 @@ export const bcom3__4ENTRE = [
     chapterName: "Entrepreneurship and Micro, Small and Medium Entreprises",
     chapterTopics: [
       // "Meaning of MSME",
-      "Definition of MSME (2006, 2020)✔",
+      "Definition of MSME (2006, 2020) [mid term ✔]",
       "Charateristic of MSME",
       // "Large Entreprises Growth and Problems",
       "Difference between Large and Small Scale Entrepreneurs",
 
 
       // 2021 question paper
-      "What do you mean by Small Scale Enterprise?✔✔",
+      "What do you mean by Small Scale Enterprise? [2021 ✔]",
     ],
   },
   {
@@ -458,8 +458,8 @@ export const bcom3__4ENTRE = [
       // "Meaning of Business Group",
       // "Meaning of Family Business",
       // "Characteristic of Family Business",
-      "Role of Family Business and Business Group in Indian Economy✔",
-      "Problem Faced by a Family Business✔",
+      "Role of Family Business and Business Group in Indian Economy [mid term ✔]",
+      "Problem Faced by a Family Business [mid term ✔]",
     ],
   },
   {
@@ -499,8 +499,8 @@ export const bcom3__5INTER = [
       
       
       // 2021 question paper
-      "What do you mean by International Business? ✔✔",
-      "Challenges in International Business✔✔",
+      "What do you mean by International Business?  [2021 ✔]",
+      "Challenges in International Business [2021 ✔]",
     ],
   },
   {
@@ -525,8 +525,8 @@ export const bcom3__5INTER = [
       "Causes of Globalisaton",
 
       // 2021 question paper
-      "What is meant by Globalisation of Economy?✔✔",
-      "Explain component and causes of globalisation.✔✔",
+      "What is meant by Globalisation of Economy? [2021 ✔]",
+      "Explain component and causes of globalisation. [2021 ✔]",
     ],
   },
   {
@@ -561,7 +561,7 @@ export const bcom3__5INTER = [
 
 
       // 2021 question paper
-      "Critically explain the classical theory of Intenational Trade.✔✔",
+      "Critically explain the classical theory of Intenational Trade. [2021 ✔]",
     ],
   },
   {
@@ -711,9 +711,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning of Selling✔✔",
-      "Meaning of Personal Selling✔✔",
-      "What is the signnificance of personal selling to businessmen, customers and society?✔✔",
+      "Meaning of Selling [2021 ✔]",
+      "Meaning of Personal Selling [2021 ✔]",
+      "What is the signnificance of personal selling to businessmen, customers and society? [2021 ✔]",
 
     ],
   },
@@ -757,9 +757,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning Careers in Selling✔✔",
-      "Advantages of Careers in Selling✔✔",
-      "Describe the benefits and challenges of selling career.✔✔",
+      "Meaning Careers in Selling [2021 ✔]",
+      "Advantages of Careers in Selling [2021 ✔]",
+      "Describe the benefits and challenges of selling career. [2021 ✔]",
     ],
   },
   {
@@ -778,9 +778,9 @@ export const bcom3__6PER = [
 
 
       // 2021 question paper
-      "Discuss the various implications of Maslow's Hierarchy of needs theory for sales managers.✔✔",
-      "Explain the differet factors that affect the buying behaviour.(short note)✔✔",
-      "Describe the uses of buying motives in personal selling.(short note)✔✔",
+      "Discuss the various implications of Maslow's Hierarchy of needs theory for sales managers. [2021 ✔]",
+      "Explain the differet factors that affect the buying behaviour.(short note) [2021 ✔]",
+      "Describe the uses of buying motives in personal selling.(short note) [2021 ✔]",
     ],
   },
   {
@@ -809,11 +809,11 @@ export const bcom3__6PER = [
       "AIDCA Theory of Selling",
       
       // 2021 question paper
-      "Meaning of Selling Process✔✔",
-      "Stages/Steps in Personal Selling✔✔",
-      "What is Pre-Approach and Approach? (short note)✔✔",
-      "What is sales presentation? (short note)✔✔",
-      "What is Closing Sale? (short note)✔✔",
+      "Meaning of Selling Process [2021 ✔]",
+      "Stages/Steps in Personal Selling [2021 ✔]",
+      "What is Pre-Approach and Approach? (short note) [2021 ✔]",
+      "What is sales presentation? (short note) [2021 ✔]",
+      "What is Closing Sale? (short note) [2021 ✔]",
     ],
   },
   {
@@ -840,9 +840,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning of Sales Reports✔✔",
-      "Types of Sales Report✔✔",
-      "Importance of Sales Report✔✔",
+      "Meaning of Sales Reports [2021 ✔]",
+      "Types of Sales Report [2021 ✔]",
+      "Importance of Sales Report [2021 ✔]",
       
     ]
   },
@@ -861,9 +861,9 @@ export const bcom3__6PER = [
       // "Code for Conduct for Employees of McDonald",
       
       // 2021 question paper
-      "Meaning of Sales Ethics✔✔",
-      "Definition of Sales Ethics✔✔",
-      "How ethics can be helpful in increasing sales? Explain.✔✔",
+      "Meaning of Sales Ethics [2021 ✔]",
+      "Definition of Sales Ethics [2021 ✔]",
+      "How ethics can be helpful in increasing sales? Explain. [2021 ✔]",
 
     ],
   },
@@ -888,8 +888,8 @@ export const bcom3__6PER = [
 
 
       // 2021 question paper
-      "Discuss Distribution Network Reptionship importance in personal selling.✔✔",
-      "What is AIDA sale model.✔✔",
+      "Discuss Distribution Network Reptionship importance in personal selling. [2021 ✔]",
+      "What is AIDA sale model. [2021 ✔]",
     ],
   },
 ];
@@ -901,33 +901,37 @@ export const bcom3__7INDI = [
     chapterNo : "#",
     chapterName : "Main Topics",
     chapterTopics : [
-      "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency.✔",
-      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India.✔",
-      "Difference between planning commission and NITI Aayog (in term of function).✔",
-      "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve.✔",
-      "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine.✔",
-      "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector.✔",
+      "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency. [mid term ✔]",
+      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India. [mid term ✔]",
+      "Difference between planning commission and NITI Aayog (in term of function). [mid term ✔]",
+      "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve. [mid term ✔]",
+      "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine. [mid term ✔]",
+      "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector. [mid term ✔]",
     ]
   },
 */
   {
     chapterNo : "# Question 1",
-    chapterName : "What do you mean by monetary policy. Describe its relevance in context of Crypto Currency.✔",
+    chapterName : "What do you mean by monetary policy. Describe its relevance in context of Crypto Currency. [mid term ✔]",
     chapterTopics : [
-      "Monetary policy: Monetary policy  is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and the demand side, economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity.",
-      "Cryptocurrency: A cryptocurrency is a digital or virtual kind currency marked by cryptocurrency. It is a network that distributed across on oversized number of computer which makes it nearly impossible to double spend. It allow secure online payment.",
+      "Monetary policy: Monetary policy  is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and the demand side, economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity. It is designed to maintain the price stability in the economy. Other objectives of the monetary policy of India, as stated by RBI, are:",
+      "Controlled expansion of bank credit : One of the important functions of RBI is the controlled expansion of bank credit and money supply with special attention to seasonal requirement for credit without affecting the output.",
+      "Promotion of fixed : The aim here is to increase the productivity of investment by restraining non essential fixed investment.",
+      "Let's learn about what is Cryptocurrency : A cryptocurrency is a digital or virtual kind currency marked by cryptocurrency. It is a network that distributed across on oversized number of computer which makes it nearly impossible to double spend. It allow secure online payment.",
       "Here are some Monetary policy relevance in context of cryptocurrency.",
-      "1. Protection from inflation:  Inflation has caused many currencies to urge their value to decline with time. At the time of its launch, almost every cryptocurrency is released with a tough and fast amount. The ASCII computer file specifies the quantity of any coin, there are only 21 million Bitcoins released within the planet. So, because the demand increases, its value will increases which might maintain with the market and, within the long run, prevent inflation.",
-      "2. Easy transfer of funds:  Cryptocurrency have always kept themselves as an optimal solution for transactions. Transactions, whether international or domestic in cryptocurrencies, are lightning-fast.",
+      "1. Protection from inflation :  Inflation has caused many currencies to urge their value to decline with time. At the time of its launch, almost every cryptocurrency is released with a tough and fast amount. The ASCII computer file specifies the quantity of any coin, there are only 21 million Bitcoins released within the planet. So, because the demand increases, its value will increases which might maintain with the market and, within the long run, prevent inflation.",
+      "2. Easy transfer of funds :  Cryptocurrency have always kept themselves as an optimal solution for transactions. Transactions, whether international or domestic in cryptocurrencies, are lightning-fast.",
+      "3. Growth : Because users are able to send and receive bitcoins with only a smartphone or computer, Bitcoin is theoretically available to populations of users without access to traditional banking systems, credit cards, and other methods of payment."
     ]
   },
 
   {
     chapterNo : "# Question 2",
-    chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India.✔",
+    chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India. [mid term ✔]",
     chapterTopics : [
-      "Agriculture is an impotant part of Indian's economy. This sector provide 58% of total jobs and contribute 18.1% to the total GDP. Over 70% of the rural households depend on agriculture. Gross value added by agriculture, forestry and fishing was estimated at 276B $ in FY20. Pricipal agricultural commodities export for april 2020 to january 2021 was 32.12B $.",
-      "Three Farm Laws, which have meant unprecedented protest by farmers for over a year will be withdrawn, PM Modi said.",
+      "Agriculture is an impotant part of Indian's economy. This sector provide 58% of total jobs and contribute 18.1% to the total GDP. Over 70% of the rural households depend on agriculture. Gross value added by agriculture, forestry and fishing was estimated at 276B $ in FY20.  India ranks second worldwide in farm outputs. Pricipal agricultural commodities export for april 2020 to january 2021 was 32.12B $.",
+      "India exported $38 billion worth of agricultural products in 2013, making it the 7th largest agricultural exporter worldwide and the 6th largest net exporter.Most of its agriculture exports serve developing and least developed nations",
+      "Here are Three Farm Laws, which have meant unprecedented protest by farmers for over a year will be withdrawn, PM Modi said.",
       "1. The Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act: This Act provides for setting up mechanism allowing the farmers to sell their farm produces outside the agriculture produced market committees(APMCs). Any licence holder trader can buy the produce from the farmer at mutually agree prices. Trade of farm produce will be free of mandi tax imposed by state govt.",
       "2. The Farmers' (Empowerment and Protection) Agreement of Price Assurance and Farm Services Act: This Act helps farmer to do contract farming and market their produces freely.",
       "3. The Essential Commodities (Amendment) Act: This Act is as amendment to the existing commodities act. This law now frees items such as pulses, edible oil, foodgrain and onion for trade except in extraordinary situation.",
@@ -936,29 +940,38 @@ export const bcom3__7INDI = [
 
   {
     chapterNo : "# Question 3",
-    chapterName : "Difference between planning commission and NITI Aayog (in term of function).✔",
+    chapterName : "Difference between planning commission and NITI Aayog (in term of function). [mid term ✔]",
     chapterTopics : [
+      "Here are some difference between planning commission and NITI Aayog",
+      "1. Nature of work : NITI Aayog work as a supportive institute. It will give technical suggestion to Central and State govt. It doesn't has a power to allocation resources. Other side, Plannig Commission has a power to allocate financial resources. Planning Commission scope is much wider.",
+      "2. Full-Time Members : In NITI Aayog Full-time members are very low than Planning Commission. Other side, Planning Commission body are very huge.",
+      "3. Part-Time Members : In NITI Aayog there can be Part-Time Members. It will choose from Pretigious university or person who has special knowledge. Other Side, Planning Commission doesn't have any Provision of Part-Time Members",
+      "4. Appointment of Secretary : Secretary of NITI Aayog known as CEO. It appointed by Prime Minister. Ohter side, In Planning Commission Appointement of Secretary will done by simple process, and there is no such position like CEO.",
     ]
+
   },
 
   {
     chapterNo : "# Question 4",
-    chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly explain the composition of Forex reserve.✔",
+    chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly explain the composition of Forex reserve. [mid term ✔]",
     chapterTopics : [
       "Foreign exchange reserve, also called Forex Reserve, are Foreign Currency deposits held by national central banks and Monetary Authorities. These Foreign Currency deposits are the financial assets of the central banks and Monetary Authority that held in different reserve currencies and which are used to back its liabilities(eg. the local currency issued and the various bank reserves deposited with the central banks by the govt. or financial institution). India's Forex Reserve are 603B $ (excluding gold).",
+      "India has large foreign-exchange reserves; holdings of cash, bank deposits, bonds, and other financial assets denominated in currencies other than India's national currency, the Indian rupee. The reserves are managed by the Reserve Bank of India for the Indian government and the main component is foreign currency assets.",
       "Here are some Impact of FDI on Forex Reserve.",
       "FDI leads to long term growth of the economy. MNC transfer the Technology domestic companies. Employment  rises a lot. With the help of export Balance of Payment show surplus which cause Rupees to appreciate to Dollars.  Forex Reseve rises significantly and this causes RBI's assets to increase due to which money supply rises and thus inflation rises too.",
       "List of Composits. Forex Reserve of Inida consists of four category.",
       "1. Foreign Currency Assest (In march 536B $).",
       "2. Gold (RBI held 695.31 metric tone gold).",
-      "3. Special Drawing Rights (SDR) (It allocated by IMF to countries and cannot used or held by private party).",
-      "4. Reserve Tranche Position (RTP) (The diffrence between Member's Quota and the IMF's holdings of its currency is a country's Reserve Tranche Position).",
+      // "3. Special Drawing Rights (SDR) (It allocated by IMF to countries and cannot used or held by private party).",
+      // "4. Reserve Tranche Position (RTP) (The diffrence between Member's Quota and the IMF's holdings of its currency is a country's Reserve Tranche Position).",
+      "3. Special Drawing Rights (SDR) : SDR were created in 1969 to supplement short fall of preffered foreign exchange reserve assets, mainly gold and US $. It allocated by IMF to country and cannot used or held by private party. SDR are unit of a/c (money function) and not a currency per se.",
+      "4. Reserve Tranche Position (RTP) : Each member of the IMF is assigned a quota (membership free) part of which is payble in special drawing right (SDR), the difference between a member's quota and the IMF's holding of its currency is a coutry Reserve Tranche Position (RTP).",
     ]
   },
 
   {
     chapterNo : "# Question 5",
-    chapterName : "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine.✔",
+    chapterName : "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine. [mid term ✔]",
     chapterTopics : [
       "PM Narendra Modi launched Swachh Bharat Mission Urban. PM Modi said the main aim of Swachh Bharat Mission 2.0 is to make the 'cities garbage free'. He said the 'garbage mountain in cities' will be processed and removed as part of Swachh Bharat Mission. We also aim to sewage and safety management, making cities water-secure and ensuring that dirty drain don't merge into rivers.",
       "Swachhta Survekshan Ranking of cities.",
@@ -981,13 +994,18 @@ export const bcom3__7INDI = [
 
   {
     chapterNo : "# Question 6",
-    chapterName : "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector.✔",
+    chapterName : "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector. [mid term ✔]",
     chapterTopics : [
-      "Current status of inflation in India: The Wholesale price index (WPI) - linked inflation went double digit at 10.5% year on year in April 2021 (from 7.4% in March).",
+      "What is inflation : Inflation is the decline of purchasing power of a given currency over time.",
+      "Current status of inflation in India : The Wholesale price index (WPI) - linked inflation went double digit at 10.5% year on year in April 2021 (from 7.4% in March).",
       "Factor of Inflation in India:  The sharp rise in commodity prices across the world is a major reason behind the inflation spikes in India. Increasing the import cost for some of the crucial consumables, pushing inflation higher.",
       "The increase in domestic prices is basically a reflection of international prices, because India meets 56% of its domestic demand through imports. In the International market, prices of edible oil have jumped sharply in recent months due to various factor.",
       "Why International Prices Rises?",
-      "There has been a thrust on making renewable fuel from soyabean oil in the US, Brazil and other country. Despite of Covid-19 Pandemic, the global demand for edible oil has been high. Other factor includes Buying by China, labour issue in Malaysia, the impact of La Nina on palm and Soya producing area and export duties on crude palm oil in Indonesia and Malaysia.",
+      "1. There has been a thrust on making renewable fuel from soyabean oil in the US, Brazil and other country. Despite of Covid-19 Pandemic, the global demand for edible oil has been high.","2. Buying by China.",
+      "3. labour issue in Malaysia",
+      "4. The impact of La Nina on palm and Soya producing area",
+      "5. Export duties on crude palm oil in Indonesia and Malaysia.",      
+      "6. Inflation basically occurs in a situation when the aggregate demand in the economy has exceeded the aggregate supply. As a result of which due to scarcity in supply the prices of the commodity rises.",
     ]
   },
 
@@ -1081,7 +1099,7 @@ export const bcom3__7INDI = [
 
 
       // 2021
-      "Discuss the causes and consequences of unemployment in India.✔✔",
+      "Discuss the causes and consequences of unemployment in India. [2021 ✔]",
     ]
   },
   {
@@ -1096,7 +1114,7 @@ export const bcom3__7INDI = [
 
 
       // 2021
-      "Discuss the Government Policy to reduce Inequalities of Income and Wealth.✔✔",
+      "Discuss the Government Policy to reduce Inequalities of Income and Wealth. [2021 ✔]",
     ],
   },
 ];
@@ -1156,7 +1174,7 @@ export const bcom3__8EOH = [
 
 
       //MID TERM
-      "What are the main features of Annual Budget 2021 of HP.✔",
+      "What are the main features of Annual Budget 2021 of HP. [mid term ✔]",
 
       //MY
       "HP Budget of 2020-21",
@@ -1198,7 +1216,7 @@ export const bcom3__8EOH = [
 
 
       // MID TERM
-      "What are the major agricultural issues/challenges of HP.✔",
+      "What are the major agricultural issues/challenges of HP. [mid term ✔]",
     ],
   },
   {
@@ -1232,7 +1250,7 @@ export const bcom3__8EOH = [
     chapterNo: "10",
     chapterName: "Hydropower and Environmental issues in HP",
     chapterTopics: [
-      "Write short note on Hydropower Potential of HP.✔",
+      "Write short note on Hydropower Potential of HP. [mid term ✔]",
     ],
   },
 
@@ -1240,7 +1258,7 @@ export const bcom3__8EOH = [
     chapterNo: "11",
     chapterName: "Social Welfare programmers, Education and Health in HP",
     chapterTopics: [
-      "Name at least 10 social welfare schemes run by govt. of HP.✔",
+      "Name at least 10 social welfare schemes run by govt. of HP. [mid term ✔]",
     ],
   },
 
@@ -1248,7 +1266,7 @@ export const bcom3__8EOH = [
     chapterNo: "12",
     chapterName: "Infrastructure of HP",
     chapterTopics: [
-      "What are the major infrastructural related issues/challenges of HP.✔",
+      "What are the major infrastructural related issues/challenges of HP. [mid term ✔]",
     ],
   },
 
@@ -1256,7 +1274,7 @@ export const bcom3__8EOH = [
     chapterNo: "13",
     chapterName: "Tourism in HP",
     chapterTopics: [
-      "Briefly explain the Tourism Potential of HP.✔",
+      "Briefly explain the Tourism Potential of HP. [mid term ✔]",
     ],
   },
 ];
