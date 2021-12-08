@@ -915,8 +915,8 @@ export const bcom3__7INDI = [
     chapterName : "What do you mean by monetary policy. Describe its relevance in context of Crypto Currency. [mid term ✔]",
     chapterTopics : [
       "Monetary policy: Monetary policy  is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and the demand side, economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity. It is designed to maintain the price stability in the economy. Other objectives of the monetary policy of India, as stated by RBI, are:",
-      "Controlled expansion of bank credit : One of the important functions of RBI is the controlled expansion of bank credit and money supply with special attention to seasonal requirement for credit without affecting the output.",
-      "Promotion of fixed : The aim here is to increase the productivity of investment by restraining non essential fixed investment.",
+      "1. Controlled expansion of bank credit : One of the important functions of RBI is the controlled expansion of bank credit and money supply with special attention to seasonal requirement for credit without affecting the output.",
+      "2. Promotion of fixed : The aim here is to increase the productivity of investment by restraining non essential fixed investment.",
       "Let's learn about what is Cryptocurrency : A cryptocurrency is a digital or virtual kind currency marked by cryptocurrency. It is a network that distributed across on oversized number of computer which makes it nearly impossible to double spend. It allow secure online payment.",
       "Here are some Monetary policy relevance in context of cryptocurrency.",
       "1. Protection from inflation :  Inflation has caused many currencies to urge their value to decline with time. At the time of its launch, almost every cryptocurrency is released with a tough and fast amount. The ASCII computer file specifies the quantity of any coin, there are only 21 million Bitcoins released within the planet. So, because the demand increases, its value will increases which might maintain with the market and, within the long run, prevent inflation.",
@@ -930,7 +930,7 @@ export const bcom3__7INDI = [
     chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India. [mid term ✔]",
     chapterTopics : [
       "Agriculture is an impotant part of Indian's economy. This sector provide 58% of total jobs and contribute 18.1% to the total GDP. Over 70% of the rural households depend on agriculture. Gross value added by agriculture, forestry and fishing was estimated at 276B $ in FY20.  India ranks second worldwide in farm outputs. Pricipal agricultural commodities export for april 2020 to january 2021 was 32.12B $.",
-      "India exported $38 billion worth of agricultural products in 2013, making it the 7th largest agricultural exporter worldwide and the 6th largest net exporter.Most of its agriculture exports serve developing and least developed nations",
+      "India exported $38 billion worth of agricultural products in 2013, making it the 7th largest agricultural exporter worldwide and the 6th largest net exporter.Most of its agriculture exports serve developing and least developed nations.",
       "Here are Three Farm Laws, which have meant unprecedented protest by farmers for over a year will be withdrawn, PM Modi said.",
       "1. The Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act: This Act provides for setting up mechanism allowing the farmers to sell their farm produces outside the agriculture produced market committees(APMCs). Any licence holder trader can buy the produce from the farmer at mutually agree prices. Trade of farm produce will be free of mandi tax imposed by state govt.",
       "2. The Farmers' (Empowerment and Protection) Agreement of Price Assurance and Farm Services Act: This Act helps farmer to do contract farming and market their produces freely.",
@@ -942,6 +942,8 @@ export const bcom3__7INDI = [
     chapterNo : "# Question 3",
     chapterName : "Difference between planning commission and NITI Aayog (in term of function). [mid term ✔]",
     chapterTopics : [
+      "NITI Aayog : National Institution for Transforming India, was established in 2015, with the aim to achieve sustainable development goals with cooperative federalism by fostering the involvement of State Governments of India in the economic policy-making process using a bottom-up approach. Its initiatives include '15-year road map', '7-year vision, strategy, and action plan', AMRUT, Digital India, Atal Innovation Mission, Medical Education Reform, agriculture reforms etc.",
+      "Planning Commission : The Planning Commission was an institution in the Government of India, which formulated India's Five-Year Plans, among other functions. in 2015, by the NDA government, Planning Commission is replaced by NITI Aayog.",
       "Here are some difference between planning commission and NITI Aayog",
       "1. Nature of work : NITI Aayog work as a supportive institute. It will give technical suggestion to Central and State govt. It doesn't has a power to allocation resources. Other side, Plannig Commission has a power to allocate financial resources. Planning Commission scope is much wider.",
       "2. Full-Time Members : In NITI Aayog Full-time members are very low than Planning Commission. Other side, Planning Commission body are very huge.",
