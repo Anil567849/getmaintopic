@@ -17,13 +17,13 @@ export const bcom3__1GST = [
       "Meaning of Tax",
       "Characteristic of Tax",
       // "Taxes, Duty, Fees and Penalty",
-      "Differences between Tax and Duty",
-      "Differences between Tax and Fees",
+      // "Differences between Tax and Duty",
+      // "Differences between Tax and Fees",
       // "Objectives of Taxation",
       "Types of Taxes",
-      "Direct Taxes",
-      "Indirect Taxes",
-      "Tax Structure in India",
+      // "Direct Taxes",
+      // "Indirect Taxes",
+      // "Tax Structure in India",
       "Difference between Direct and Indirect Taxes",
       // "Constitutional Provisions Regarding Taxation in India",
       // "Tax Structure in India Before Implementaion of GST",
@@ -31,7 +31,7 @@ export const bcom3__1GST = [
       // "SGST",
       
       // MID TERM 
-      "Tax Structure in India After Implementaion of GST [mid term ✔]",
+      "Tax Structure in India After Implementaion of GST {✔✔ MID TERM}",
       
 
     ],
@@ -44,12 +44,12 @@ export const bcom3__1GST = [
       // "Genesis of GST",
       // "Shortcoming of Present System and Need of GST",
       "Benefit of GST",
-      "Drawbacks of GST",
+      // "Drawbacks of GST",
       // "Implementation of GST in India",
       // "Tax Structure in India After Implementaion of GST",
 
       // MID TERM 
-      "Silent Features of GST [mid term ✔]",
+      "Silent Features of GST {✔✔ MID TERM}",
     ],
   },
   {
@@ -64,7 +64,7 @@ export const bcom3__1GST = [
       // "Authorisation of Officiers of State or Union Territory as Proper Officer in Certain Circumstances (Section 6)",
       
       // MID TERM 
-      "Describe Administration Set Up GST [mid term ✔]",
+      "Describe Administration Set Up GST {✔✔ MID TERM}",
     ],
   },
   {
@@ -76,11 +76,11 @@ export const bcom3__1GST = [
       // "Composites and Mixed Supplies",
       
       // MID TERM 
-      "Scope of Supply as per GST Law (Section 7) [mid term ✔]",
+      "Scope of Supply as per GST Law (Section 7) {✔✔ MID TERM}",
       // SUB SECTION 
       "Normal or Taxable Supplies (Section 7(1))",
       "Non-Taxable Supplies (Section 7(2))",
-      "Declared Supply of Goods and Services (Section 7(2)) [2021 ✔]",
+      "Declared Supply of Goods and Services (Section 7(2)) {✔✔ 2021}",
     ],
   },
   {
@@ -94,7 +94,7 @@ export const bcom3__1GST = [
       // "Laibility of Pay GST",
 
       // MID TERM 
-      "Tax on Reverse Charge Basis (Section 9(3)) [mid term ✔]",
+      "Tax on Reverse Charge Basis (Section 9(3)) {✔✔ MID TERM}",
 
       
       "Supply by Unregistrered Suppliers (Section 9(4))",
@@ -106,7 +106,7 @@ export const bcom3__1GST = [
     chapterName: "Small Taxable Person : Exemptions and Composition Scheme",
     chapterTopics: [
       "Meaning of Compostion Scheme under GST",
-      "Key Feature of the Composition Scheme",
+      // "Key Feature of the Composition Scheme",
       // "Benefit and Drawback of Registering under GST Composition Scheme",
       // "Applicatoin of Composition Scheme(sec(10(1))",
       // "Non Applicability of Scheme(sec(10(2))",
@@ -117,7 +117,7 @@ export const bcom3__1GST = [
       // "Penal Provision(sec(10(5))",
 
       // MID TERM 
-      "Define the Composition Scheme under GST. [mid term ✔]",
+      "Define the Composition Scheme under GST. {✔✔ MID TERM}",
     ],
   },
 ];
@@ -139,9 +139,9 @@ export const bcom3__2MAC = [
       
       
       // 2021 question paper
-      "Feature of Management Accounting [2021 ✔]",
-      "Scope of Management Accounting [2021 ✔]",
-      "'Management Accouting is financial belt at its elastic point'. How far do you agree with this statement? [2021 ✔]",
+      "Feature of Management Accounting {✔✔ 2021}",
+      "Scope of Management Accounting {✔✔ 2021}",
+      "'Management Accouting is financial belt at its elastic point'. How far do you agree with this statement? {✔✔ 2021}",
     ],
   },
   {
@@ -179,17 +179,17 @@ export const bcom3__2MAC = [
       "Comparision between Forecast and Budget",
       "Advantages of Budgeting and Budgetary Control",
       "Limitation of Budgeting and Budgetary Control",
-      "Kinds Of Budgets [mid term ✔]",
-      "Budget According to Fuctions [mid term ✔]",
-      "Comparision between Fixed and Flexible Budget [mid term ✔]",
+      "Kinds Of Budgets {✔✔ MID TERM}",
+      "Budget According to Fuctions {✔✔ MID TERM}",
+      "Comparision between Fixed and Flexible Budget {✔✔ MID TERM}",
 
       // 2021 question paper
-      "Zero Based Budgeting [2021 ✔]",
-      "How Zero Based Budgeting is  different from Traditional Budgeting? What benefits occur from it? [2021 ✔]",
-      "Reciept and Payment Method (Do Numericals) [2021 ✔]",
+      "Zero Based Budgeting {✔✔ 2021}",
+      "How Zero Based Budgeting is  different from Traditional Budgeting? What benefits occur from it? {✔✔ 2021}",
+      "Reciept and Payment Method (Do Numericals) {✔✔ 2021}",
 
       //MY
-      "Flexible Budget (Do Numericals) [2021 ✔]",
+      "Flexible Budget (Do Numericals) {✔✔ 2021}",
     ],
   },
   {
@@ -198,22 +198,22 @@ export const bcom3__2MAC = [
     chapterTopics: [
       "Meaning of Standard Costing",
       "Definition of Standard Costing",
-      "Difference between Estimated Cost and Standard Cost [2021 ✔]",
-      "Difference between Budgetary and Standard Costing [2021 ✔]",
+      "Difference between Estimated Cost and Standard Cost {✔✔ 2021}",
+      "Difference between Budgetary and Standard Costing {✔✔ 2021}",
       "Advatages of Standard Costing",
       "Limitation of Standard Costing",
       // "Procedure of Standard Costing",
       // "Standard Cost Card",
       "Meaning of Analysis of Variance",
       "Meaning of Labour Variance",
-      "Material Variance (All Formulae) [2021 ✔]",
-      "Material Variance (Do Numericals) [2021 ✔]",
-      "Labour Variance(All Formulae) [2021 ✔]",
-      "Labour Variance(Do Numericals) [2021 ✔]",
-      "Control Ratios [mid term ✔]",
-      "Efficiency Ratio [mid term ✔]",
-      "Activity Ratio [mid term ✔]",
-      "Calender Ratio [mid term ✔]",
+      "Material Variance (All Formulae) {✔✔ 2021}",
+      "Material Variance (Do Numericals) {✔✔ 2021}",
+      "Labour Variance(All Formulae) {✔✔ 2021}",
+      "Labour Variance(Do Numericals) {✔✔ 2021}",
+      "Control Ratios {✔✔ MID TERM}",
+      "Efficiency Ratio {✔✔ MID TERM}",
+      "Activity Ratio {✔✔ MID TERM}",
+      "Calender Ratio {✔✔ MID TERM}",
     ],
   },
   {
@@ -224,16 +224,16 @@ export const bcom3__2MAC = [
       "Meaning of Break Even Analysis",
 
       // 2021 question paper
-      "Break Even Point (short note) [2021 ✔]",
-      "P/V Ratio (short note) [2021 ✔]",
-      "Angle of Incidence. (short note) [2021 ✔]",       
-      "Margin of Safety. (short note) [2021 ✔]",
-      "What is Absorption Costing? [2021 ✔]",
-      "Feature of Absorption costing. [2021 ✔]",
-      "Difference between Marginal Costing and Absorption Costing? [2021 ✔]",
-      "P/V ratio(Numericals). [2021 ✔]",
-      "Break-Even(Numericals). [2021 ✔]",
-      "Margin of Safety (Numericals). [2021 ✔]",
+      "Break Even Point (short note) {✔✔ 2021}",
+      "P/V Ratio (short note) {✔✔ 2021}",
+      "Angle of Incidence. (short note) {✔✔ 2021}",       
+      "Margin of Safety. (short note) {✔✔ 2021}",
+      "What is Absorption Costing? {✔✔ 2021}",
+      "Feature of Absorption costing. {✔✔ 2021}",
+      "Difference between Marginal Costing and Absorption Costing? {✔✔ 2021}",
+      "P/V ratio(Numericals). {✔✔ 2021}",
+      "Break-Even(Numericals). {✔✔ 2021}",
+      "Margin of Safety (Numericals). {✔✔ 2021}",
     ],
   },
   {
@@ -261,11 +261,11 @@ export const bcom3__2MAC = [
 
 
       // 2021 question paper
-      "Relevant and Irrelevant Costs (short note) [2021 ✔]",
-      "Sunk Cost (short note) [2021 ✔]",
-      "Differential Costs (short note) [2021 ✔]",
-      "Opportunity Cost (short note) [2021 ✔]",
-      "Marginal Cost (short note) [2021 ✔]",
+      "Relevant and Irrelevant Costs (short note) {✔✔ 2021}",
+      "Sunk Cost (short note) {✔✔ 2021}",
+      "Differential Costs (short note) {✔✔ 2021}",
+      "Opportunity Cost (short note) {✔✔ 2021}",
+      "Marginal Cost (short note) {✔✔ 2021}",
     ],
   },
 ];
@@ -293,12 +293,12 @@ export const bcom3__3FMA = [
       
       
       // 2021 question paper
-      "Objectives of Financial Management [2021 ✔]",
-      "Scope of Financial Management [2021 ✔]",
+      "Objectives of Financial Management {✔✔ 2021}",
+      "Scope of Financial Management {✔✔ 2021}",
 
       // MID TERM 
-      "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return). [mid term ✔]",
-      "Calculate Net Present Value. [mid term ✔]",
+      "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return). {✔✔ MID TERM}",
+      "Calculate Net Present Value. {✔✔ MID TERM}",
     ],
   },
   {
@@ -310,9 +310,9 @@ export const bcom3__3FMA = [
       // "Double Your Money",
 
       // 2021 question paper
-      "Explain the Time Value Techniques used in Financial Decisions. [mid term ✔]",
-      "Compute future value (use of Compound Factor Table). [mid term ✔]",
-      "Compute Present value (use of Compound Factor Table) [mid term ✔]."
+      "Explain the Time Value Techniques used in Financial Decisions. {✔✔ MID TERM}",
+      "Compute future value (use of Compound Factor Table). {✔✔ MID TERM}",
+      "Compute Present value (use of Compound Factor Table) {✔✔ MID TERM}."
     ],
   },
   {
@@ -328,7 +328,7 @@ export const bcom3__3FMA = [
       // "Measurement of Systematic Risk",
 
       // MID TERM 
-      "Difference between Systemetic and Unsystemic Risk. [mid term ✔]",
+      "Difference between Systemetic and Unsystemic Risk. {✔✔ MID TERM}",
     ],
   },
   {
@@ -337,7 +337,7 @@ export const bcom3__3FMA = [
     chapterTopics: [
       "Meaning of Capital Asset Pricing Model",
       //MID TERM
-      "Elaborate CAPM (Capital Asset Pricing Model) of Finance. [mid term ✔]",
+      "Elaborate CAPM (Capital Asset Pricing Model) of Finance. {✔✔ MID TERM}",
 
       
       //MY
@@ -357,8 +357,8 @@ export const bcom3__3FMA = [
       // "Multiple Growth Model",
 
       // 2021 question paper
-      "Explain the features of Bonds or Debentures. [2021 ✔]",
-      "Equity Cost of Capital (Numerical). [2021 ✔]",
+      "Explain the features of Bonds or Debentures. {✔✔ 2021}",
+      "Equity Cost of Capital (Numerical). {✔✔ 2021}",
     ],
   },
   {
@@ -375,9 +375,9 @@ export const bcom3__3FMA = [
       // "Limitation of Capital Budgeting",
 
       // 2021 question paper
-      "Explain the Risk and Uncertainty in Capital Budgeting. [2021 ✔]",
-      "What are the similarities and dissimilarities in NPV and IRR? [2021 ✔]",
-      "Present Value (Numerical) [2021 ✔]",
+      "Explain the Risk and Uncertainty in Capital Budgeting. {✔✔ 2021}",
+      "What are the similarities and dissimilarities in NPV and IRR? {✔✔ 2021}",
+      "Present Value (Numerical) {✔✔ 2021}",
     ],
   },
 ];
@@ -399,7 +399,7 @@ export const bcom3__4ENTRE = [
     chapterTopics: [
 
       // 2021 question paper
-      "What do you mean by Entrepreneurship? Explain. [2021 ✔]",
+      "What do you mean by Entrepreneurship? Explain. {✔✔ 2021}",
 
 
       // MY 
@@ -433,7 +433,7 @@ export const bcom3__4ENTRE = [
       // "Important of Intrapreneurship",
 
       // 2021 question paper
-      "Dimensions of Entrepreneurship [2021 ✔]",
+      "Dimensions of Entrepreneurship {✔✔ 2021}",
     ],
   },
   {
@@ -441,14 +441,14 @@ export const bcom3__4ENTRE = [
     chapterName: "Entrepreneurship and Micro, Small and Medium Entreprises",
     chapterTopics: [
       // "Meaning of MSME",
-      "Definition of MSME (2006, 2020) [mid term ✔]",
+      "Definition of MSME (2006, 2020) {✔✔ MID TERM}",
       "Charateristic of MSME",
       // "Large Entreprises Growth and Problems",
       "Difference between Large and Small Scale Entrepreneurs",
 
 
       // 2021 question paper
-      "What do you mean by Small Scale Enterprise? [2021 ✔]",
+      "What do you mean by Small Scale Enterprise? {✔✔ 2021}",
     ],
   },
   {
@@ -458,8 +458,8 @@ export const bcom3__4ENTRE = [
       // "Meaning of Business Group",
       // "Meaning of Family Business",
       // "Characteristic of Family Business",
-      "Role of Family Business and Business Group in Indian Economy [mid term ✔]",
-      "Problem Faced by a Family Business [mid term ✔]",
+      "Role of Family Business and Business Group in Indian Economy {✔✔ MID TERM}",
+      "Problem Faced by a Family Business {✔✔ MID TERM}",
     ],
   },
   {
@@ -492,15 +492,15 @@ export const bcom3__5INTER = [
       // "Major Decisions in International Business",
       // "Meaning of International Trade",
       // "Definition of International Trade",
-      "Comparsion in Internal and Interanation Trade",
+      // "Comparsion in Internal and Interanation Trade",
       // "Arguments Against a Separate Theory of International Trade",
       "Advantages of International Trade",
       "Disadvantages of International Trade",
       
       
       // 2021 question paper
-      "What do you mean by International Business?  [2021 ✔]",
-      "Challenges in International Business [2021 ✔]",
+      "What do you mean by International Business?  {✔✔ 2021}",
+      "Challenges in International Business {✔✔ 2021}",
     ],
   },
   {
@@ -521,12 +521,12 @@ export const bcom3__5INTER = [
 
 
       // MY 
-      "Component of Globalisaton",
-      "Causes of Globalisaton",
+      // "Component of Globalisaton",
+      // "Causes of Globalisaton",
 
       // 2021 question paper
-      "What is meant by Globalisation of Economy? [2021 ✔]",
-      "Explain component and causes of globalisation. [2021 ✔]",
+      "What is meant by Globalisation of Economy? {✔✔ 2021}",
+      "Explain component and causes of globalisation. {✔✔ 2021}",
     ],
   },
   {
@@ -561,7 +561,7 @@ export const bcom3__5INTER = [
 
 
       // 2021 question paper
-      "Critically explain the classical theory of Intenational Trade. [2021 ✔]",
+      "Critically explain the classical theory of Intenational Trade. {✔✔ 2021}",
     ],
   },
   {
@@ -711,9 +711,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning of Selling [2021 ✔]",
-      "Meaning of Personal Selling [2021 ✔]",
-      "What is the signnificance of personal selling to businessmen, customers and society? [2021 ✔]",
+      "Meaning of Selling {✔✔ 2021}",
+      "Meaning of Personal Selling {✔✔ 2021}",
+      "What is the signnificance of personal selling to businessmen, customers and society? {✔✔ 2021}",
 
     ],
   },
@@ -757,9 +757,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning Careers in Selling [2021 ✔]",
-      "Advantages of Careers in Selling [2021 ✔]",
-      "Describe the benefits and challenges of selling career. [2021 ✔]",
+      "Meaning Careers in Selling {✔✔ 2021}",
+      "Advantages of Careers in Selling {✔✔ 2021}",
+      "Describe the benefits and challenges of selling career. {✔✔ 2021}",
     ],
   },
   {
@@ -778,9 +778,9 @@ export const bcom3__6PER = [
 
 
       // 2021 question paper
-      "Discuss the various implications of Maslow's Hierarchy of needs theory for sales managers. [2021 ✔]",
-      "Explain the differet factors that affect the buying behaviour.(short note) [2021 ✔]",
-      "Describe the uses of buying motives in personal selling.(short note) [2021 ✔]",
+      "Discuss the various implications of Maslow's Hierarchy of needs theory for sales managers. {✔✔ 2021}",
+      "Explain the differet factors that affect the buying behaviour.(short note) {✔✔ 2021}",
+      "Describe the uses of buying motives in personal selling.(short note) {✔✔ 2021}",
     ],
   },
   {
@@ -809,11 +809,11 @@ export const bcom3__6PER = [
       "AIDCA Theory of Selling",
       
       // 2021 question paper
-      "Meaning of Selling Process [2021 ✔]",
-      "Stages/Steps in Personal Selling [2021 ✔]",
-      "What is Pre-Approach and Approach? (short note) [2021 ✔]",
-      "What is sales presentation? (short note) [2021 ✔]",
-      "What is Closing Sale? (short note) [2021 ✔]",
+      "Meaning of Selling Process {✔✔ 2021}",
+      "Stages/Steps in Personal Selling {✔✔ 2021}",
+      "What is Pre-Approach and Approach? (short note) {✔✔ 2021}",
+      "What is sales presentation? (short note) {✔✔ 2021}",
+      "What is Closing Sale? (short note) {✔✔ 2021}",
     ],
   },
   {
@@ -840,9 +840,9 @@ export const bcom3__6PER = [
       
       
       // 2021 question paper
-      "Meaning of Sales Reports [2021 ✔]",
-      "Types of Sales Report [2021 ✔]",
-      "Importance of Sales Report [2021 ✔]",
+      "Meaning of Sales Reports {✔✔ 2021}",
+      "Types of Sales Report {✔✔ 2021}",
+      "Importance of Sales Report {✔✔ 2021}",
       
     ]
   },
@@ -861,9 +861,9 @@ export const bcom3__6PER = [
       // "Code for Conduct for Employees of McDonald",
       
       // 2021 question paper
-      "Meaning of Sales Ethics [2021 ✔]",
-      "Definition of Sales Ethics [2021 ✔]",
-      "How ethics can be helpful in increasing sales? Explain. [2021 ✔]",
+      "Meaning of Sales Ethics {✔✔ 2021}",
+      "Definition of Sales Ethics {✔✔ 2021}",
+      "How ethics can be helpful in increasing sales? Explain. {✔✔ 2021}",
 
     ],
   },
@@ -888,8 +888,8 @@ export const bcom3__6PER = [
 
 
       // 2021 question paper
-      "Discuss Distribution Network Reptionship importance in personal selling. [2021 ✔]",
-      "What is AIDA sale model. [2021 ✔]",
+      "Discuss Distribution Network Reptionship importance in personal selling. {✔✔ 2021}",
+      "What is AIDA sale model. {✔✔ 2021}",
     ],
   },
 ];
@@ -901,18 +901,18 @@ export const bcom3__7INDI = [
     chapterNo : "#",
     chapterName : "Main Topics",
     chapterTopics : [
-      "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency. [mid term ✔]",
-      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India. [mid term ✔]",
-      "Difference between planning commission and NITI Aayog (in term of function). [mid term ✔]",
-      "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve. [mid term ✔]",
-      "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine. [mid term ✔]",
-      "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector. [mid term ✔]",
+      "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency. {✔✔ MID TERM}",
+      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India. {✔✔ MID TERM}",
+      "Difference between planning commission and NITI Aayog (in term of function). {✔✔ MID TERM}",
+      "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve. {✔✔ MID TERM}",
+      "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine. {✔✔ MID TERM}",
+      "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector. {✔✔ MID TERM}",
     ]
   },
 */
   {
     chapterNo : "# Question 1",
-    chapterName : "What do you mean by monetary policy. Describe its relevance in context of Crypto Currency. [mid term ✔]",
+    chapterName : "What do you mean by monetary policy. Describe its relevance in context of Crypto Currency. {✔✔ MID TERM}",
     chapterTopics : [
       "Monetary policy: Monetary policy  is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and the demand side, economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity. It is designed to maintain the price stability in the economy. Other objectives of the monetary policy of India, as stated by RBI, are:",
       "1. Controlled expansion of bank credit : One of the important functions of RBI is the controlled expansion of bank credit and money supply with special attention to seasonal requirement for credit without affecting the output.",
@@ -927,7 +927,7 @@ export const bcom3__7INDI = [
 
   {
     chapterNo : "# Question 2",
-    chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India. [mid term ✔]",
+    chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India. {✔✔ MID TERM}",
     chapterTopics : [
       "Agriculture is an impotant part of Indian's economy. This sector provide 58% of total jobs and contribute 18.1% to the total GDP. Over 70% of the rural households depend on agriculture. Gross value added by agriculture, forestry and fishing was estimated at 276B $ in FY20.  India ranks second worldwide in farm outputs. Pricipal agricultural commodities export for april 2020 to january 2021 was 32.12B $.",
       "India exported $38 billion worth of agricultural products in 2013, making it the 7th largest agricultural exporter worldwide and the 6th largest net exporter.Most of its agriculture exports serve developing and least developed nations.",
@@ -940,14 +940,14 @@ export const bcom3__7INDI = [
 
   {
     chapterNo : "# Question 3",
-    chapterName : "Difference between planning commission and NITI Aayog (in term of function). [mid term ✔]",
+    chapterName : "Difference between planning commission and NITI Aayog (in term of function). {✔✔ MID TERM}",
     chapterTopics : [
       "NITI Aayog : National Institution for Transforming India, was established in 2015, with the aim to achieve sustainable development goals with cooperative federalism by fostering the involvement of State Governments of India in the economic policy-making process using a bottom-up approach. Its initiatives include '15-year road map', '7-year vision, strategy, and action plan', AMRUT, Digital India, Atal Innovation Mission, Medical Education Reform, agriculture reforms etc.",
       "Planning Commission : The Planning Commission was an institution in the Government of India, which formulated India's Five-Year Plans, among other functions. in 2015, by the NDA government, Planning Commission is replaced by NITI Aayog.",
       "Here are some difference between planning commission and NITI Aayog",
-      "1. Nature of work : NITI Aayog work as a supportive institute. It will give technical suggestion to Central and State govt. It doesn't has a power to allocation resources. Other side, Plannig Commission has a power to allocate financial resources. Planning Commission scope is much wider.",
+      "1. Nature of work : NITI Aayog work as a supportive institute. It will give technical suggestion to Central and State govt. It doesn't has a power to allocation financial resources. Other side, Plannig Commission has a power to allocate financial resources. Planning Commission scope is much wider.",
       "2. Full-Time Members : In NITI Aayog Full-time members are very low than Planning Commission. Other side, Planning Commission body are very huge.",
-      "3. Part-Time Members : In NITI Aayog there can be Part-Time Members. It will choose from Pretigious university or person who has special knowledge. Other Side, Planning Commission doesn't have any Provision of Part-Time Members",
+      "3. Part-Time Members : In NITI Aayog there can be Part-Time Members. It will choose from Pretigious university or person who has special knowledge. Other Side, Planning Commission doesn't have any Provision of Part-Time Members.",
       "4. Appointment of Secretary : Secretary of NITI Aayog known as CEO. It appointed by Prime Minister. Ohter side, In Planning Commission Appointement of Secretary will done by simple process, and there is no such position like CEO.",
     ]
 
@@ -955,25 +955,25 @@ export const bcom3__7INDI = [
 
   {
     chapterNo : "# Question 4",
-    chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly explain the composition of Forex reserve. [mid term ✔]",
+    chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly explain the composition of Forex reserve. {✔✔ MID TERM}",
     chapterTopics : [
       "Foreign exchange reserve, also called Forex Reserve, are Foreign Currency deposits held by national central banks and Monetary Authorities. These Foreign Currency deposits are the financial assets of the central banks and Monetary Authority that held in different reserve currencies and which are used to back its liabilities(eg. the local currency issued and the various bank reserves deposited with the central banks by the govt. or financial institution). India's Forex Reserve are 603B $ (excluding gold).",
       "India has large foreign-exchange reserves; holdings of cash, bank deposits, bonds, and other financial assets denominated in currencies other than India's national currency, the Indian rupee. The reserves are managed by the Reserve Bank of India for the Indian government and the main component is foreign currency assets.",
       "Here are some Impact of FDI on Forex Reserve.",
-      "FDI leads to long term growth of the economy. MNC transfer the Technology domestic companies. Employment  rises a lot. With the help of export Balance of Payment show surplus which cause Rupees to appreciate to Dollars.  Forex Reseve rises significantly and this causes RBI's assets to increase due to which money supply rises and thus inflation rises too.",
+      "FDI leads to long term growth of the economy. MNC transfer the Technology to domestic companies. Employment  rises a lot. With the help of export Balance of Payment show surplus which cause Rupees to appreciate to Dollars.  Forex Reseve rises significantly and this causes RBI's assets to increase due to which money supply rises and thus inflation rises too.",
       "List of Composits. Forex Reserve of Inida consists of four category.",
       "1. Foreign Currency Assest (In march 536B $).",
       "2. Gold (RBI held 695.31 metric tone gold).",
       // "3. Special Drawing Rights (SDR) (It allocated by IMF to countries and cannot used or held by private party).",
       // "4. Reserve Tranche Position (RTP) (The diffrence between Member's Quota and the IMF's holdings of its currency is a country's Reserve Tranche Position).",
       "3. Special Drawing Rights (SDR) : SDR were created in 1969 to supplement short fall of preffered foreign exchange reserve assets, mainly gold and US $. It allocated by IMF to country and cannot used or held by private party. SDR are unit of a/c (money function) and not a currency per se.",
-      "4. Reserve Tranche Position (RTP) : Each member of the IMF is assigned a quota (membership free) part of which is payble in special drawing right (SDR), the difference between a member's quota and the IMF's holding of its currency is a coutry Reserve Tranche Position (RTP).",
+      "4. Reserve Tranche Position (RTP) : Each member of the IMF is assigned a quota (membership free) part of which is payble in special drawing right (SDR), the difference between a member's quota and the IMF's holding of its currency is a country Reserve Tranche Position (RTP).",
     ]
   },
 
   {
     chapterNo : "# Question 5",
-    chapterName : "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine. [mid term ✔]",
+    chapterName : "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine. {✔✔ MID TERM}",
     chapterTopics : [
       "PM Narendra Modi launched Swachh Bharat Mission Urban. PM Modi said the main aim of Swachh Bharat Mission 2.0 is to make the 'cities garbage free'. He said the 'garbage mountain in cities' will be processed and removed as part of Swachh Bharat Mission. We also aim to sewage and safety management, making cities water-secure and ensuring that dirty drain don't merge into rivers.",
       "Swachhta Survekshan Ranking of cities.",
@@ -996,7 +996,7 @@ export const bcom3__7INDI = [
 
   {
     chapterNo : "# Question 6",
-    chapterName : "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector. [mid term ✔]",
+    chapterName : "As per your opinion what are the factors responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector. {✔✔ MID TERM}",
     chapterTopics : [
       "What is inflation : Inflation is the decline of purchasing power of a given currency over time.",
       "Current status of inflation in India : The Wholesale price index (WPI) - linked inflation went double digit at 10.5% year on year in April 2021 (from 7.4% in March).",
@@ -1101,7 +1101,7 @@ export const bcom3__7INDI = [
 
 
       // 2021
-      "Discuss the causes and consequences of unemployment in India. [2021 ✔]",
+      "Discuss the causes and consequences of unemployment in India. {✔✔ 2021}",
     ]
   },
   {
@@ -1116,7 +1116,7 @@ export const bcom3__7INDI = [
 
 
       // 2021
-      "Discuss the Government Policy to reduce Inequalities of Income and Wealth. [2021 ✔]",
+      "Discuss the Government Policy to reduce Inequalities of Income and Wealth. {✔✔ 2021}",
     ],
   },
 ];
@@ -1143,11 +1143,11 @@ export const bcom3__8EOH = [
       "Rural-Urban Population of HP",
       "Basic Components of Population Growth",
       // "Density of Population",
-      "Sex Ratio",
+      // "Sex Ratio",
       // "Scheduled Caste and Scheduled Tribe Population",
       // "Workers Population",
-      "Regional Wise Population in HP",
-      "Human Devlopment Index (HDI)",
+      // "Regional Wise Population in HP",
+      // "Human Devlopment Index (HDI)",
     ],
   },
   {
@@ -1156,7 +1156,7 @@ export const bcom3__8EOH = [
     chapterTopics: [
       "Meaning of State Income",
       "Per Capita Income",
-      "Classification of Economic Activities",
+      // "Classification of Economic Activities",
       // "Growth Rate",
       "Features of State Income",
     ]
@@ -1166,20 +1166,20 @@ export const bcom3__8EOH = [
     chapterName: "State Finance",
     chapterTopics: [
       "Feature of Budget",
-      "Objectives of Budget",
+      // "Objectives of Budget",
       // "Types of Budget",
       "Receipts(Sources of Income)",
-      "Public Expenditure",
+      // "Public Expenditure",
       "Total Expenditure of HP",
       // "Fiscal Position of HP",
       // "Fiscal Liabilities of State Government",
 
 
       //MID TERM
-      "What are the main features of Annual Budget 2021 of HP. [mid term ✔]",
+      "What are the main features of Annual Budget 2021 of HP. {✔✔ MID TERM}",
 
       //MY
-      "HP Budget of 2020-21",
+      // "HP Budget of 2020-21",
     ],
   },
   {
@@ -1203,22 +1203,22 @@ export const bcom3__8EOH = [
       // "Distribution of Land Holding",
       // "Irrigation",
       // "Agriculture Prodution",
-      "Main Crops",
-      "Importance of Agriculture in Economy of HP",
+      // "Main Crops",
+      // "Importance of Agriculture in Economy of HP",
       // "Agriculture Productivity",
       // "Causes of Low Agriculture Productivity in HP",
       // "Remedies to Improve Agriculture Productivity and Production",
       // "Measures Taken by Government To Develop Agriculture",
       "B. HORTICULTURE",
       // "Production of Fruits in HP",
-      "Floriculture",
+      "C. Floriculture",
       // "Development of BeeKeeping",
-      "Significance of Horticulture in the Economy of HP",
+      // "Significance of Horticulture in the Economy of HP",
       // "Critical Appraisal of Govt Policies Toward Agriculture and Horticulture",
 
 
       // MID TERM
-      "What are the major agricultural issues/challenges of HP. [mid term ✔]",
+      "What are the major agricultural issues/challenges of HP. {✔✔ MID TERM}",
     ],
   },
   {
@@ -1227,7 +1227,7 @@ export const bcom3__8EOH = [
     chapterTopics: [
       "Marginalisation of Agirculture",
       "Agricultural Diversification",
-      "Diversification Outside Agriculture Sector",
+      // "Diversification Outside Agriculture Sector",
     ],
   },
   {
@@ -1243,7 +1243,7 @@ export const bcom3__8EOH = [
     chapterName: "Industrialistation and Labour Welfare Measures in HP",
     chapterTopics: [
       "Industrialistation in HP",
-      "Labour Welfare measures in HP",
+      // "Labour Welfare measures in HP",
       "Skill Development Programs in HP",
     ],
   },
@@ -1252,7 +1252,7 @@ export const bcom3__8EOH = [
     chapterNo: "10",
     chapterName: "Hydropower and Environmental issues in HP",
     chapterTopics: [
-      "Write short note on Hydropower Potential of HP. [mid term ✔]",
+      "Write short note on Hydropower Potential of HP. {✔✔ MID TERM}",
     ],
   },
 
@@ -1260,7 +1260,7 @@ export const bcom3__8EOH = [
     chapterNo: "11",
     chapterName: "Social Welfare programmers, Education and Health in HP",
     chapterTopics: [
-      "Name at least 10 social welfare schemes run by govt. of HP. [mid term ✔]",
+      "Name at least 10 social welfare schemes run by govt. of HP. {✔✔ MID TERM}",
     ],
   },
 
@@ -1268,7 +1268,7 @@ export const bcom3__8EOH = [
     chapterNo: "12",
     chapterName: "Infrastructure of HP",
     chapterTopics: [
-      "What are the major infrastructural related issues/challenges of HP. [mid term ✔]",
+      "What are the major infrastructural related issues/challenges of HP. {✔✔ MID TERM}",
     ],
   },
 
@@ -1276,7 +1276,7 @@ export const bcom3__8EOH = [
     chapterNo: "13",
     chapterName: "Tourism in HP",
     chapterTopics: [
-      "Briefly explain the Tourism Potential of HP. [mid term ✔]",
+      "Briefly explain the Tourism Potential of HP. {✔✔ MID TERM}",
     ],
   },
 ];
