@@ -914,7 +914,7 @@ export const bcom3__7INDI = [
     chapterNo : "# Question 1",
     chapterName : "What do you mean by monetary policy. Describe its relevance in context of Crypto Currency. {✔✔ MID TERM}",
     chapterTopics : [
-      "Monetary policy: Monetary policy  is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and the demand side, economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity. It is designed to maintain the price stability in the economy. Other objectives of the monetary policy of India, as stated by RBI, are:",
+      "Monetary policy : Monetary policy  is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and the demand side, economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity. It is designed to maintain the price stability in the economy. Other objectives of the monetary policy of India, as stated by RBI, are:",
       "1. Controlled expansion of bank credit : One of the important functions of RBI is the controlled expansion of bank credit and money supply with special attention to seasonal requirement for credit without affecting the output.",
       "2. Promotion of fixed : The aim here is to increase the productivity of investment by restraining non essential fixed investment.",
       "Let's learn about what is Cryptocurrency : A cryptocurrency is a digital or virtual kind currency marked by cryptocurrency. It is a network that distributed across on oversized number of computer which makes it nearly impossible to double spend. It allow secure online payment.",
@@ -927,14 +927,14 @@ export const bcom3__7INDI = [
 
   {
     chapterNo : "# Question 2",
-    chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India. {✔✔ MID TERM}",
+    chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed rollback of three farm law of central govt. of India. {✔✔ MID TERM}",
     chapterTopics : [
       "Agriculture is an impotant part of Indian's economy. This sector provide 58% of total jobs and contribute 18.1% to the total GDP. Over 70% of the rural households depend on agriculture. Gross value added by agriculture, forestry and fishing was estimated at 276B $ in FY20.  India ranks second worldwide in farm outputs. Pricipal agricultural commodities export for april 2020 to january 2021 was 32.12B $.",
-      "India exported $38 billion worth of agricultural products in 2013, making it the 7th largest agricultural exporter worldwide and the 6th largest net exporter.Most of its agriculture exports serve developing and least developed nations.",
+      "India exported $38 billion worth of agricultural products in 2013, making it the 7th largest agricultural exporter worldwide and the 6th largest net exporter. Most of its agriculture exports serve developing and least developed nations.",
       "Here are Three Farm Laws, which have meant unprecedented protest by farmers for over a year will be withdrawn, PM Modi said.",
-      "1. The Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act: This Act provides for setting up mechanism allowing the farmers to sell their farm produces outside the agriculture produced market committees(APMCs). Any licence holder trader can buy the produce from the farmer at mutually agree prices. Trade of farm produce will be free of mandi tax imposed by state govt.",
-      "2. The Farmers' (Empowerment and Protection) Agreement of Price Assurance and Farm Services Act: This Act helps farmer to do contract farming and market their produces freely.",
-      "3. The Essential Commodities (Amendment) Act: This Act is as amendment to the existing commodities act. This law now frees items such as pulses, edible oil, foodgrain and onion for trade except in extraordinary situation.",
+      "1. The Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act : This Act provides for setting up mechanism allowing the farmers to sell their farm produces outside the agriculture produced market committees(APMCs). Any licence holder trader can buy the produce from the farmer at mutually agree prices. Trade of farm produce will be free of mandi tax imposed by state govt.",
+      "2. The Farmers' (Empowerment and Protection) Agreement of Price Assurance and Farm Services Act : This Act helps farmer to do contract farming and market their produces freely.",
+      "3. The Essential Commodities (Amendment) Act : This Act is an amendment to the existing commodities act. This law now frees items such as pulses, edible oil, foodgrain and onion for trade except in extraordinary situation.",
     ]
   },
 
@@ -945,8 +945,8 @@ export const bcom3__7INDI = [
       "NITI Aayog : National Institution for Transforming India, was established in 2015, with the aim to achieve sustainable development goals with cooperative federalism by fostering the involvement of State Governments of India in the economic policy-making process using a bottom-up approach. Its initiatives include '15-year road map', '7-year vision, strategy, and action plan', AMRUT, Digital India, Atal Innovation Mission, Medical Education Reform, agriculture reforms etc.",
       "Planning Commission : The Planning Commission was an institution in the Government of India, which formulated India's Five-Year Plans, among other functions. in 2015, by the NDA government, Planning Commission is replaced by NITI Aayog.",
       "Here are some difference between planning commission and NITI Aayog",
-      "1. Nature of work : NITI Aayog work as a supportive institute. It will give technical suggestion to Central and State govt. It doesn't has a power to allocation financial resources. Other side, Plannig Commission has a power to allocate financial resources. Planning Commission scope is much wider.",
-      "2. Full-Time Members : In NITI Aayog Full-time members are very low than Planning Commission. Other side, Planning Commission body are very huge.",
+      "1. Nature of work : NITI Aayog work as a supportive institute. It will give technical suggestion to Central and State govt. It doesn't has a power to allocation financial resources. Other side, Planning Commission has a power to allocate financial resources. Planning Commission scope is much wider.",
+      "2. Full-Time Members : In NITI Aayog Full-time members are very lesser than Planning Commission. Other side, Planning Commission body are very huge.",
       "3. Part-Time Members : In NITI Aayog there can be Part-Time Members. It will choose from Pretigious university or person who has special knowledge. Other Side, Planning Commission doesn't have any Provision of Part-Time Members.",
       "4. Appointment of Secretary : Secretary of NITI Aayog known as CEO. It appointed by Prime Minister. Ohter side, In Planning Commission Appointement of Secretary will done by simple process, and there is no such position like CEO.",
     ]
@@ -958,22 +958,23 @@ export const bcom3__7INDI = [
     chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly explain the composition of Forex reserve. {✔✔ MID TERM}",
     chapterTopics : [
       "Foreign exchange reserve, also called Forex Reserve, are Foreign Currency deposits held by national central banks and Monetary Authorities. These Foreign Currency deposits are the financial assets of the central banks and Monetary Authority that held in different reserve currencies and which are used to back its liabilities(eg. the local currency issued and the various bank reserves deposited with the central banks by the govt. or financial institution). India's Forex Reserve are 603B $ (excluding gold).",
-      "India has large foreign-exchange reserves; holdings of cash, bank deposits, bonds, and other financial assets denominated in currencies other than India's national currency, the Indian rupee. The reserves are managed by the Reserve Bank of India for the Indian government and the main component is foreign currency assets.",
-      "Here are some Impact of FDI on Forex Reserve.",
-      "FDI leads to long term growth of the economy. MNC transfer the Technology to domestic companies. Employment  rises a lot. With the help of export Balance of Payment show surplus which cause Rupees to appreciate to Dollars.  Forex Reseve rises significantly and this causes RBI's assets to increase due to which money supply rises and thus inflation rises too.",
-      "List of Composits. Forex Reserve of Inida consists of four category.",
-      "1. Foreign Currency Assest (In march 536B $).",
+      "India has large foreign-exchange reserves holdings of cash, bank deposits, bonds, and other financial assets denominated in currencies other than India's national currency, the Indian rupee. The reserves are managed by the Reserve Bank of India for the Indian government and the main component is foreign currency assets.",
+      "FDI (Foreign Direct Investement) : FDI is a purchase of an interest in a company by an investor or a company located outside its borders.",
+      "Here are some Impact of FDI on Forex Reserve.",  
+      "1. FDI leads to long term growth of the economy. MNC transfer the Technology to domestic companies. Employment rises a lot. With the help of export Balance of Payment show surplus which cause Rupees to appreciate to Dollars.  Forex Reserve rises significantly and this causes RBI's assets to increase due to which money supply rises and thus inflation rises too.",
+      "Let's learn about List of Composits. Forex Reserve of India consists of four category.",
+      "1. Foreign Currency Assest (like US Treasury Bills bought by the RBI using foreign currencies) (In march 536B $).",
       "2. Gold (RBI held 695.31 metric tone gold).",
       // "3. Special Drawing Rights (SDR) (It allocated by IMF to countries and cannot used or held by private party).",
       // "4. Reserve Tranche Position (RTP) (The diffrence between Member's Quota and the IMF's holdings of its currency is a country's Reserve Tranche Position).",
-      "3. Special Drawing Rights (SDR) : SDR were created in 1969 to supplement short fall of preffered foreign exchange reserve assets, mainly gold and US $. It allocated by IMF to country and cannot used or held by private party. SDR are unit of a/c (money function) and not a currency per se.",
+      "3. Special Drawing Rights (SDR) : SDR were created in 1969 to supplement short fall of preffered foreign exchange reserve assets, mainly gold and US dollars. It allocated by IMF to country and cannot used or held by private party. SDR are unit of account (money function) and not a currency per se.",
       "4. Reserve Tranche Position (RTP) : Each member of the IMF is assigned a quota (membership free) part of which is payble in special drawing right (SDR), the difference between a member's quota and the IMF's holding of its currency is a country Reserve Tranche Position (RTP).",
     ]
   },
 
   {
     chapterNo : "# Question 5",
-    chapterName : "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine. {✔✔ MID TERM}",
+    chapterName : "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India and HP. Briefly explain how the ranking of different cities is determine. {✔✔ MID TERM}",
     chapterTopics : [
       "PM Narendra Modi launched Swachh Bharat Mission Urban. PM Modi said the main aim of Swachh Bharat Mission 2.0 is to make the 'cities garbage free'. He said the 'garbage mountain in cities' will be processed and removed as part of Swachh Bharat Mission. We also aim to sewage and safety management, making cities water-secure and ensuring that dirty drain don't merge into rivers.",
       "Swachhta Survekshan Ranking of cities.",
@@ -987,10 +988,14 @@ export const bcom3__7INDI = [
       "8.Vadodara ",
       "9.Visakhapatnam ",
       "10.Ahmedabad ",
-      "24.Bhubneshwar ",
-      "27.Shimla",
+      "In Himachal Pradesh",
+      "1.Shimla",
+      "2.Dharamsala",
+      "3.Solan",
+      "4.Mandi",
+      "5.Palampur",
       "How Ranking is Determined?",
-      "Ranking is determined by the air quality. The data shown for each in the major city ranking is and average (median) value from all the station in that city that monitor PM2.5 as one of their polutants.",
+      "Ranking is determined by the air quality. The data shown for each in the major city ranking is an average (median) value from all the station in that city that monitor PM2.5 (Fine particulate matter) as one of their polutants.",
     ]
   },
 
@@ -1000,7 +1005,7 @@ export const bcom3__7INDI = [
     chapterTopics : [
       "What is inflation : Inflation is the decline of purchasing power of a given currency over time.",
       "Current status of inflation in India : The Wholesale price index (WPI) - linked inflation went double digit at 10.5% year on year in April 2021 (from 7.4% in March).",
-      "Factor of Inflation in India:  The sharp rise in commodity prices across the world is a major reason behind the inflation spikes in India. Increasing the import cost for some of the crucial consumables, pushing inflation higher.",
+      "Factor of Inflation in India :  The sharp rise in commodity prices across the world is a major reason behind the inflation spikes in India. Increasing the import cost for some of the crucial consumables, pushing inflation higher.",
       "The increase in domestic prices is basically a reflection of international prices, because India meets 56% of its domestic demand through imports. In the International market, prices of edible oil have jumped sharply in recent months due to various factor.",
       "Why International Prices Rises?",
       "1. There has been a thrust on making renewable fuel from soyabean oil in the US, Brazil and other country. Despite of Covid-19 Pandemic, the global demand for edible oil has been high.","2. Buying by China.",
