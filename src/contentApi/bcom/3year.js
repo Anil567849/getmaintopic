@@ -298,7 +298,6 @@ export const bcom3__3FMA = [
 
       // MID TERM 
       "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return). {✔✔ MID TERM}",
-      "Calculate Net Present Value. {✔✔ MID TERM}",
     ],
   },
   {
@@ -377,7 +376,7 @@ export const bcom3__3FMA = [
       // 2021 question paper
       "Explain the Risk and Uncertainty in Capital Budgeting. {✔✔ 2021}",
       "What are the similarities and dissimilarities in NPV and IRR? {✔✔ 2021}",
-      "Present Value (Numerical) {✔✔ 2021}",
+      "Net Present Value (Numerical) {✔✔MID TERM ✔✔ 2021 }",
     ],
   },
 ];
