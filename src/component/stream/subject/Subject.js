@@ -3,7 +3,7 @@ import {useLocation} from 'react-router-dom';
 import SubjectsHeader from '../subject/SubjectsHeader';
 import {bcom1Subjects, bcom1__1STAT, bcom1__2FINAC, bcom1__3BUSLAW, bcom1__4BUSORG, bcom1__5ENGCOM, bcom1__6ENGAECC, bcom1__7HINDI, bcom1__8ESTUD} from '../../../contentApi/bcom/1year';
 import {bcom2Subjects, bcom2__1INTAX, bcom2__2CORAC, bcom2__3COSTAC, bcom2__4COMLAW, bcom2__5ENGCOM, bcom2__6HINDI, bcom2__7COMAPP, bcom2__8ECOM} from '../../../contentApi/bcom/2year';
-import {bcom3Subjects, bcom3__1GST, bcom3__2MAC, bcom3__3FMA, bcom3__4ENTRE, bcom3__5INTER, bcom3__6PER, bcom3__7INDI, bcom3__8EOH} from '../../../contentApi/bcom/3year';
+import {bcom3Subjects, bcom3__1GST, bcom3__2MAC, bcom3__3FMA, bcom3__4ENTRE, bcom3__5INTER, bcom3__6PER, bcom3__7INDI, bcom3__8EOH, bcom3__9MARK, bcom3__10MICRO} from '../../../contentApi/bcom/3year';
 import '../../css/stream/Subject.css';
 import Topic from '../Topics';
 import ChooseSubject from '../ChooseSubject';
@@ -73,6 +73,10 @@ const fetchSubjectTopic = (sbj) => {
             return bcom3__7INDI;
         case "bcom3__8EOH":
             return bcom3__8EOH; 
+        case "bcom3__8EOH":
+            return bcom3__9MARK; 
+        case "bcom3__8EOH":
+            return bcom3__10MICRO; 
             
 
         default:
