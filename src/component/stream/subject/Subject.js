@@ -73,9 +73,9 @@ const fetchSubjectTopic = (sbj) => {
             return bcom3__7INDI;
         case "bcom3__8EOH":
             return bcom3__8EOH; 
-        case "bcom3__8EOH":
+        case "bcom3__9MARK":
             return bcom3__9MARK; 
-        case "bcom3__8EOH":
+        case "bcom3__10MICRO":
             return bcom3__10MICRO; 
             
 
