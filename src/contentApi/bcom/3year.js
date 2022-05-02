@@ -1,12 +1,12 @@
 export const bcom3Subjects = [
-  { subjectId: "bcom3__1GST", subjectName: "GST" },
+  // { subjectId: "bcom3__1GST", subjectName: "GST" },
   { subjectId: "bcom3__2MAC", subjectName: "MANAGEMENT ACCOUNTING" },
   { subjectId: "bcom3__3FMA", subjectName: "FINANCIAL MANAGEMENT" },
   { subjectId: "bcom3__4ENTRE", subjectName: "ENTREPRENEURSHIP" },
   { subjectId: "bcom3__5INTER", subjectName: "INTERNATIONAL BUSINESS" },
   { subjectId: "bcom3__6PER", subjectName: "PERSONAL SELLING" },
   { subjectId: "bcom3__7INDI", subjectName: "INDIAN ECONOMY" },
-  { subjectId: "bcom3__8EOH", subjectName: "ECONOMY OF HP" },
+  // { subjectId: "bcom3__8EOH", subjectName: "ECONOMY OF HP" },
   { subjectId: "bcom3__9MARK", subjectName: "PRINCIPLES OF MARKETING" },
   { subjectId: "bcom3__10MICRO", subjectName: "PRINCIPLES OF MICROECONOMICS" },
 ];

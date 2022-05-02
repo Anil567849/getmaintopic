@@ -3,7 +3,7 @@ import '../../css/stream/SubjectsHeader.css';
 
 function SubjectsHeader({func, subject}) {
 
-    console.log(subject);
+    // console.log(subject);
     // console.log(func);
 
    

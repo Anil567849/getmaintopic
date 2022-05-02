@@ -113,7 +113,7 @@ function Subject() {
     }, [])
 
     const renderSubjectTopic = (sbjId, sbjName) =>{
-        console.log(sbjId);
+        // console.log(sbjId);
 
         const getSub = fetchSubjectTopic(sbjId);
         
