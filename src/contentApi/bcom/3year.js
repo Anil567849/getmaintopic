@@ -7,6 +7,8 @@ export const bcom3Subjects = [
   { subjectId: "bcom3__6PER", subjectName: "PERSONAL SELLING" },
   { subjectId: "bcom3__7INDI", subjectName: "INDIAN ECONOMY" },
   { subjectId: "bcom3__8EOH", subjectName: "ECONOMY OF HP" },
+  { subjectId: "bcom3__9MARK", subjectName: "PRINCIPLES OF MARKETING" },
+  { subjectId: "bcom3__10MICRO", subjectName: "PRINCIPLES OF MICROECONOMICS" },
 ];
 
 export const bcom3__1GST = [
@@ -31,7 +33,7 @@ export const bcom3__1GST = [
       // "SGST",
       
       // MID TERM 
-      "Tax Structure in India After Implementaion of GST {✔✔ MID TERM}",
+      "Tax Structure in India After Implementaion of GST",
       
 
     ],
@@ -49,7 +51,7 @@ export const bcom3__1GST = [
       // "Tax Structure in India After Implementaion of GST",
 
       // MID TERM 
-      "Silent Features of GST {✔✔ MID TERM}",
+      "Silent Features of GST",
     ],
   },
   {
@@ -64,7 +66,7 @@ export const bcom3__1GST = [
       // "Authorisation of Officiers of State or Union Territory as Proper Officer in Certain Circumstances (Section 6)",
       
       // MID TERM 
-      "Describe Administration Set Up GST {✔✔ MID TERM}",
+      "Describe Administration Set Up GST",
     ],
   },
   {
@@ -76,7 +78,7 @@ export const bcom3__1GST = [
       // "Composites and Mixed Supplies",
       
       // MID TERM 
-      "Scope of Supply as per GST Law (Section 7) {✔✔ MID TERM}",
+      "Scope of Supply as per GST Law (Section 7)",
       // SUB SECTION 
       "Normal or Taxable Supplies (Section 7(1))",
       "Non-Taxable Supplies (Section 7(2))",
@@ -94,7 +96,7 @@ export const bcom3__1GST = [
       // "Laibility of Pay GST",
 
       // MID TERM 
-      "Tax on Reverse Charge Basis (Section 9(3)) {✔✔ MID TERM}",
+      "Tax on Reverse Charge Basis (Section 9(3))",
 
       
       "Supply by Unregistrered Suppliers (Section 9(4))",
@@ -117,7 +119,7 @@ export const bcom3__1GST = [
       // "Penal Provision(sec(10(5))",
 
       // MID TERM 
-      "Define the Composition Scheme under GST. {✔✔ MID TERM}",
+      "Define the Composition Scheme under GST.",
     ],
   },
 ];
@@ -127,11 +129,12 @@ export const bcom3__2MAC = [
     chapterNo: "1",
     chapterName: "Nature and Scope of Management Accounting",
     chapterTopics: [
-      "Meaning of Management Accounting",
-      "Definition of Management Accounting",
+      "Meaning of Management Accounting {✔✔ 2022}",
+      "Definition of Management Accounting {✔✔ 2022}",
       // "Nature of Management Accounting",
       "Importance of Management Accounting",
-      // "Tools and Tech Used in Management Accounting",
+      "Objectives of Management Accounting {✔✔ 2022}",
+      "Tools and Tech Used in Management Accounting {✔✔ 2022}",
       "Difference between Cost and Management Accounting",
       // "Cost Control and Cost Reduction",
       // "Difference between Cost Control and Cost Reduction",
@@ -165,23 +168,28 @@ export const bcom3__2MAC = [
     chapterName: "Responsibility Accounting including Transfer Pricing",
     chapterTopics: [
       // "SKIP FOR NOW",
-      "Ratio (Numericals).",
+      "Ratio (Numericals). {✔✔ 2022}",
+      "Gross Profit Ratio (Numericals). {✔✔ 2022}",
+      "Net Profit Ratio (Numericals). {✔✔ 2022}",
+      "Return on Assets (Numericals). {✔✔ 2022}",
+      "Inventory Turnover Ratio (Numericals). {✔✔ 2022}",
+      "Debt Equity Ratio (Numericals). {✔✔ 2022}",
     ],
   },
   {
     chapterNo: "5",
     chapterName: "Budgeting and Budgetary Control",
     chapterTopics: [
-      "Meaning of Budget and Budgetary Control",
-      "Definition of Budgeting and Budgetary Control",
-      // "Objectives of Budgetary Control",
+      "Meaning of Budget and Budgetary Control {✔✔ 2022}",
+      "Definition of Budgeting and Budgetary Control {✔✔ 2022}",
+      "Objectives of Budgetary Control {✔✔ 2022}",
       // "Precuations of Budgeting",
       "Comparision between Forecast and Budget",
-      "Advantages of Budgeting and Budgetary Control",
+      "Advantages of Budgeting and Budgetary Control {✔✔ 2022}",
       "Limitation of Budgeting and Budgetary Control",
-      "Kinds Of Budgets {✔✔ MID TERM}",
-      "Budget According to Fuctions {✔✔ MID TERM}",
-      "Comparision between Fixed and Flexible Budget {✔✔ MID TERM}",
+      "Kinds Of Budgets",
+      "Budget According to Fuctions",
+      "Comparision between Fixed and Flexible Budget",
 
       // 2021 question paper
       "Zero Based Budgeting {✔✔ 2021}",
@@ -189,38 +197,36 @@ export const bcom3__2MAC = [
       "Reciept and Payment Method (Do Numericals) {✔✔ 2021}",
 
       //MY
-      "Flexible Budget (Do Numericals) {✔✔ 2021}",
+      "Cash Budget (Numericals)",
+      "Flexible Budget (Numericals) {✔✔ 2021, 2022}",
     ],
   },
   {
     chapterNo: "6",
     chapterName: "Standard Costing and Variance Analysis",
     chapterTopics: [
-      "Meaning of Standard Costing",
-      "Definition of Standard Costing",
-      "Difference between Estimated Cost and Standard Cost {✔✔ 2021}",
+      "Meaning of Standard Costing {✔✔ 2022}",
+      "Definition of Standard Costing {✔✔ 2022}",
+      "Difference between Estimated Cost and Standard Cost {✔✔ 2021, 2022}",
       "Difference between Budgetary and Standard Costing {✔✔ 2021}",
       "Advatages of Standard Costing",
       "Limitation of Standard Costing",
-      // "Procedure of Standard Costing",
+      "Procedure of Standard Costing {✔✔ 2022}",
       // "Standard Cost Card",
       "Meaning of Analysis of Variance",
       "Meaning of Labour Variance",
       "Material Variance (All Formulae) {✔✔ 2021}",
-      "Material Variance (Do Numericals) {✔✔ 2021}",
+      "Material Variance (Numericals) {✔✔ 2021}",
       "Labour Variance(All Formulae) {✔✔ 2021}",
-      "Labour Variance(Do Numericals) {✔✔ 2021}",
-      "Control Ratios {✔✔ MID TERM}",
-      "Efficiency Ratio {✔✔ MID TERM}",
-      "Activity Ratio {✔✔ MID TERM}",
-      "Calender Ratio {✔✔ MID TERM}",
+      "Labour Variance(Numericals) {✔✔ 2021}",
+      "Control Ratios",
     ],
   },
   {
     chapterNo: "7",
     chapterName: "Marginal Costing and Break Even Analysis",
     chapterTopics: [
-      "Meaning of Marginal Costing",
+      "Meaning of Marginal Costing {✔✔ 2022}",
       "Meaning of Break Even Analysis",
 
       // 2021 question paper
@@ -228,12 +234,17 @@ export const bcom3__2MAC = [
       "P/V Ratio (short note) {✔✔ 2021}",
       "Angle of Incidence. (short note) {✔✔ 2021}",       
       "Margin of Safety. (short note) {✔✔ 2021}",
+
       "What is Absorption Costing? {✔✔ 2021}",
       "Feature of Absorption costing. {✔✔ 2021}",
       "Difference between Marginal Costing and Absorption Costing? {✔✔ 2021}",
-      "P/V ratio(Numericals). {✔✔ 2021}",
-      "Break-Even(Numericals). {✔✔ 2021}",
-      "Margin of Safety (Numericals). {✔✔ 2021}",
+
+      "P/V ratio(Numericals). {✔✔ 2021, 2022}",
+      "Break-Even(Numericals). {✔✔ 2021, 2022}",
+      "Margin of Safety (Numericals). {✔✔ 2021, 2022}",
+      "Desired Profit (Numericals). {2022}",
+
+      "Various methods of break even preparation {✔✔ 2022}",
     ],
   },
   {
@@ -244,7 +255,7 @@ export const bcom3__2MAC = [
       "Characteristic of Relevant Cost",
       "Applications of Marginal Costig (Managerial Decision Making)",
       // "Capturing the Foreign Market",
-      // "Maintaining a Desired Level of Profits",
+      "Maintaining a Desired Level of Profits (Numericals) {✔✔ 2022}",
       // "Key or Limiting Factor",
       // "Make or Buy' Decision",
       // "Selection of Suitable Product/Sales Mix",
@@ -266,6 +277,34 @@ export const bcom3__2MAC = [
       "Differential Costs (short note) {✔✔ 2021}",
       "Opportunity Cost (short note) {✔✔ 2021}",
       "Marginal Cost (short note) {✔✔ 2021}",
+
+      "Meaning of pricing decision {✔✔ 2022}",
+      "Important factors which influence the pricing decision {✔✔ 2022}",
+    ],
+  },
+  {
+    chapterNo: "9",
+    chapterName: "Financial Statements",
+    chapterTopics: [
+      "Meaining of Finanacial Statements",
+      "Income statement",
+      "Balance sheet",
+      "Statement of changes in Financial Position",
+      "Statement of Retained Earning",
+      "Form of Balance Sheet",
+    ],
+  },
+  {
+    chapterNo: "10",
+    chapterName: "Techniques of Financial Analysis",
+    chapterTopics: [
+      "Comparatice Financial Statements",
+      "Common-size Statements",
+      "Trend Analysis",
+      "Ratio Analysis",
+      "Average Analysis",
+      "Fund Flow Analysis",
+      "Cash Flow Analysis",
     ],
   },
 ];
@@ -275,7 +314,7 @@ export const bcom3__3FMA = [
     chapterNo: "1",
     chapterName: "Nature and Scope of Financial Management",
     chapterTopics: [
-      "Meaning of Financial Management",
+      "Meaning of Financial Management {✔✔ 2022}",
       "Approaches to Financial Management",
       "Traditional Approach to Finance Function",
       "Modern Approach to Finance Function",
@@ -294,10 +333,8 @@ export const bcom3__3FMA = [
       
       // 2021 question paper
       "Objectives of Financial Management {✔✔ 2021}",
-      "Scope of Financial Management {✔✔ 2021}",
-
-      // MID TERM 
-      "Elaborate Wealth Maximization Approach of Finance (with Computation Formulae in context of equal return). {✔✔ MID TERM}",
+      "Scope of Financial Management {✔✔ 2021, 2022}",
+      "Importance of Financial Management {✔✔ 2022}",
     ],
   },
   {
@@ -305,13 +342,10 @@ export const bcom3__3FMA = [
     chapterName: "Time Value of Money",
     chapterTopics: [
       "Meaning of Time Value of Money",
-      // "Techniques of Time Value of Money",
+      "Techniques of Time Value of Money {✔✔ 2022}",
       // "Double Your Money",
 
-      // 2021 question paper
-      "Explain the Time Value Techniques used in Financial Decisions. {✔✔ MID TERM}",
-      "Compute future value (use of Compound Factor Table). {✔✔ MID TERM}",
-      "Compute Present value (use of Compound Factor Table) {✔✔ MID TERM}."
+      "A bird in hand is more preferable than two bird in the bush, Explain {✔✔ 2022}"
     ],
   },
   {
@@ -327,7 +361,7 @@ export const bcom3__3FMA = [
       // "Measurement of Systematic Risk",
 
       // MID TERM 
-      "Difference between Systemetic and Unsystemic Risk. {✔✔ MID TERM}",
+      "Difference between Systemetic and Unsystemic Risk.",
     ],
   },
   {
@@ -336,7 +370,7 @@ export const bcom3__3FMA = [
     chapterTopics: [
       "Meaning of Capital Asset Pricing Model",
       //MID TERM
-      "Elaborate CAPM (Capital Asset Pricing Model) of Finance. {✔✔ MID TERM}",
+      "Elaborate CAPM (Capital Asset Pricing Model) of Finance.",
 
       
       //MY
@@ -368,15 +402,170 @@ export const bcom3__3FMA = [
       "Features of Capital Budgeting",
       "Importance of Capital Budgeting",
       // "Kinds of Capital Budgeting",
-      // "Techniques of Capital Budgeting",
+      "Techniques of Capital Budgeting",
       // "Traditional Techniques",
       // "Discounted Cash Flow Techniques",
-      // "Limitation of Capital Budgeting",
+      "Limitation of Capital Budgeting {✔✔ 2022}",
+      "Capital Budgeting is long-term planning for making and financing proposed capital outlays, Explain {✔✔ 2022}",
 
       // 2021 question paper
       "Explain the Risk and Uncertainty in Capital Budgeting. {✔✔ 2021}",
       "What are the similarities and dissimilarities in NPV and IRR? {✔✔ 2021}",
-      "Net Present Value (Numerical) {✔✔MID TERM ✔✔ 2021 }",
+      "Net Present Value (Numerical) {✔✔ 2021, 2022 }",
+      "Profitability Index (Numerical) {✔✔ 2022 }",
+      "Pay-back Period (Numerical) {✔✔ 2022 }",
+    ],
+  },
+
+
+  {
+    chapterNo: "7",
+    chapterName: "Capital Budgeting Under Risk and Uncertainty",
+    chapterTopics: [
+      "Risk",
+      "Sensitiviy Analysis"
+    ],
+  },
+
+  {
+    chapterNo: "8",
+    chapterName: "Cost of Capital",
+    chapterTopics: [
+      "Meaning of Cost of Capital",
+      "Importance of Cost of Capital",
+      "Classification of Cost of Capital",
+      "Computation of Specific Costs",
+      "Cost of Debt",
+      "Cost of Preference Capital",
+      "Cost of Equity Capital",
+      "Cost of Retained Earning",
+      "Overall Cost of Capital",
+
+      // 2022 exam
+      "Different Approaches for Computing Cost of Capital {✔✔ 2022}",
+    ],
+  },
+  {
+    chapterNo: "9",
+    chapterName: "Capital Structure",
+    chapterTopics: [
+      "Meaning of Capital Structure",
+      "Optimum Capital Structure",
+      "Qualities of Optimum Capital Structure",
+      "Factors Affecting Capital Structure",
+      "Signigicance of Capital Structre Decision",
+      "Capital Structure Theories",
+      "Net Income Approach",
+      "Net Operating Income Approach",
+      "Modigliani-Miller Approach",
+      "Traditional Approach",
+    ],
+  },
+  {
+    chapterNo: "10",
+    chapterName: "Operating and Financial Leverages",
+    chapterTopics: [
+      "Meaning of Leverage",
+      "Operating Leverage {✔✔ 2022}",
+      "Financial Leverage {✔✔ 2022}",
+      "Trade on Equity {✔✔ 2022}",
+      "Combined Leverage",
+    ],
+  },
+  {
+    chapterNo: "11",
+    chapterName: "Dividend Policy",
+    chapterTopics: [
+      "Meaning of Dividend Policy",
+      "Why Investors Want Dividends",
+      "Significance of Dividend Policy",
+      "kinds of Dividends",
+      "Advantages of Stock Dividends",
+      "Types of Dividend Policies",
+      "Stable Dividend Policy",
+      "Significance Stable Dividend Policy",
+      "Factors Determining Dividend Policy",
+      "Dividend Theories/Models",
+      "Theory of Irrelevance of Dividend (Modigliani-Miller Approach)",
+      "Critisism of Modigliani-Miller Approach",
+      "Theory of Relevance of Dividend (Walter's Model Approach)",
+      "Theory of Relevance of Dividend (Gordon's Model Approach)",
+
+      "Walter's Model (Numerical) {✔✔ 2022}"
+    ],
+  },
+  {
+    chapterNo: "12",
+    chapterName: "Working Capital Management",
+    chapterTopics: [
+      "Meaning of Working Capital",
+      "Defination of Working Capital",
+      "Need for Working Capital",
+      "Factors Affecting Working Capital",
+      "Advantages of Adequate Working Capital",
+      // "Excess and Inadequate Working Capital",
+      "Management of Working Capital",
+      "Policies Regarding the Finaning of Current Assest",
+      "Analysis of Working Capital",
+      // "Operaing Cycle and its Relevance for Working Capital Management",
+      // "Techniques Adopted by Firms to Cut Down their Operating Cycle",
+      "Working Capital Forcast",
+
+      "Working Capital (Numericals) {✔✔ 2022}",
+      "Sources of Short and Long-Term Working Capital {✔✔ 2022}",
+      "Factors Determining the Working Capital Requirements",
+    ],
+  },
+  {
+    chapterNo: "13",
+    chapterName: "Cash Management",
+    chapterTopics: [
+      "Meaning of Cash Management",
+      // "Motives for Holding Cash",
+      "Objectives of Cash Management",
+      "Factors Affecting Cash Needs and Level of Cash",
+      "Devices of Cash Management",
+      "Cash Budget",
+      "Cash Flows Statement",
+      "Cash Flow Ratios",
+      "Cash Management Model",
+
+      "Receipts and Payments Method (Numericals) {✔✔ 2022}",
+    ],
+  },
+
+  {
+    chapterNo: "14",
+    chapterName: "Receivables Management",
+    chapterTopics: [
+      "Meaning of Receivables Management",
+      "Purpose of Receivables",
+      // "Costs of Investment in Receivables",
+      "Factores Influencing the Size of Receivables",
+      "Objectives of Receivables Management",
+      "Aspects of Receivables Management",
+      "Formulation of Credit Policies",
+      "Credit Analysis",
+      "Collection Policies",
+      "Evaluation of Credit Policies",
+    ],
+  },
+  {
+    chapterNo: "15",
+    chapterName: "Inventory Management",
+    chapterTopics: [
+      "Meaning of Inventory Management",
+      "Objectives of Inventory Management",
+      // "Risks and Costs of Over Investment in Inventories",
+      // "Risks of Inadequate Investment in Inventories",
+      // "Benefits of Holding Invetories",
+      "Techniques of Inventory Management",
+      "A.B.C Analysis",
+      "Re-Order Point",
+      "Safety Stock",
+      "Economic Order Quantity",
+      "Inventory Turnover Ratio",
+      "Ageing Schedule of Inventory",
     ],
   },
 ];
@@ -414,11 +603,11 @@ export const bcom3__4ENTRE = [
     chapterNo: "3",
     chapterName: "Creativity, Innovation and Entrepreneurship",
     chapterTopics: [
-      "Creativity and Innovation Meaning",
-      "Importance of Creativity in Entrepreneurship",
+      "Meaning of Creativity and Innovation",
+      "Importance of Creativity in Entrepreneurship {✔✔ 2022}",
       "The Creativity and Innovation Process",
       "Forms of Innovation",
-      "Importance of Innovation in Entrepreneurship",
+      "Importance of Innovation in Entrepreneurship {✔✔ 2022}",
       "Difference between Creativity and Innovation",
       // "Entrepreneurship's Creative Response to the Society and Work Problems",
     ],
@@ -427,12 +616,14 @@ export const bcom3__4ENTRE = [
     chapterNo: "4",
     chapterName: "Dimensions of Entrepreneurship",
     chapterTopics: [
-      "Meaning of Intrapreneurship",
-      "Difference between Entrepreneur and Intrapreneur",
+      // "Meaning of Intrapreneurship",
+      // "Difference between Entrepreneur and Intrapreneur",
       // "Important of Intrapreneurship",
 
       // 2021 question paper
       "Dimensions of Entrepreneurship {✔✔ 2021}",
+      "Meaning of Cultural Entrepreneurship {✔✔ 2022}",
+      "Importance of Cultural Entrepreneurship {✔✔ 2022}",
     ],
   },
   {
@@ -440,7 +631,7 @@ export const bcom3__4ENTRE = [
     chapterName: "Entrepreneurship and Micro, Small and Medium Entreprises",
     chapterTopics: [
       // "Meaning of MSME",
-      "Definition of MSME (2006, 2020) {✔✔ MID TERM}",
+      "Definition of MSME",
       "Charateristic of MSME",
       // "Large Entreprises Growth and Problems",
       "Difference between Large and Small Scale Entrepreneurs",
@@ -457,8 +648,11 @@ export const bcom3__4ENTRE = [
       // "Meaning of Business Group",
       // "Meaning of Family Business",
       // "Characteristic of Family Business",
-      "Role of Family Business and Business Group in Indian Economy {✔✔ MID TERM}",
-      "Problem Faced by a Family Business {✔✔ MID TERM}",
+
+      "Concept of Family Business {✔✔ 2022}",
+      "Role of Family Business and Business Group in Indian Economy",
+      "Problem Faced by a Family Business",
+      "Causes of Family Business Conflicts {✔✔ 2022}",
     ],
   },
   {
@@ -471,7 +665,195 @@ export const bcom3__4ENTRE = [
       // "Narayan Murthy",
 
       // 2021 question paper
-      "Discuss values, business philosophy and behaviour orientation of 'Narayan Murthy'?",
+      "Discuss values, business philosophy and behaviour orientation of 'Narayan Murthy'? {✔✔ 2021}",
+    ],
+  },
+  {
+    chapterNo: "8",
+    chapterName: "Entrepreneurship Stimulation",
+    chapterTopics: [
+      "Meaning of Stimulation of Entrepreneurship ",
+      // "Entrepreneurial Business Environment",
+      "Component of Business Environment",
+      "Internal Environment",
+      "External Environment",
+      "Relation Between Entrepreneurship and Environment",
+      // "Level of Entrepreneurial Stimulation",
+      "System of Stimulation",
+    ],
+  },
+  {
+    chapterNo: "9",
+    chapterName: "Support and Sustainability of Entrepreneurship",
+    chapterTopics: [
+      "Meaning of Support and Sustainability of Entrepreneurship",
+      "Requirement of Support and Sustainability of Entrepreneurship",
+      "Methods of Support and Sustainability of Entrepreneurship",
+      "Incentive",
+      "Assistance",
+      "Industrial Accommodation",
+      "Entrepreneurial Development Programmes",
+      "Phases of EDP",
+      "Need of EDP",
+      "Objectives of EDP",
+      "Course Contents of an EDP",
+      "Problem Faced by EDP",
+      // "Criteria to Assess the Effectiveness of EDP",
+
+      "Steps in Marketing of the Product by a New Entrepreneur {✔✔ 2022}",
+    ],
+  },
+  {
+    chapterNo: "10",
+    chapterName: "Institutional Support",
+    chapterTopics: [
+      "Meaning of Insitutional Support for Entrepreneur",
+      // "Nedd of Insitutional Support for Growth of Entrepreneur",
+      "Institutional Providing Supports to Entrepreneur",
+      "1. Small Industries Development Organization (SIDO)",
+      "2. National Small Industries Corporation (NSIC)",
+      "3. Small Industries Service Institutes (SISI)",
+      "4. District Industries Centres (DIC)",
+      "5. Small Industries Development Bank of India (SIDBI)",
+      "6. Small Scale Industries Board (SSIB)",
+      "7. State Financial Corporation (SFCs)",
+      "8. State Industrial Development Corporations (SIDCs)",
+
+
+      "Role of Industrial Associations Supporting Entrepreneurship in India {✔✔ 2022}",
+    ],
+  },
+  {
+    chapterNo: "11",
+    chapterName: "Role of Associations and Self-help Group in Entrepreneurship",
+    chapterTopics: [
+      "Meaning of Industries/Entrepreneur's Associaltions",
+      "Objectives and Importance of Industrial Associations",
+      "Meaning of Self-help Group",
+      "Objectives of Self-help Group",
+      // "Origin of SHGs",
+      "Characteristic of SHGs",
+      "Need and Importance of SHGs",
+      "Functions of SHGs",
+      "Principles of SHGs Functions",
+      "Formation of SHGs",
+      // "Working of SHGs",
+    ],
+  },
+  {
+    chapterNo: "12",
+    chapterName: "Business Incubators, Angel Investors, Venture Capital and Private Equity Fund",
+    chapterTopics: [
+      "Meaning of Business Incubators",
+      // "Origin of Concept Business Incubator",
+      "Objectives of Business Incubator",
+      "Types of Business Incubation Services",
+      "Models of Business Incubation",
+      "Types of Business Incubators",
+      "Role of Business Incubators",
+      "Meaning of Angel Funding",
+      "Meaning of Angel Investor",
+      "Types of Angel Investor",
+      "Benefits of Angel Investor",
+      "Drawbacks of Angel Investor",
+      "Meaning of Venture Capital",
+      "Features of Venture Capital",
+      "Types of Venture Capital Risks",
+      // "Factors Influencing Venture Capitalists",
+      "Advantages of Venture Capital",
+      "Disadvantages of Venture Capital",
+      "Distinguished Between Angel Funding and Venture Capital",
+      "Meaning of Private Equity Fund",
+      // "Top Private Equity Firms in India",
+      "Features of Private Equity Funds",
+      "Advantages of Private Equity Funds",
+      "Disadvantages of Private Equity Funds",
+      // "Venture Capital and Private Equity Funds",
+    ],
+  },
+  {
+    chapterNo: "13",
+    chapterName: "Business Idea: Sources and Testing of Feasiblity",
+    chapterTopics: [
+      "Meaning of Business Planning Process",
+      "Business Planning Process",
+      "1. Identifying and Generating the Idea",
+      "2. Environmental Scanning",
+      "3. Feasibility Study",
+      "4. Business Plan Development",
+      "5. Implementation of Plan and Follow up Action",
+    ],
+  },
+  {
+    chapterNo: "14",
+    chapterName: "Business Plan",
+    chapterTopics: [
+      "Meaning of Business Plan",
+      "Objectives of Business Plan",
+      "Importance of Business Plan",
+      "Section and Contents of Business Plan",
+      "Common Mistake in Preparation of Business Plan",
+      "Precautions While Preparing Busniess Plan",
+    ],
+  },
+  {
+    chapterNo: "15",
+    chapterName: "Business Process: Operational and Managerial",
+    chapterTopics: [
+      "Meaning of Business Process",
+      "Types of Business Process",
+      "1. Operation and Supportive Business Processes",
+      "2. Management Processes",
+    ],
+  },
+  {
+    chapterNo: "16",
+    chapterName: "Project Report and Appraisal",
+    chapterTopics: [
+      "Meaning of Project {✔✔ 2022}",
+      "Meaning of Project Report {✔✔ 2022}",
+      "Significance of Project Report of Business Plan {✔✔ 2022}",
+      "Contents of a Project Report",
+      // "Project Submission and Presentation",
+      "Presentation of Report",
+      "Methods of Report Presentation",
+      "Meaning of Project Appraisal",
+      "Types of Project Appraisal",
+      "Objectives of Project Appraisal",
+      "Aspects of Project Appraisal",
+      "Techniques of Financial Appraisal",
+    ],
+  },
+  {
+    chapterNo: "17",
+    chapterName: "Resource Mobilisationg for Start-up",
+    chapterTopics: [
+      "Meaning of Resources {✔✔ 2022}",
+      "Types of Business Resources {✔✔ 2022}",
+      "Meaning of Resources Mobilisation",
+      "Objectives of Resources Mobilisation",
+      "Planning for Resource Mobilisation",
+      "Factors for Considered for Effective Resource Mobilisation Process",
+      // "Accommodation and Utilities Required for Start-up",
+
+      "Concept of Start-up {✔✔ 2022}",
+    ],
+  },
+  {
+    chapterNo: "18",
+    chapterName: "Contract Management for Start-up",
+    chapterTopics: [
+      "Meaning of Contract",
+      "Essential Elements of a Valid Contract in Business Law",
+      "Preliminary Contracts in Start-up",
+      "Importance of Preliminary Contracts in Start-up",
+      "Points Should Be Considered in Forming a Contract for Start-up Enterprises",
+      "Meaning of Contract Management",
+      "Need of Contract Management",
+      "Importance of Contract Management",
+      "Reasons Behind Contract Management",
+      "Contract Problems of Start-up",
+      "Making a Solid Business Contract",
     ],
   },
 ];
@@ -487,7 +869,7 @@ export const bcom3__5INTER = [
       "Scope of International Business",
       // "Process of International Business",
       "Management of 5Ps of International Business",
-      "Difference between Domestic Bussines and International Business",
+      "Difference between Domestic Bussines and International Business {✔✔ 2022}",
       // "Major Decisions in International Business",
       // "Meaning of International Trade",
       // "Definition of International Trade",
@@ -543,11 +925,11 @@ export const bcom3__5INTER = [
     chapterNo: "4",
     chapterName: "International Business Environment",
     chapterTopics: [
-      // "Meaning of International Business Environment",
+      "Meaning of International Business Environment {✔✔ 2022}",
       "Need for The Study of International Business Environment",
       "Types of International Business Environment",
       "International Economic Environment",
-      "Component of International Business Evironment",
+      "Component of International Business Evironment {✔✔ 2022}",
     ],
   },
   {
@@ -561,6 +943,7 @@ export const bcom3__5INTER = [
 
       // 2021 question paper
       "Critically explain the classical theory of Intenational Trade. {✔✔ 2021}",
+      "Classical Theory of International Business {✔✔ 2022}"
     ],
   },
   {
@@ -623,13 +1006,13 @@ export const bcom3__5INTER = [
     chapterNo: "9",
     chapterName: "World Trade Organisation (WTO)",
     chapterTopics: [
-      "Meaning and Establishment of WTO",
+      "Meaning and Establishment of WTO {✔✔ 2022}",
       "Features of WTO",
-      "Objectives of WTO",
+      "Objectives of WTO {✔✔ 2022}",
       "Functions of WTO",
     //   "Organisational Structure of WTO",
       "Scope of WTO",
-      "WTO - Some Agreements/Code",
+      "WTO - Some Agreements/Code {✔✔ 2022}",
       "WTO and India",
     //   "Progress in Fulfilment of India's Commitment to WTO",
     //   "Role of WTO in International Trade",
@@ -691,8 +1074,166 @@ export const bcom3__5INTER = [
       "Integration Efforts in North America, (NAFTA)",
       "Integration Efforts in Europe, (EFTA)",
       // "BRICS",
+
+      "Explain ASEAN as a Regional Economic Group {✔✔ 2022}",
     ],
   },
+  {
+    chapterNo: "12",
+    chapterName: "Regional Economic Integration",
+    chapterTopics: [
+      "Meaning of Regional Economic Groups",
+      "Objectives of Regional Economic Groups",
+      "Reasons for Growth of Regional Economic Groups",
+      "Types of Regional Economic Groups",
+      "Benefits of Regional Economic Groups",
+      "Limitation of Regional Economic Groups",
+      "India and Regional Economic Groups",
+      "Integration Efforts in Asia",
+      "Integration Efforts in North America",
+      "Integration Efforts in Europe",
+    ],
+  },
+  {
+    chapterNo: "13",
+    chapterName: "International Financial System and Institution - IMF and World Bank",
+    chapterTopics: [
+      "Meaning of International Financial System",
+      "Main International Institutions in Global Financial System",
+      "Changes in International Financial System",
+      "Meaning of International Monetary Fund (IMF)",
+      "Objectives of IMF",
+      "Main Functions of IMF",
+      "Special Drawing Rights (SDR)",
+      "Success and Failure of IMF",
+      "Meaning of World Bank",
+      "Objectives of Meaning of World Bank",
+      "Functions of World Bank/IBRD",
+      "Lending Activities of World Bank",
+      "Success and Failure of World Bank",
+
+      "Critically Examine the Objectives and Progress of IBRD. {✔✔ 2022}",
+      "IRDB Role in Indian Economic Development {✔✔ 2022}",
+    ],
+  },
+  {
+    chapterNo: "14",
+    chapterName: "Foreign Exchange Markets and Risk Management",
+    chapterTopics: [
+      "Meaning of Forex Market (Foreign Exchange Market)",
+      "Feature of Forex Market",
+      "Functions of Forex Market",
+      "Meaning Exchange Rate",
+      // "Participation in Forex Market",
+      // "Exchange Rate Determination in India",
+      "Meaning Forex Risk (Foreign Exchange Risk)",
+      "Forex Risk Management",
+      "Financial Instruments for Managing Exchange Risk in Forex Market"
+    ],
+  },
+  {
+    chapterNo: "15",
+    chapterName: "Organisational Structure of International Business",
+    chapterTopics: [
+      "Meaning of Organisational Structure of International Business",
+      "Factors Affecting Organisational Structure in International Business",
+      "Principles of Global Business",
+      "Types of Organisational Structure in International Business",
+
+      "Organisational Structure of International Business Operation {✔✔ 2022}",
+    ],
+  },
+  {
+    chapterNo: "16",
+    chapterName: "Development and Issues in International Business",
+    chapterTopics: [
+      "Meaning of Information Technology",
+      "Role of Information Technology in International Business",
+      "IT Tools Used in International Business",
+      "Benefits of Using Tools in International Business",
+      "Limitations of IT Tools in International Business",
+      "Meaning of Outsourcing",
+      "Advantages of Outsources",
+      "Limitations of Outsources",
+      "Outsourcing Potencials for India",
+      "Meaning of Ecology",
+      "Effects of International Business on Ecology",
+
+      "Explain the Current Issues in International Business",
+    ],
+  },
+  {
+    chapterNo: "17",
+    chapterName: "Export Promotion Measures and Export Oriented Units",
+    chapterTopics: [
+      "Meaning of Export Promotion",
+      "Importance of Export Promotion",
+      "Measures for Export Promotion",
+      "New Strategy for Promoting Exports",
+      // "Progress of Exports in India",
+      // "Obstacles in the Path of Export Promotion in India",
+      "Suggestion for Export Promotion",
+      "Foreign Trade Policy",
+      "New Foregin Trade Policy (New Exim Policy 2015-20)",
+      "Special Economic Zones as a Tool of Export Promotion",
+      // "Foreign Trade Organisations in Public Sector of India",
+      "Export Oriented Units (EOUs)",
+
+      "Role of SEZs and Export House in Promoting Exports {✔✔ 2022}",
+    ],
+  },
+  {
+    chapterNo: "18",
+    chapterName: "Special Economic Zones (SEZ)",
+    chapterTopics: [
+      "Meaning of Special Economic Zones (SEZ)",
+      "Features of SEZ",
+      "Objectives of SEZ",
+      "Incentives Offered to SEZ",
+      // "Minimum Land Requirements for Setting up SEZ",
+      "Approval Mechanism and Administrative Set Up for SEZs",
+      // "Present Status of SEZ",
+      "Advantages of SEZ",
+      "Limitations of SEZ",
+    ],
+  },
+  {
+    chapterNo: "19",
+    chapterName: "Foreign Investment",
+    chapterTopics: [
+      "Meaning of Foreign Capital",
+      "Types of Foreign Capital",
+      "1. Foreign Aid",
+      "2. Commercial Borrowings",
+      "3. Foreign Investement",
+      "Objectives of Foreign Capital",
+      "Factors Influecing Foreign Capital",
+      // "Policy Regarding Foreign Capital",
+      // "Trends of Foregin Capital in India",
+      "Advantages of Foreign Capital",
+      "Limitations of Foreign Capital",
+      "Suggestions to Overcome Shortcoming of Foreign Capital",
+      "Suggestions Towards Better Investment Climate",
+      // "Consolidate FDI Policy 2017",
+      // "Measure for Promoting Foreign Investment from India",
+      // "India's Overseas Investment Trends",
+    ],
+  },
+  {
+    chapterNo: "20",
+    chapterName: "Financing of Foreign Trade and Payment Terms",
+    chapterTopics: [
+      "Meaning of Financing",
+      "Source of Finance in International Trade",
+      "Methods of Payment in International Trade",
+      "Mechanism of Payment in International Trade Transactions",
+
+      "Factoring {✔✔ 2022}",
+      "Corporate Guarantee {✔✔ 2022}",
+      "Open Account {✔✔ 2022}",
+    ],
+  },
+
 ];
 
 export const bcom3__6PER = [
@@ -700,18 +1241,18 @@ export const bcom3__6PER = [
     chapterNo: "1",
     chapterName: "Personal Selling and Salesmanship - An Introduction",
     chapterTopics: [
+      "Meaning of Selling {✔✔ 2021}",
       "Characteristic of Selling",
+      "Meaning of Personal Selling {✔✔ 2021, 2022}",
       "Meaning of Salesmanship",
-      "Difference between Old and Modern Concept of Salesmanship",
-      "Advantages of Personal Selling",
-      "Limitation of Personal Selling",
+      // "Difference between Old and Modern Concept of Salesmanship",
+      "Advantages of Personal Selling {✔✔ 2022}",
+      "Limitation of Personal Selling {✔✔ 2022}",
       // "Difference between of Personal Selling and Advertising",
       // "Myths in Selling",
       
       
       // 2021 question paper
-      "Meaning of Selling {✔✔ 2021}",
-      "Meaning of Personal Selling {✔✔ 2021}",
       "What is the signnificance of personal selling to businessmen, customers and society? {✔✔ 2021}",
 
     ],
@@ -722,12 +1263,14 @@ export const bcom3__6PER = [
     chapterTopics: [
       "Meaning of Sales Management",
       "Characteristics of Sales Management",
-      "Differencge between Marketin Management and Sales Management",
+      "Difference between Marketing Management and Sales Management",
       // "Objectives Sales Management",
       // "Functions Sales Management",
       // "Importance Sales Management",
       // "Interated Sales and Marketing Management",
       "Difference between Personal Selling and Sales Management",
+
+      "Relation Between Personal Selling, Salesmanship and Sales Management {✔✔ 2022}",
     ],
   },
   {
@@ -772,7 +1315,7 @@ export const bcom3__6PER = [
       // "Method of Motivating Sales Force",
       "Main Method of Motivation",
       "Motivation Process",
-      "Theories of Motivation (Maslow's Need Hierarchy)",
+      "Theories of Motivation",
       // "Leading the Sales Force",
 
 
@@ -780,20 +1323,24 @@ export const bcom3__6PER = [
       "Discuss the various implications of Maslow's Hierarchy of needs theory for sales managers. {✔✔ 2021}",
       "Explain the differet factors that affect the buying behaviour.(short note) {✔✔ 2021}",
       "Describe the uses of buying motives in personal selling.(short note) {✔✔ 2021}",
+
+      "Maslow's Hierarchy Needs Theory {✔✔ 2022}",
     ],
   },
   {
     chapterNo: "6",
     chapterName: "Buying Motives",
     chapterTopics: [
-      "Meaning of Buying Motives",
+      "Meaning of Buying Motives  {✔✔ 2022}",
       "Classification of Buying Motives",
       "Significance of Studing Buying Motives",
+      "Significance of Buying Motives in Personal Selling {✔✔ 2022}",
+      "Uses of Buying Motives in Personal Selling {✔✔ 2022}",
       // "Utility of Studing Buying Motives in Personal Selling",
       "Factor Affecting Buying Motives",
       "Buying Process",
       // "Buying Motives and Personal Selling",
-      "Difficulties in the Study of Buying Motives",
+      // "Difficulties in the Study of Buying Motives",
       "Meaning of Selling Points",
       "Distinction between Buying Motives and Selling Points",
 
@@ -812,7 +1359,11 @@ export const bcom3__6PER = [
       "Stages/Steps in Personal Selling {✔✔ 2021}",
       "What is Pre-Approach and Approach? (short note) {✔✔ 2021}",
       "What is sales presentation? (short note) {✔✔ 2021}",
-      "What is Closing Sale? (short note) {✔✔ 2021}",
+      "What is Closing Sale? (short note) {✔✔ 2021, 2022}",
+
+      "Explain Follow-up of Post Sale Activities in Personal Selling  {✔✔ 2022}", 
+      "Meaning of Sales Presentation  {✔✔ 2022}",
+      "Different Methods of Sales Presentation  {✔✔ 2022}",
     ],
   },
   {
@@ -820,7 +1371,7 @@ export const bcom3__6PER = [
     chapterName: "Sales Reports and Sales Manual",
     chapterTopics: [
 
-      // "Concepts of Sales Reports",
+      "Concepts of Sales Reports  {✔✔ 2022}",
       "Features of Good Sales Report",
       "Objective of Sales Report",
       // "Utility of Sales Report",
@@ -842,6 +1393,8 @@ export const bcom3__6PER = [
       "Meaning of Sales Reports {✔✔ 2021}",
       "Types of Sales Report {✔✔ 2021}",
       "Importance of Sales Report {✔✔ 2021}",
+
+      "Explain the Points to be Kept in Mind When it is Prepared  {✔✔ 2022}",
       
     ]
   },
@@ -849,6 +1402,8 @@ export const bcom3__6PER = [
     chapterNo: "9",
     chapterName: "Ethical Aspects of Selling",
     chapterTopics: [
+      "Meaning of Sales Ethics {✔✔ 2021, 2022}",
+      "Definition of Sales Ethics {✔✔ 2021, 2022}",
       "Characteristic of Sales Ethics",
       "Significance of Sales Ethics",
       "Ethical Issues in Sales Management",
@@ -860,9 +1415,9 @@ export const bcom3__6PER = [
       // "Code for Conduct for Employees of McDonald",
       
       // 2021 question paper
-      "Meaning of Sales Ethics {✔✔ 2021}",
-      "Definition of Sales Ethics {✔✔ 2021}",
       "How ethics can be helpful in increasing sales? Explain. {✔✔ 2021}",
+
+      "Explain Principles and Importance of Ethical Behaviour  {✔✔ 2022}",
 
     ],
   },
@@ -889,211 +1444,78 @@ export const bcom3__6PER = [
       // 2021 question paper
       "Discuss Distribution Network Reptionship importance in personal selling. {✔✔ 2021}",
       "What is AIDA sale model. {✔✔ 2021}",
+      "Relationship of Different Stages of AIDA Traditional Model and AIDA Modern Model {✔✔ 2022}",
+      "Meaning of Advertisement  {✔✔ 2022}",
+      "Importance of Advertisement  {✔✔ 2022}",
+      "Disadvantages of Advertisement  {✔✔ 2022}",
     ],
   },
 ];
 
 export const bcom3__7INDI = [
 
-/*
-  {
-    chapterNo : "#",
-    chapterName : "Main Topics",
-    chapterTopics : [
-      "What do you mean by monetary policy. Describe its relevence in context of Crypto Currency. {✔✔ MID TERM}",
-      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India. {✔✔ MID TERM}",
-      "Difference between planning commission and NITI Aayog (in term of function). {✔✔ MID TERM}",
-      "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly expalin the composition of Forex reserve. {✔✔ MID TERM}",
-      "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India. Briefly explain how the ranking of different cities is determine. {✔✔ MID TERM}",
-      "As per your opinion what are the fators responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector. {✔✔ MID TERM}",
-    ]
-  },
-*/
-  {
-    chapterNo : "# Question 1",
-    chapterName : "What do you mean by monetary policy. Describe its relevance in context of Crypto Currency. {✔✔ MID TERM}",
-    chapterTopics : [
-      "Monetary policy : Monetary policy  is the macroeconomic policy laid down by the central bank. It involves management of money supply and interest rate and the demand side, economic policy used by the government of a country to achieve macroeconomic objectives like inflation, consumption, growth and liquidity. It is designed to maintain the price stability in the economy. Other objectives of the monetary policy of India, as stated by RBI, are:",
-      "1. Controlled expansion of bank credit : One of the important functions of RBI is the controlled expansion of bank credit and money supply with special attention to seasonal requirement for credit without affecting the output.",
-      "2. Promotion of fixed : The aim here is to increase the productivity of investment by restraining non essential fixed investment.",
-      "Let's learn about what is Cryptocurrency : A cryptocurrency is a digital or virtual kind currency marked by cryptocurrency. It is a network that distributed across on oversized number of computer which makes it nearly impossible to double spend. It allow secure online payment.",
-      "Here are some Monetary policy relevance in context of cryptocurrency.",
-      "1. Protection from inflation :  Inflation has caused many currencies to urge their value to decline with time. At the time of its launch, almost every cryptocurrency is released with a tough and fast amount. The ASCII computer file specifies the quantity of any coin, there are only 21 million Bitcoins released within the planet. So, because the demand increases, its value will increases which might maintain with the market and, within the long run, prevent inflation.",
-      "2. Easy transfer of funds :  Cryptocurrency have always kept themselves as an optimal solution for transactions. Transactions, whether international or domestic in cryptocurrencies, are lightning-fast.",
-      "3. Growth : Because users are able to send and receive bitcoins with only a smartphone or computer, Bitcoin is theoretically available to populations of users without access to traditional banking systems, credit cards, and other methods of payment."
-    ]
-  },
-
-  {
-    chapterNo : "# Question 2",
-    chapterName : "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed rollback of three farm law of central govt. of India. {✔✔ MID TERM}",
-    chapterTopics : [
-      "Agriculture is an impotant part of Indian's economy. This sector provide 58% of total jobs and contribute 18.1% to the total GDP. Over 70% of the rural households depend on agriculture. Gross value added by agriculture, forestry and fishing was estimated at 276B $ in FY20.  India ranks second worldwide in farm outputs. Pricipal agricultural commodities export for april 2020 to january 2021 was 32.12B $.",
-      "India exported $38 billion worth of agricultural products in 2013, making it the 7th largest agricultural exporter worldwide and the 6th largest net exporter. Most of its agriculture exports serve developing and least developed nations.",
-      "Here are Three Farm Laws, which have meant unprecedented protest by farmers for over a year will be withdrawn, PM Modi said.",
-      "1. The Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act : This Act provides for setting up mechanism allowing the farmers to sell their farm produces outside the agriculture produced market committees(APMCs). Any licence holder trader can buy the produce from the farmer at mutually agree prices. Trade of farm produce will be free of mandi tax imposed by state govt.",
-      "2. The Farmers' (Empowerment and Protection) Agreement of Price Assurance and Farm Services Act : This Act helps farmer to do contract farming and market their produces freely.",
-      "3. The Essential Commodities (Amendment) Act : This Act is an amendment to the existing commodities act. This law now frees items such as pulses, edible oil, foodgrain and onion for trade except in extraordinary situation.",
-    ]
-  },
-
-  {
-    chapterNo : "# Question 3",
-    chapterName : "Difference between planning commission and NITI Aayog (in term of function). {✔✔ MID TERM}",
-    chapterTopics : [
-      "NITI Aayog : National Institution for Transforming India, was established in 2015, with the aim to achieve sustainable development goals with cooperative federalism by fostering the involvement of State Governments of India in the economic policy-making process using a bottom-up approach. Its initiatives include '15-year road map', '7-year vision, strategy, and action plan', AMRUT, Digital India, Atal Innovation Mission, Medical Education Reform, agriculture reforms etc.",
-      "Planning Commission : The Planning Commission was an institution in the Government of India, which formulated India's Five-Year Plans, among other functions. in 2015, by the NDA government, Planning Commission is replaced by NITI Aayog.",
-      "Here are some difference between planning commission and NITI Aayog",
-      "1. Nature of work : NITI Aayog work as a supportive institute. It will give technical suggestion to Central and State govt. It doesn't has a power to allocation financial resources. Other side, Planning Commission has a power to allocate financial resources. Planning Commission scope is much wider.",
-      "2. Full-Time Members : In NITI Aayog Full-time members are very lesser than Planning Commission. Other side, Planning Commission body are very huge.",
-      "3. Part-Time Members : In NITI Aayog there can be Part-Time Members. It will choose from Pretigious university or person who has special knowledge. Other Side, Planning Commission doesn't have any Provision of Part-Time Members.",
-      "4. Appointment of Secretary : Secretary of NITI Aayog known as CEO. It appointed by Prime Minister. Ohter side, In Planning Commission Appointement of Secretary will done by simple process, and there is no such position like CEO.",
-    ]
-
-  },
-
-  {
-    chapterNo : "# Question 4",
-    chapterName : "Discuss the impact of FDI in Foreign exchange reserve of India. Briefly explain the composition of Forex reserve. {✔✔ MID TERM}",
-    chapterTopics : [
-      "Foreign exchange reserve, also called Forex Reserve, are Foreign Currency deposits held by national central banks and Monetary Authorities. These Foreign Currency deposits are the financial assets of the central banks and Monetary Authority that held in different reserve currencies and which are used to back its liabilities(eg. the local currency issued and the various bank reserves deposited with the central banks by the govt. or financial institution). India's Forex Reserve are 603B $ (excluding gold).",
-      "India has large foreign-exchange reserves holdings of cash, bank deposits, bonds, and other financial assets denominated in currencies other than India's national currency, the Indian rupee. The reserves are managed by the Reserve Bank of India for the Indian government and the main component is foreign currency assets.",
-      "FDI (Foreign Direct Investement) : FDI is a purchase of an interest in a company by an investor or a company located outside its borders.",
-      "Here are some Impact of FDI on Forex Reserve.",  
-      "1. FDI leads to long term growth of the economy. MNC transfer the Technology to domestic companies. Employment rises a lot. With the help of export Balance of Payment show surplus which cause Rupees to appreciate to Dollars.  Forex Reserve rises significantly and this causes RBI's assets to increase due to which money supply rises and thus inflation rises too.",
-      "Let's learn about List of Composits. Forex Reserve of India consists of four category.",
-      "1. Foreign Currency Assest (like US Treasury Bills bought by the RBI using foreign currencies) (In march 536B $).",
-      "2. Gold (RBI held 695.31 metric tone gold).",
-      // "3. Special Drawing Rights (SDR) (It allocated by IMF to countries and cannot used or held by private party).",
-      // "4. Reserve Tranche Position (RTP) (The diffrence between Member's Quota and the IMF's holdings of its currency is a country's Reserve Tranche Position).",
-      "3. Special Drawing Rights (SDR) : SDR were created in 1969 to supplement short fall of preffered foreign exchange reserve assets, mainly gold and US dollars. It allocated by IMF to country and cannot used or held by private party. SDR are unit of account (money function) and not a currency per se.",
-      "4. Reserve Tranche Position (RTP) : Each member of the IMF is assigned a quota (membership free) part of which is payble in special drawing right (SDR), the difference between a member's quota and the IMF's holding of its currency is a country Reserve Tranche Position (RTP).",
-    ]
-  },
-
-  {
-    chapterNo : "# Question 5",
-    chapterName : "What is your understanding of Swachh Abhiyan 2.0. Highlight the Swachhta Survekshan Ranking of different cities of India and HP. Briefly explain how the ranking of different cities is determine. {✔✔ MID TERM}",
-    chapterTopics : [
-      "PM Narendra Modi launched Swachh Bharat Mission Urban. PM Modi said the main aim of Swachh Bharat Mission 2.0 is to make the 'cities garbage free'. He said the 'garbage mountain in cities' will be processed and removed as part of Swachh Bharat Mission. We also aim to sewage and safety management, making cities water-secure and ensuring that dirty drain don't merge into rivers.",
-      "Swachhta Survekshan Ranking of cities.",
-      "1.Indore. ",
-      "2.Surat ",
-      "3.Vijaywada ",
-      "4.Navi Mumbai ",
-      "5.Pune ",
-      "6.Raipur ",
-      "7.Bhopal ",
-      "8.Vadodara ",
-      "9.Visakhapatnam ",
-      "10.Ahmedabad ",
-      "In Himachal Pradesh",
-      "1.Shimla",
-      "2.Dharamsala",
-      "3.Solan",
-      "4.Mandi",
-      "5.Palampur",
-      "How Ranking is Determined?",
-      "Ranking is determined by the air quality. The data shown for each in the major city ranking is an average (median) value from all the station in that city that monitor PM2.5 (Fine particulate matter) as one of their polutants.",
-    ]
-  },
-
-  {
-    chapterNo : "# Question 6",
-    chapterName : "As per your opinion what are the factors responsible for present day inflationary trend in Crued oil, Edible oil and FMCG sector. {✔✔ MID TERM}",
-    chapterTopics : [
-      "What is inflation : Inflation is the decline of purchasing power of a given currency over time.",
-      "Current status of inflation in India : The Wholesale price index (WPI) - linked inflation went double digit at 10.5% year on year in April 2021 (from 7.4% in March).",
-      "Factor of Inflation in India :  The sharp rise in commodity prices across the world is a major reason behind the inflation spikes in India. Increasing the import cost for some of the crucial consumables, pushing inflation higher.",
-      "The increase in domestic prices is basically a reflection of international prices, because India meets 56% of its domestic demand through imports. In the International market, prices of edible oil have jumped sharply in recent months due to various factor.",
-      "Why International Prices Rises?",
-      "1. There has been a thrust on making renewable fuel from soyabean oil in the US, Brazil and other country. Despite of Covid-19 Pandemic, the global demand for edible oil has been high.","2. Buying by China.",
-      "3. labour issue in Malaysia",
-      "4. The impact of La Nina on palm and Soya producing area",
-      "5. Export duties on crude palm oil in Indonesia and Malaysia.",      
-      "6. Inflation basically occurs in a situation when the aggregate demand in the economy has exceeded the aggregate supply. As a result of which due to scarcity in supply the prices of the commodity rises.",
-    ]
-  },
-
   {
     chapterNo: "1",
-    chapterName: "Impact of Colonisation on Indian Economy",
+    chapterName: "Basic Issues in Economic Development",
     chapterTopics: [
-      "Meaning of Colonial Exploitation",
-      "Colonial Exploitation of India Under British Rule", 
-      "Impact of Colonial Exploitation",
     ],
   },
+
   {
     chapterNo: "2",
-    chapterName: "Features of Indian Economy Since Independence",
+    chapterName: "Features of Indian Economy at the time of Independence",
     chapterTopics: [
-      // "Indian Economony is an Underdeveloped Economy",
-      // "Features of Indian Economony as a Mixed Economy",
-      // "Features of Indian Economy as a Planned Developing Economy",
-      // "Dualistic Nature of Indian Economy",
-      "Sectoral Distrubution of Indian Economy",
-      "What is the sectoral contribution of Agriculture sector in national income of India. Discuss in light of the proposed role back of three fram law of center govt. of India.",
     ],
   },
   {
     chapterNo: "3",
-    chapterName: "Economic Planning in India and NITI Aayog",
+    chapterName: "Economic Planning in India",
     chapterTopics: [
-      "Introduction",
-      "Objectives of Economic Planning",
-      // "Progress under Economic Planning",
-      // "Failures of Economic Planning",
-      // "Causes of Slow Growth During Economic Planning",
-      // "Suggestions for the Success of Plans",
-      // "Strategy of Economic Planning",
-      // "Place of Economic Planning with Reference to Privatisation, Liberlisation and Globalisation",
-      "NITI Aayog",
-      "Objectives of NITI Aayog",
-      // "Three Year Action Agenda (2017 to 2020)"
-      "Difference between planning commission and NITI Aayog (in term of function).",
     ],
   },
   {
     chapterNo: "4",
-    chapterName: "Features and Appraisal of Economic Reforms",
+    chapterName: "Economic Reforms in India",
     chapterTopics: [
-      "Meaning of Economic Reforms or New Economic Policy",
-      "Main Features of Old Economic Policy",
-      "Need for Economic Reforms or New Economy Policy",
-      "Main Divisions of New Economy Policy",
-      "Main Features of New Economy Policy",
-      "Main Components of New Economy Policy",
-      "Arguments in Favour of New Economy Policy",
-      "Arguments Against of New Economy Policy",
-      "Achievements and Shortcomings of New Economy Policy",
-      "Second Phase of Economy Reforms in India",
-
-
-
-      // 2021 question paper
-      "Give arguments for and against of Economic reforms.",
     ],
   },
   {
     chapterNo: "5",
-    chapterName: "Problem of Poverty in India",
+    chapterName: "Monetary Policy in India",
     chapterTopics: [
-      "Meaning of Poverty",
-      "What is Poverty Line",
-      "Trends of Poverty in India",
-      "Causes of Poverty",
-      "Measures Undertaken by the Government for Poverty Alleviation",
-      "Evaluation of Poverty Alleviation Programmers",
-      "Suggestions for Reduction in Poverty",
-      "Poverty Alleviation in Twelfth Five Year Plan",
-      "Tendulkar Committee Report on Poverty",
     ],
   },
   {
     chapterNo: "6",
+    chapterName: "Fiscal Policy in India",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "7",
+    chapterName: "Growth and Structural Changes in National Income of India",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "8",
+    chapterName: "Pattern of Assets Ownership and Concentration of Economic Power",
+    chapterTopics: [
+      
+      "Discuss the Government Policy to reduce Inequalities of Income and Wealth. {✔✔ 2021}",
+    ],
+  },
+  {
+    chapterNo: "9",
+    chapterName: "Economic Policy Changes Since 1991",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "10",
     chapterName: "Problem of Unemployment in India",
     chapterTopics: [
+      
       "Meaning of Unemployment",
       "Nature and Types of Unemployment in India",
       "Trends in Unemployment in India",
@@ -1106,23 +1528,141 @@ export const bcom3__7INDI = [
 
       // 2021
       "Discuss the causes and consequences of unemployment in India. {✔✔ 2021}",
-    ]
-  },
-  {
-    chapterNo: "7",
-    chapterName: "Inequalities of Income and Wealth in India",
-    chapterTopics: [
-      "Meaning of Inequality",
-      "Causes of Inequalities of Income and Wealth in India",
-      "Government Policy to Reduce Inequalities of Income and Wealth",
-      "Is Complete Equality of Income Feasible and Desirable",
-
-
-
-      // 2021
-      "Discuss the Government Policy to reduce Inequalities of Income and Wealth. {✔✔ 2021}",
     ],
   },
+  {
+    chapterNo: "11",
+    chapterName: "Problem of Poverty in India",
+    chapterTopics: [
+
+      
+      "Meaning of Poverty",
+      "What is Poverty Line",
+      "Trends of Poverty in India",
+      "Causes of Poverty",
+      "Measures Undertaken by the Government for Poverty Alleviation",
+      "Evaluation of Poverty Alleviation Programmers",
+      "Suggestions for Reduction in Poverty",
+      "Poverty Alleviation in Twelfth Five Year Plan",
+      "Tendulkar Committee Report on Poverty",
+    ],
+  },
+  {
+    chapterNo: "12",
+    chapterName: "Human Development Indicators",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "13",
+    chapterName: "Environmental Concerns of Growth",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "14",
+    chapterName: "Demograhpic Features of Indian Population and its Impact on Economic Development",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "15",
+    chapterName: "Agriculture in India - Growth and Performance",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "16",
+    chapterName: "Green Revolution, Food Security and Public Distribution System",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "17",
+    chapterName: "Agriculture Price Policy",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "18",
+    chapterName: "Role and Pattern of Industrialisation",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "19",
+    chapterName: "Small Scale Industries in India",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "20",
+    chapterName: "Role and Performance of Public Sector",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "21",
+    chapterName: "Role of Foreign Capital",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "22",
+    chapterName: "Service Sector in India",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "23",
+    chapterName: "Financial Sector - Structure, Role and Reforms",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "24",
+    chapterName: "Foreign Trade and Balance of Payments",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "25",
+    chapterName: "Foreign Trade Policy (EXIM Policy)",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "26",
+    chapterName: "World Trade Organisation and its Impact on Indian Economy",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "27",
+    chapterName: "Currency Convertibility",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "28",
+    chapterName: "Inflation",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "29",
+    chapterName: "Natural and Frictional Unemployment and Labour Market Interaction with Production System",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "30",
+    chapterName: "Phillips Curve: The Trade off between Inflation and Unemployment",
+    chapterTopics: [
+    ],
+  },
+
+
 ];
 
 export const bcom3__8EOH = [
@@ -1180,7 +1720,7 @@ export const bcom3__8EOH = [
 
 
       //MID TERM
-      "What are the main features of Annual Budget 2021 of HP. {✔✔ MID TERM}",
+      "What are the main features of Annual Budget 2021 of HP. ",
 
       //MY
       // "HP Budget of 2020-21",
@@ -1222,7 +1762,7 @@ export const bcom3__8EOH = [
 
 
       // MID TERM
-      "What are the major agricultural issues/challenges of HP. {✔✔ MID TERM}",
+      "What are the major agricultural issues/challenges of HP. ",
     ],
   },
   {
@@ -1256,7 +1796,7 @@ export const bcom3__8EOH = [
     chapterNo: "10",
     chapterName: "Hydropower and Environmental issues in HP",
     chapterTopics: [
-      "Write short note on Hydropower Potential of HP. {✔✔ MID TERM}",
+      "Write short note on Hydropower Potential of HP. ",
     ],
   },
 
@@ -1264,7 +1804,7 @@ export const bcom3__8EOH = [
     chapterNo: "11",
     chapterName: "Social Welfare programmers, Education and Health in HP",
     chapterTopics: [
-      "Name at least 10 social welfare schemes run by govt. of HP. {✔✔ MID TERM}",
+      "Name at least 10 social welfare schemes run by govt. of HP. ",
     ],
   },
 
@@ -1272,7 +1812,7 @@ export const bcom3__8EOH = [
     chapterNo: "12",
     chapterName: "Infrastructure of HP",
     chapterTopics: [
-      "What are the major infrastructural related issues/challenges of HP. {✔✔ MID TERM}",
+      "What are the major infrastructural related issues/challenges of HP. ",
     ],
   },
 
@@ -1280,7 +1820,255 @@ export const bcom3__8EOH = [
     chapterNo: "13",
     chapterName: "Tourism in HP",
     chapterTopics: [
-      "Briefly explain the Tourism Potential of HP. {✔✔ MID TERM}",
+      "Briefly explain the Tourism Potential of HP. ",
     ],
   },
 ];
+
+export const bcom3__9MARK = [
+  {
+    chapterNo: "1",
+    chapterName: "Marketing - An Introduction",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "2",
+    chapterName: "Marketing Concepts",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "3",
+    chapterName: "Marketing Mix",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "4",
+    chapterName: "Marketing Environment",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "5",
+    chapterName: "Consumer Behaviour",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "6",
+    chapterName: "Buying Motives",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "7",
+    chapterName: "Market Segmentation",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "8",
+    chapterName: "Product: Concept and Classification",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "9",
+    chapterName: "Product Mix Strategies",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "10",
+    chapterName: "Brading, Packaging and Labelling",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "11",
+    chapterName: "Product Life Cycle",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "12",
+    chapterName: "New Product Development Process",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "13",
+    chapterName: "Product Pricing",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "14",
+    chapterName: "Distribution Channels",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "15",
+    chapterName: "Marketing Middlemen",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "16",
+    chapterName: "Retailing",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "17",
+    chapterName: "Online Marketing",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "18",
+    chapterName: "Physical Distribution - Logistic",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "19",
+    chapterName: "Promotion Mix",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "20",
+    chapterName: "Advertising",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "21",
+    chapterName: "Personal Selling",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "22",
+    chapterName: "Sales Promotion",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "23",
+    chapterName: "Publicity and Public Relations",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "24",
+    chapterName: "Recent Trends in Marketing",
+    chapterTopics: [
+    ],
+  },
+];
+
+export const bcom3__10MICRO = [
+  {
+    chapterNo: "1",
+    chapterName: "Nature and Scope of Microeconomics",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "2",
+    chapterName: "Demand, Supply and Market Equilibrium",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "3",
+    chapterName: "Elasticity of Demand and Supply",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "4",
+    chapterName: "Applications of Demand and Supply",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "5",
+    chapterName: "Ordinal Utility Theory: Indifference Curve Approach",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "6",
+    chapterName: "Firms as Agents of Production",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "7",
+    chapterName: "Procution Function and Laws of Production",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "8",
+    chapterName: "Isoquant Curves and Producer's Equilibrium",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "9",
+    chapterName: "Theory of Costs",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "10",
+    chapterName: "Concepts of Revenue",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "11",
+    chapterName: "Price Determination Under Perfect Competition",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "12",
+    chapterName: "Equilibrium of Firm and Industry Under Perfect Competition",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "13",
+    chapterName: "Monopoly",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "14",
+    chapterName: "Monopolistic Competition",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "15",
+    chapterName: "Oligopoly",
+    chapterTopics: [
+    ],
+  },
+  {
+    chapterNo: "16",
+    chapterName: "Income Distribution and Factor Pricing",
+    chapterTopics: [
+    ],
+  },
+];
+
+
